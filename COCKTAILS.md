@@ -8,10 +8,10 @@ Old Fashioned Glass    						<= Glass Type
 
 _Build in glass, drizzle Crème de Mure_  	<= Mix Method
 
-- 40ml London Dry Gin 					<= Ingredients
-- 25ml Lemon juice
-- 10ml Gomme
-- 15ml Crème de Mure
++ 40ml London Dry Gin 					<= Ingredients
++ 25ml Lemon juice
++ 10ml Gomme
++ 15ml Crème de Mure
 
 Lemon slice and raspberry				<= Garnish	
 
@@ -24,9 +24,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-- 4 parts Dry Gin
-- 1 part Orange Juice
-- 1 splash Vermouth
++ 4 parts Dry Gin
++ 1 part Orange Juice
++ 1 splash Vermouth
 
 Orange peel
 
@@ -36,10 +36,10 @@ Coupette Glass
 
 _Shake hard and fine strain_
 
-- 50ml Amaretto liqueur
-- 25ml Fresh Lemon Juice
-- 5ml Sugar Gomme
-- Optional - Egg white
++ 50ml Amaretto liqueur
++ 25ml Fresh Lemon Juice
++ 5ml Sugar Gomme
++ Optional - Egg white
 
 Lemon Zest
 
@@ -52,9 +52,9 @@ Old Fashioned Glass
 
 _Pour over glass into ice_
 
-- 25ml Italian Sweet Vermouth
-- 25ml Campari
-- 50ml Soda
++ 25ml Italian Sweet Vermouth
++ 25ml Campari
++ 50ml Soda
 
 Lemon Zest and orange slice
 
@@ -67,8 +67,8 @@ Old Fashioned Glass
 
 _Build in glass_
 
-- 25ml Aperol
-- 75ml Prosecco/Sparkling Wine
++ 25ml Aperol
++ 75ml Prosecco/Sparkling Wine
 
 Orange Twist
 
@@ -80,8 +80,8 @@ Cocktail glass
 
 _Shake hard and fine strain_
 
-- 50ml Calvados
-- 50ml Sweet Vermouth
++ 50ml Calvados
++ 50ml Sweet Vermouth
 
 Apple fan
 
@@ -94,10 +94,10 @@ Cocktail Glass
 
 _Shake hard, fine strain_
 
-- 50ml London dry gin
-- 25ml Lemon juice
-- 15ml Maraschino Liqueur
-- 10ml Crème de Violette
++ 50ml London dry gin
++ 25ml Lemon juice
++ 15ml Maraschino Liqueur
++ 10ml Crème de Violette
 
 Lemon Zest
 
@@ -110,9 +110,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml Bacardi rum
-- 25ml Lime juice
-- 10ml Grenadine
++ 50ml Bacardi rum
++ 25ml Lime juice
++ 10ml Grenadine
 
 None
 
@@ -125,8 +125,8 @@ Sparkling Wine Glass
 
 _Build in glass_
 
-- 50ml white peach puree
-- Top with Prosecco
++ 50ml white peach puree
++ Top with Prosecco
 
 None
 
@@ -139,9 +139,9 @@ Old Fashioned Glass
 
 _Build in glass_
 
-- 50ml Bacon Washed Bourbon
-- 5ml Maple Syrup
-- Two Dashes Angostura Bitters
++ 50ml Bacon Washed Bourbon
++ 5ml Maple Syrup
++ Two Dashes Angostura Bitters
 
 Orange Twist
 
@@ -154,10 +154,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 25ml White Rum
-- 25ml Cognac
-- 25ml Cointreau
-- 5ml Gomme
++ 25ml White Rum
++ 25ml Cognac
++ 25ml Cointreau
++ 5ml Gomme
 
 Lemon twist
 
@@ -170,8 +170,8 @@ Old Fashioned Glass
 
 _Build in glass_
 
-- 50ml Vodka
-- 25ml coffee liqueur
++ 50ml Vodka
++ 25ml coffee liqueur
 
 
 -----------------
@@ -182,8 +182,8 @@ Sparkling Wine Glass
 
 _Pour slowly and stir_
 
-- 100ml Guiness stout
-- Top with Champagne
++ 100ml Guiness stout
++ Top with Champagne
 
 None
 
@@ -196,10 +196,10 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-- 20ml Scotch whisky
-- 20ml Cherry Brandy
-- 20ml Sweet Vermouth
-- 20ml Orange Juice
++ 20ml Scotch whisky
++ 20ml Cherry Brandy
++ 20ml Sweet Vermouth
++ 20ml Orange Juice
 
 Orange Zest
 
@@ -215,13 +215,13 @@ Collins Glass
 
 _Roll ingredients, strain into glass_
 
-- 50ml Vodka
-- 20ml Lemon Juice
-- Black Pepper
-- Celery Salt
-- Tabasco (to taste)
-- Worcestershire sauce (to taste)
-- Tomato juice
++ 50ml Vodka
++ 20ml Lemon Juice
++ Black Pepper
++ Celery Salt
++ Tabasco (to taste)
++ Worcestershire sauce (to taste)
++ Tomato juice
 
 Salt/Pepper rim, celery stick
 
@@ -234,10 +234,10 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-- 50ml dry Gin
-- 25ml fresh Lemon juice
-- 20ml Creme Yvette or Creme de Violette
-- Optional 10ml egg white
++ 50ml dry Gin
++ 25ml fresh Lemon juice
++ 20ml Creme Yvette or Creme de Violette
++ Optional 10ml egg white
 
 Raspberry
 
@@ -250,10 +250,10 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-- 75ml Rye Whiskey
-- 30ml Dry Vermouth
-- 15ml Grand Marnier
-- 2 dashes Orange Bitters
++ 75ml Rye Whiskey
++ 30ml Dry Vermouth
++ 15ml Grand Marnier
++ 2 dashes Orange Bitters
 
 Orange twist & cherry
 
@@ -266,9 +266,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml Scotch Whisky
-- 25ml Sweet Vermouth
-- 10ml Benedictine D.O.M
++ 50ml Scotch Whisky
++ 25ml Sweet Vermouth
++ 10ml Benedictine D.O.M
 
 Lemon Twist
 
@@ -281,10 +281,10 @@ Old Fashioned Glass
 
 _Build in glass, drizzle Crème de Mure_
 
-- 40ml London Dry Gin
-- 25ml Lemon juice
-- 10ml Gomme
-- 15ml Crème de Mure
++ 40ml London Dry Gin
++ 25ml Lemon juice
++ 10ml Gomme
++ 15ml Crème de Mure
 
 Lemon slice and raspberry
 
@@ -297,9 +297,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 25ml Brandy
-- 25ml Creme de Cacao
-- 25ml Cream
++ 25ml Brandy
++ 25ml Creme de Cacao
++ 25ml Cream
 
 Grated nutmeg
 
@@ -312,10 +312,10 @@ Collins Glass
 
 _Shake hard and fine strain_
 
-- 50ml Brandy
-- 20ml Sugar syrup
-- 10ml Cream
-- Whole egg
++ 50ml Brandy
++ 20ml Sugar syrup
++ 10ml Cream
++ Whole egg
 
 Grated nutmeg
 
@@ -328,10 +328,10 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-- 50ml Gin
-- 12.5ml Triple Sec liqueur
-- 12.5ml Lemon juice
-- 1 spoon Orange Marmalade
++ 50ml Gin
++ 12.5ml Triple Sec liqueur
++ 12.5ml Lemon juice
++ 1 spoon Orange Marmalade
 
 Orange twist
 
@@ -346,11 +346,11 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml Dry Gin
-- 25ml Dry Vermouth
-- 25ml Sweet Vermouth
-- 30ml Orange juice
-- 2 dash Angostura bitters for an Income Tax Cocktail
++ 50ml Dry Gin
++ 25ml Dry Vermouth
++ 25ml Sweet Vermouth
++ 30ml Orange juice
++ 2 dash Angostura bitters for an Income Tax Cocktail
 
 Orange twist
 
@@ -363,11 +363,11 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-- 75ml Bourbon
-- 10ml Maraschino liqueur
-- 15ml Dry Vermouth
-- 15ml Sweet Vermouth
-- 3 dash Angostura Bitters
++ 75ml Bourbon
++ 10ml Maraschino liqueur
++ 15ml Dry Vermouth
++ 15ml Sweet Vermouth
++ 3 dash Angostura Bitters
 
 Maraschino cherry
 
@@ -380,10 +380,10 @@ Old Fashioned Glass
 
 _Muddle in glass. Fill with crushed ice_
 
-- 50ml Cachaca (use Vodka for Caipiroska)
-- 4 Lime wedges
-- 15ml sugar syrup OR
-- Heaped bar spoon sugar
++ 50ml Cachaca (use Vodka for Caipiroska)
++ 4 Lime wedges
++ 15ml sugar syrup OR
++ Heaped bar spoon sugar
 
 Lime wedge
 
@@ -396,9 +396,9 @@ Collins Glass
 
 _Build in glass_
 
-- 50ml Vodka
-- 10ml fresh Lime juice
-- Top with cranberry juice
++ 50ml Vodka
++ 10ml fresh Lime juice
++ Top with cranberry juice
 
 Lime wedge
 
@@ -411,9 +411,9 @@ Sparkling Wine Glass
 
 _Build in glass_
 
-- Sugar cube soaked with Angostura bitters
-- 25ml Cognac
-- Top with Champagne
++ Sugar cube soaked with Angostura bitters
++ 25ml Cognac
++ Top with Champagne
 
 Orange zest
 
@@ -426,11 +426,11 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 40ml Cognac
-- 12.5ml Green Chartreuse
-- 12.5ml Fresh Lemon Juice
-- 5ml Simple Syrup
-- 2 Dashes Angostura Bitters
++ 40ml Cognac
++ 12.5ml Green Chartreuse
++ 12.5ml Fresh Lemon Juice
++ 5ml Simple Syrup
++ 2 Dashes Angostura Bitters
 
 Lemon zest
 
@@ -443,10 +443,10 @@ Cocktail Glass
 
 _Dry shake, wet shake, fine strain_
 
-- 50ml dry Gin
-- 25ml Lemon juice
-- 10ml Raspberry syrup
-- 10ml Egg white
++ 50ml dry Gin
++ 25ml Lemon juice
++ 10ml Raspberry syrup
++ 10ml Egg white
 
 None
 
@@ -459,9 +459,9 @@ Collins Glass
 
 _Shake hard and strain over crushed ice_
 
-- 40ml Brandy
-- 25ml Sugar syrup
-- 70ml Red wine
++ 40ml Brandy
++ 25ml Sugar syrup
++ 70ml Red wine
 
 Mint sprig
 
@@ -474,9 +474,9 @@ Old Fashioned Glass
 
 _Stir and strain into ice filled glass_
 
-- 50ml Gold Rum
-- 10ml Velvet Falernum
-- 2 Dashes Angostura Bitters
++ 50ml Gold Rum
++ 10ml Velvet Falernum
++ 2 Dashes Angostura Bitters
 
 Lime Slice
 
@@ -489,11 +489,11 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 25ml dry Gin
-- 25ml Triple sec
-- 25ml Dry Vermouth
-- 25ml Lemon juice
-- 5ml Absinthe
++ 25ml dry Gin
++ 25ml Triple sec
++ 25ml Dry Vermouth
++ 25ml Lemon juice
++ 5ml Absinthe
 
 Lemon zest
 
@@ -506,11 +506,11 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 40ml Lemon Vodka (use Tequila for a Rude Cosmo)
-- 20ml Triple sec
-- 15ml Lime juice
-- 30ml Cranberry juice
-- Dash Orange bitters
++ 40ml Lemon Vodka (use Tequila for a Rude Cosmo)
++ 20ml Triple sec
++ 15ml Lime juice
++ 30ml Cranberry juice
++ Dash Orange bitters
 
 Flamed Orange zest
 
@@ -523,10 +523,10 @@ Collins Glass
 
 _Shake hard and strain_
 
-- 50ml Base Spirit
-- 12.5ml Lemon juice
-- 5ml Gomme
-- 1 dash Angostura Bitters
++ 50ml Base Spirit
++ 12.5ml Lemon juice
++ 5ml Gomme
++ 1 dash Angostura Bitters
 
 Crusted caster sugar rim and fruit band in top of glass
 
@@ -541,9 +541,9 @@ Collins Glass
 
 _Build in glass_
 
-- 50ml Cuban style rum
-- 15ml Lime juice
-- Top with Coca Cola
++ 50ml Cuban style rum
++ 15ml Lime juice
++ Top with Coca Cola
 
 Lime wedge
 
@@ -556,9 +556,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml Rum
-- 25ml Lime juice
-- 15ml Sugar Syrup
++ 50ml Rum
++ 25ml Lime juice
++ 15ml Sugar Syrup
 
 None
 
@@ -570,9 +570,9 @@ Collins Glass
 
 _Shake first ingredients, top with soda_
 
-- 50ml Base spirit (Vodka, gin etc)
-- 25ml Lemon juice
-- 10ml Grenadine syrup
++ 50ml Base spirit (Vodka, gin etc)
++ 25ml Lemon juice
++ 10ml Grenadine syrup
 
 Lime wedge
 
@@ -585,9 +585,9 @@ Collins Glass
 
 _Build in glass_
 
-- 50ml Goslings Black seal Rum
-- 25ml Lime juice
-- Top with Ginger beer
++ 50ml Goslings Black seal Rum
++ 25ml Lime juice
++ Top with Ginger beer
 
 Lime wedge
 
@@ -600,10 +600,10 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-- 50ml Dry Vermouth
-- 25ml Sweet Vermouth
-- 5ml Maraschino liqueur
-- 2 dash Orange Bitters
++ 50ml Dry Vermouth
++ 25ml Sweet Vermouth
++ 5ml Maraschino liqueur
++ 2 dash Orange Bitters
 
 Orange Twist
 
@@ -616,11 +616,11 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 75ml Cognac
-- 5ml Grand Marnier
-- 5ml Maraschino liqueur
-- 5ml Grenadine
-- 1 dash Angostura Bitters
++ 75ml Cognac
++ 5ml Grand Marnier
++ 5ml Maraschino liqueur
++ 5ml Grenadine
++ 1 dash Angostura Bitters
 
 Orange Twist
 
@@ -633,10 +633,10 @@ Cocktail Glass
 
 _Dry Shake, wet-shake hard and fine strain_
 
-- 50ml Earl Grey Tea infused Gin
-- 25ml Fresh Lemon Juice
-- 10ml Sugar Syrup
-- 10ml Egg White
++ 50ml Earl Grey Tea infused Gin
++ 25ml Fresh Lemon Juice
++ 10ml Sugar Syrup
++ 10ml Egg White
 
 Lemon Zest
 
@@ -649,10 +649,10 @@ Collins Glass
 
 _Shake first ingredients then top ginger beer_
 
-- 50ml Tequila
-- 25ml Lime juice
-- 20ml Creme de Cassis
-- Top with Ginger beer
++ 50ml Tequila
++ 25ml Lime juice
++ 20ml Creme de Cassis
++ Top with Ginger beer
 
 Lime wedge
 
@@ -665,10 +665,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml Rum
-- 25ml Lime juice
-- 10ml gomme
-- 10ml Maraschino liqueur
++ 50ml Rum
++ 25ml Lime juice
++ 10ml gomme
++ 10ml Maraschino liqueur
 
 None
 
@@ -680,10 +680,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml white Rum
-- 25ml Pineapple juice
-- 20ml Lime juice
-- 10ml Grenadine
++ 50ml white Rum
++ 25ml Pineapple juice
++ 20ml Lime juice
++ 10ml Grenadine
 
 Lime wedge
 
@@ -696,9 +696,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 25ml Vodka
-- 25ml Coffee Liqueur
-- 25ml Chilled espresso
++ 25ml Vodka
++ 25ml Coffee Liqueur
++ 25ml Chilled espresso
 
 3 coffee beans
 
@@ -713,12 +713,12 @@ _Shake hard and fine strain_
 
 _Shake hard and fine strain_
 
-- 25ml Brandy
-- 25ml Gold Rum
-- 20ml Peach liqueur
-- 20ml Lemon juice
-- 10ml Gomme
-- Top Soda
++ 25ml Brandy
++ 25ml Gold Rum
++ 20ml Peach liqueur
++ 20ml Lemon juice
++ 10ml Gomme
++ Top Soda
 
 Grated nutmeg and lemon slice
 
@@ -731,10 +731,10 @@ Collins Glass
 
 _Shake hard and strain_
 
-- 50ml Base spirit
-- 25ml Lemon juice
-- 25ml Sweet fruit juice
-- 10ml Gomme syrup
++ 50ml Base spirit
++ 25ml Lemon juice
++ 25ml Sweet fruit juice
++ 10ml Gomme syrup
 
 Use fruit from recipe
 
@@ -750,10 +750,10 @@ Sparkling Wine Glass
 
 _Shake first ingredients, top sparkling wine_
 
-- 35ml Gin
-- 15ml Lemon juice
-- 5ml gomme
-- Top with Sparkling wine
++ 35ml Gin
++ 15ml Lemon juice
++ 5ml gomme
++ Top with Sparkling wine
 
 Lemon zest
 
@@ -766,8 +766,8 @@ Old Fashioned Glass
 
 _Build in glass_
 
-- 35ml Cognac
-- 35ml Amaretto liqueur
++ 35ml Cognac
++ 35ml Amaretto liqueur
 
 None
 
@@ -779,9 +779,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 40ml Vodka
-- 15ml Chambord liqueur
-- 40ml Pineapple juice
++ 40ml Vodka
++ 15ml Chambord liqueur
++ 40ml Pineapple juice
 
 None
 
@@ -793,8 +793,8 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-- 50ml Gin
-- 20ml Roses Lime cordial
++ 50ml Gin
++ 20ml Roses Lime cordial
 
 Lime wedge
 
@@ -807,10 +807,10 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-- 75ml Gin
-- 5ml Triple Sec
-- 5ml Gomme
-- 2 dash Angostura Bitters
++ 75ml Gin
++ 5ml Triple Sec
++ 5ml Gomme
++ 2 dash Angostura Bitters
 
 Lemon Zest
 
@@ -823,10 +823,10 @@ Collins Glass
 
 _Muddle ginger then add and shake base ingredients. Top with Ginger Beer_
 
-- 50ml Gin
-- 15ml Fresh Lime Juice
-- 10ml Sugar Syrup
-- 2 thin slices root Ginger
++ 50ml Gin
++ 15ml Fresh Lime Juice
++ 10ml Sugar Syrup
++ 2 thin slices root Ginger
 
 Lime Wedge
 
@@ -839,9 +839,9 @@ Collins Glass
 
 _Build in glass_
 
-- 50ml Gin
-- 25ml Lime juice
-- Top with soda
++ 50ml Gin
++ 25ml Lime juice
++ Top with soda
 
 Lime wedge
 
@@ -856,8 +856,8 @@ Substitute whisky with vodka for Godmother
 
 _Build in glass_
 
-- 35ml Cognac
-- 35ml Scotch whisky
++ 35ml Cognac
++ 35ml Scotch whisky
 
 None
 
@@ -869,9 +869,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 25ml White Creme de Cacao
-- 25ml Creme de Menthe
-- 25ml Cream
++ 25ml White Creme de Cacao
++ 25ml Creme de Menthe
++ 25ml Cream
 
 Shaved Chocolate
 
@@ -885,10 +885,10 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-- 50ml Dry Gin
-- 50ml Sweet Vermouth
-- 5ml Fernet Branca
-- 10ml Orange juice
++ 50ml Dry Gin
++ 50ml Sweet Vermouth
++ 5ml Fernet Branca
++ 10ml Orange juice
 
 Orange twist
 
@@ -901,10 +901,10 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-- 40ml Cognac
-- 50ml Sweet Vermouth
-- 2 dash Orange bitters (optional)
-- Top soda
++ 40ml Cognac
++ 50ml Sweet Vermouth
++ 2 dash Orange bitters (optional)
++ Top soda
 
 Lemon twist
 
@@ -917,9 +917,9 @@ Collins Glass
 
 _Build in glass_
 
-- 50ml Vodka
-- 25ml Galliano liqueur
-- Top with Orange juice
++ 50ml Vodka
++ 25ml Galliano liqueur
++ Top with Orange juice
 
 Orange Slice
 
@@ -932,11 +932,11 @@ Cocktail Glass Glass
 
 _Build in glass_
 
-- 50ml Light Rum
-- 25ml Fresh Lime Juice
-- 10ml Maraschino liqueur
-- 10ml Grapefruit Juice
-- Optional: Simple Syrup to taste
++ 50ml Light Rum
++ 25ml Fresh Lime Juice
++ 10ml Maraschino liqueur
++ 10ml Grapefruit Juice
++ Optional: Simple Syrup to taste
 
 Orange Slice
 
@@ -949,13 +949,13 @@ Hurricane Glass/Collins Glass
 
 _Shake hard and strain_
 
-- 25ml Light Rum
-- 25ml Dark Rum
-- 25ml Orange Juice
-- 25ml Pineapple Juice
-- 15ml Fresh Lime juice
-- 10ml Roses Lime cordial
-- 10ml Passion fruit syrup
++ 25ml Light Rum
++ 25ml Dark Rum
++ 25ml Orange Juice
++ 25ml Pineapple Juice
++ 15ml Fresh Lime juice
++ 10ml Roses Lime cordial
++ 10ml Passion fruit syrup
 
 Lime wedge and cherry
 
@@ -968,9 +968,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml Calvados
-- 15ml Fresh Lemon Juice
-- 10ml Grenadine Syrup
++ 50ml Calvados
++ 15ml Fresh Lemon Juice
++ 10ml Grenadine Syrup
 
 Lemon Wedge
 
@@ -983,9 +983,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 25ml Midori Melon liqueur
-- 25ml Cointreau liqueur
-- 25ml fresh Lemon juice
++ 25ml Midori Melon liqueur
++ 25ml Cointreau liqueur
++ 25ml fresh Lemon juice
 
 Melon slice
 
@@ -998,12 +998,12 @@ Collins Glass
 
 _Shake hard and strain_
 
-- 25ml Vodka
-- 25ml fresh Lime juice
-- 15ml Midori Melon Liqueur
-- 15ml Malibu coconut rum
-- 15ml Crème de banane
-- 75ml Pineapple juice
++ 25ml Vodka
++ 25ml fresh Lime juice
++ 15ml Midori Melon Liqueur
++ 15ml Malibu coconut rum
++ 15ml Crème de banane
++ 75ml Pineapple juice
 
 Lime wedge
 
@@ -1016,9 +1016,9 @@ Cocktail Glass/Old Fashioned Glass
 
 _Shake hard and fine strain_
 
-- 25ml Vodka
-- 25ml Cointreau liqueur
-- 25ml fresh Lime juice
++ 25ml Vodka
++ 25ml Cointreau liqueur
++ 25ml fresh Lime juice
 
 Lime wedge
 
@@ -1031,8 +1031,8 @@ Sparkling Wine Glass
 
 _Build in glass_
 
-- 10ml Crème de Cassis
-- Top with Champagne
++ 10ml Crème de Cassis
++ Top with Champagne
 
 None
 
@@ -1044,10 +1044,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 25ml Dry Gin
-- 25ml Green Chartreuse
-- 25ml Maraschio cherry liquer
-- 25ml Fresh Lime juice
++ 25ml Dry Gin
++ 25ml Green Chartreuse
++ 25ml Maraschio cherry liquer
++ 25ml Fresh Lime juice
 
 Lime wedge
 
@@ -1060,9 +1060,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml lemon Vodka
-- 25ml fresh Lemon juice
-- 10ml gomme syrup
++ 50ml lemon Vodka
++ 25ml fresh Lemon juice
++ 10ml gomme syrup
 
 Lemon twist
 
@@ -1075,13 +1075,13 @@ Collins/Sling Glass
 
 _Build in glass, or shake first ingredients and top with Coke_
 
-- 12.5ml Vodka
-- 12.5ml Dry Gin
-- 12.5ml Light Rum
-- 12.5ml Blanco Tequila
-- 12.5ml Triple Sec
-- 25ml fresh Lemon Juice
-- Top Coca Cola
++ 12.5ml Vodka
++ 12.5ml Dry Gin
++ 12.5ml Light Rum
++ 12.5ml Blanco Tequila
++ 12.5ml Triple Sec
++ 25ml fresh Lemon Juice
++ Top Coca Cola
 
 Lemon Wedge
 
@@ -1094,10 +1094,10 @@ Collins Glass
 
 _Build in glass_
 
-- 40ml Jack Daniels
-- 20ml Triple Sec
-- 20ml fresh Lemon juice
-- Top Lemonade
++ 40ml Jack Daniels
++ 20ml Triple Sec
++ 20ml fresh Lemon juice
++ Top Lemonade
 
 Lemon wedge
 
@@ -1111,11 +1111,11 @@ Old Fashioned Glass
 
 _Shake hard and strain over crushed ice_
 
-- 25ml Light Rum (Jamaican)
-- 25ml Dark Rum (Jamaican)
-- 25ml fresh Lime juice
-- 15ml Triple sec
-- 10ml Orgeat (almond) syrup
++ 25ml Light Rum (Jamaican)
++ 25ml Dark Rum (Jamaican)
++ 25ml fresh Lime juice
++ 15ml Triple sec
++ 10ml Orgeat (almond) syrup
 
 Lime wedge and cherry
 
@@ -1129,14 +1129,14 @@ Cocktail/Old Fashioned Glass
 
 _Stir in mixing glass and strain_
 
-- 50ml Rye or Bourbon Whiskey
-- 2 Dashes Angustora Bitters
++ 50ml Rye or Bourbon Whiskey
++ 2 Dashes Angustora Bitters
 
 Plus:
 
-- Sweet: 15ml Sweet Vermouth
-- Dry: 15ml Dry Vermouth
-- Perfect: 10ml each Dry/Sweet Vermouth
++ Sweet: 15ml Sweet Vermouth
++ Dry: 15ml Dry Vermouth
++ Perfect: 10ml each Dry/Sweet Vermouth
 
 Sweet: Maraschino cherry
 
@@ -1153,9 +1153,9 @@ Cocktail/Old Fashioned Glass
 
 _Shake hard and fine strain_
 
-- 40ml Tequila
-- 25ml Triple Sec
-- 20ml fresh Lime juice
++ 40ml Tequila
++ 25ml Triple Sec
++ 20ml fresh Lime juice
 
 Lime wedge
 
@@ -1168,10 +1168,10 @@ Cocktail Glass
 
 _Stir in mixing glass and strain_
 
-- 50ml Old Tom Gin
-- 25ml Sweet Vermouth
-- 5ml Maraschino
-- Dash Angostura Bitters
++ 50ml Old Tom Gin
++ 25ml Sweet Vermouth
++ 5ml Maraschino
++ Dash Angostura Bitters
 
 Lemon twist
 
@@ -1187,9 +1187,9 @@ Cocktail Glass
 
 _Stir in mixing glass and strain_
 
-- 50ml dry Gin
-- 15ml Dry Vermouth
-- (Optional) Dash of Orange Bitters
++ 50ml dry Gin
++ 15ml Dry Vermouth
++ (Optional) Dash of Orange Bitters
 
 Lemon twist or olive
 
@@ -1202,10 +1202,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml white Rum
-- 25ml Pineapple juice
-- 5ml Maraschino liqueur
-- 5ml Grenadine syrup
++ 50ml white Rum
++ 25ml Pineapple juice
++ 5ml Maraschino liqueur
++ 5ml Grenadine syrup
 
 None
 
@@ -1217,10 +1217,10 @@ Collins Glass
 
 _Lightly muddle ingredients except Bourbon in mixing glass. Strain into glass half filled with crushed ice, add Bourbon, churn and refill with ice until full_
 
-- 50ml Bourbon
-- 10-12 fresh Mint leaves
-- 10ml gomme syrup
-- 3 dashes Angostura bitters
++ 50ml Bourbon
++ 10-12 fresh Mint leaves
++ 10ml gomme syrup
++ 3 dashes Angostura bitters
 
 Mint sprig
 
@@ -1235,11 +1235,11 @@ Collins Glass
 
 _Slap mint, add other ingredients, churn with crushed ice_
 
-- 50ml Cuban style Rum
-- 25ml fresh Lime juice
-- 15ml gomme syrup
-- Approx 8-12 fresh mint leaves
-- Top soda water
++ 50ml Cuban style Rum
++ 25ml fresh Lime juice
++ 15ml gomme syrup
++ Approx 8-12 fresh mint leaves
++ Top soda water
 
 Lime wedge and mint sprig
 
@@ -1252,10 +1252,10 @@ Collins Glass
 
 _Build in glass_
 
-- 50ml Vodka
-- 25ml fresh Lime juice
-- Top with Ginger beer
-- Optional: Dash Angustora bitters
++ 50ml Vodka
++ 25ml fresh Lime juice
++ Top with Ginger beer
++ Optional: Dash Angustora bitters
 
 Lime wedge
 
@@ -1268,9 +1268,9 @@ Old Fashioned Glass
 
 _Stir in mixing glass, strain_
 
-- 25ml Dry Gin
-- 25ml Sweet Vermouth
-- 25ml Campari
++ 25ml Dry Gin
++ 25ml Sweet Vermouth
++ 25ml Campari
 
 Orange twist or orange wedge
 
@@ -1283,10 +1283,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml Bourbon
-- 25ml Red wine
-- 12.5ml Lemon juice
-- 10ml Gomme syrup
++ 50ml Bourbon
++ 25ml Red wine
++ 12.5ml Lemon juice
++ 10ml Gomme syrup
 
 Grated nutmeg
 
@@ -1299,10 +1299,10 @@ Cocktail Glass
 
 _Shake hard and strain_
 
-- 25ml Overproof Rum
-- 20ml green Chartreuse
-- 25ml Lime juice
-- 10ml Velvet Falernum
++ 25ml Overproof Rum
++ 20ml green Chartreuse
++ 25ml Lime juice
++ 10ml Velvet Falernum
 
 Lime wedge
 
@@ -1318,9 +1318,9 @@ Old Fashioned Glass
 _Add ingredients slowly, stiring until ice melts and then adding more ice_
 _Stir in glass_
 
-- 50ml Bourbon or Rye
-- 5ml gomme syrup
-- 3 dashes Angustora bitters
++ 50ml Bourbon or Rye
++ 5ml gomme syrup
++ 3 dashes Angustora bitters
 
 Orange twist
 
@@ -1333,10 +1333,10 @@ Collins Glass
 
 _Shake hard and strain_
 
-- 50ml Pussers Navy Rum
-- 75ml Pineapple juice
-- 25ml Orange Juice
-- 20ml Coconut cream
++ 50ml Pussers Navy Rum
++ 75ml Pineapple juice
++ 25ml Orange Juice
++ 20ml Coconut cream
 
 Grated nutmeg
 
@@ -1349,10 +1349,10 @@ Collins Glass
 
 _Shake first ingredients_
 
-- 50ml Tequila
-- 15ml Lime juice
-- 50ml grapefruit juice
-- Top ‘Ting’ grapefruit soda
++ 50ml Tequila
++ 15ml Lime juice
++ 50ml grapefruit juice
++ Top ‘Ting’ grapefruit soda
 
 Lime wedge, salt rim
 
@@ -1365,10 +1365,10 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-- 35ml Gin
-- 20ml Apricot Brandy
-- 15ml Orange juice
-- 15ml fresh Lemon juice
++ 35ml Gin
++ 20ml Apricot Brandy
++ 15ml Orange juice
++ 15ml fresh Lemon juice
 
 None
 
@@ -1381,11 +1381,11 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml dry Gin
-- 25ml Triple sec
-- 15ml fresh Lime juice
-- Dash Angustora bitters
-- Dash Orange bitters
++ 50ml dry Gin
++ 25ml Triple sec
++ 15ml fresh Lime juice
++ Dash Angustora bitters
++ Dash Orange bitters
 
 None
 
@@ -1398,11 +1398,11 @@ Old Fashioned Glass
 
 _Shake hard and strain_
 
-- 50ml Scotch Whisky
-- 10ml Islay Whisky
-- 25ml fresh Lemon juice
-- 10ml Honey syrup
-- 5ml Ginger juice
++ 50ml Scotch Whisky
++ 10ml Islay Whisky
++ 25ml fresh Lemon juice
++ 10ml Honey syrup
++ 5ml Ginger juice
 
 None
 
@@ -1415,12 +1415,12 @@ Collins Glass
 
 _Shake and strain_
 
-- 25ml light Rum
-- 25ml Coconut rum
-- 10ml fresh lime juice
-- 15ml Coconut cream
-- 10ml Cream
-- 75ml Pineapple juice
++ 25ml light Rum
++ 25ml Coconut rum
++ 10ml fresh lime juice
++ 15ml Coconut cream
++ 10ml Cream
++ 75ml Pineapple juice
 
 Lime wedge ad pineapple slice
 
@@ -1433,10 +1433,10 @@ Coupette
 
 _Dry Shake, wet shake and strain_
 
-- 50ml Pisco
-- 25ml Fresh Lemon Juice
-- 10ml Sugar Syrup
-- 10ml Egg White
++ 50ml Pisco
++ 25ml Fresh Lemon Juice
++ 10ml Sugar Syrup
++ 10ml Egg White
 
 None
 
@@ -1449,11 +1449,11 @@ Collins Glass
 
 _Shake, top with Soda_
 
-- 50ml Jamaican Rum
-- 25ml Fresh Lime Juice
-- 10ml Sugar Syrup
-- 3 Dashes Angostura Bitters
-- Top Soda
++ 50ml Jamaican Rum
++ 25ml Fresh Lime Juice
++ 10ml Sugar Syrup
++ 3 Dashes Angostura Bitters
++ Top Soda
 
 Lime Wedge
 
@@ -1466,9 +1466,9 @@ Collins Glass
 
 _Fill glass with crushed ice, add ingredients, stir hard with swizzle stick_
 
-- 50ml Rum
-- 25ml fresh Lime
-- 10ml gomme
++ 50ml Rum
++ 25ml fresh Lime
++ 10ml gomme
 
 Lime wedge and mint leaf
 
@@ -1481,11 +1481,11 @@ Collins Glass
 
 _Build in glass_
 
-- 50ml Vodka
-- 25ml fresh Lemon juice
-- 10ml gomme syrup
-- 15ml Creme de Cassis
-- Top Sparkling wine
++ 50ml Vodka
++ 25ml fresh Lemon juice
++ 10ml gomme syrup
++ 15ml Creme de Cassis
++ Top Sparkling wine
 
 Lemon wedge and raspberries
 
@@ -1498,8 +1498,8 @@ Old Fashioned Glass
 
 _Stir in glass_
 
-- 50ml Scotch whisky
-- 25ml Drambuie liqueur
++ 50ml Scotch whisky
++ 25ml Drambuie liqueur
 
 Lemon twist
 
@@ -1512,9 +1512,9 @@ Old Fashioned Glass
 
 _Stir in mixing glass, strain into Absinthe rinsed glass (no ice)_
 
-- 60ml Rye whiskey or Cognac
-- 10ml gomme syrup
-- Dash Paychards Bitters
++ 60ml Rye whiskey or Cognac
++ 10ml gomme syrup
++ Dash Paychards Bitters
 
 Lemon twist
 
@@ -1527,11 +1527,11 @@ Collins Glass
 
 _Shake and strain_
 
-- 25ml Vodka
-- 15ml Baileys Irish Cream liqueur
-- 15ml Coffee liqueur
-- 15ml Amaretto liqueur
-- 75ml Milk or half n half
++ 25ml Vodka
++ 15ml Baileys Irish Cream liqueur
++ 15ml Coffee liqueur
++ 15ml Amaretto liqueur
++ 75ml Milk or half n half
 
 Orange Slice
 
@@ -1546,10 +1546,10 @@ Collins Glass
 
 _Shake and strain_
 
-- 25ml Vodka
-- 25ml Peach liqueur
-- 40ml Orange Juice
-- 40ml Cranberry juice
++ 25ml Vodka
++ 25ml Peach liqueur
++ 40ml Orange Juice
++ 40ml Cranberry juice
 
 Orange slice
 
@@ -1562,9 +1562,9 @@ Cocktail Glass
 
 _Shake hard and strain_
 
-- 50ml Cognac
-- 25ml Triple Sec
-- 20ml fresh Lemon juice
++ 50ml Cognac
++ 25ml Triple Sec
++ 20ml fresh Lemon juice
 
 ½ Sugar rim on glass (your choice)
 
@@ -1578,12 +1578,12 @@ Sling Glass/Collins Glass
 
 _Shake first ingredients, top with soda, drizzle Cherry Brandy on top_
 
-- 50ml dry Gin
-- 25ml Lemon juice
-- 10ml gomme syrup
-- 10ml cherry brandy
-- 10ml Benedictine liqueur
-- Dash Angustora bitters
++ 50ml dry Gin
++ 25ml Lemon juice
++ 10ml gomme syrup
++ 10ml cherry brandy
++ 10ml Benedictine liqueur
++ Dash Angustora bitters
 
 Lemon slice and cherry
 
@@ -1595,11 +1595,11 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 50ml dry Gin
-- 25ml Lemon juice
-- 10ml Sugar Syrup
-- Small handful of Mint
-- (Optional) Dash Angustora bitters
++ 50ml dry Gin
++ 25ml Lemon juice
++ 10ml Sugar Syrup
++ Small handful of Mint
++ (Optional) Dash Angustora bitters
 
 None
 
@@ -1611,9 +1611,9 @@ Collins Glass
 
 _Build in glass_
 
-- 40ml St-Germain elderflower liqueur
-- 50ml Sauvignon Blanc Wine
-- Top Soda water
++ 40ml St-Germain elderflower liqueur
++ 50ml Sauvignon Blanc Wine
++ Top Soda water
 
 Lime Slice
 
@@ -1625,9 +1625,9 @@ Collins Glass
 
 _Build in glass_
 
-- 50ml Tequila
-- 50ml Orange Juice
-- 10ml Grenadine syrup
++ 50ml Tequila
++ 50ml Orange Juice
++ 10ml Grenadine syrup
 
 Lime wedge or orange slice
 
@@ -1640,10 +1640,10 @@ Collins Glass
 
 _Build in glass_
 
-- 50ml Gin
-- 25ml fresh Lemon juice
-- 15ml Sugar syrup
-- Top Soda water
++ 50ml Gin
++ 25ml fresh Lemon juice
++ 15ml Sugar syrup
++ Top Soda water
 
 Lemon slice
 
@@ -1656,9 +1656,9 @@ Cocktail/Old Fashioned Glass
 
 _Shake and fine strain_
 
-- 50ml Tequila
-- 25ml fresh Lime juice
-- 10ml Agave syrup
++ 50ml Tequila
++ 25ml fresh Lime juice
++ 10ml Agave syrup
 
 Lime wedge
 
@@ -1671,10 +1671,10 @@ Old Fashioned Glass
 
 _Stir in glass, float apple juice_
 
-- 50ml dark Rum
-- 5ml gomme
-- Dash Angostura bitters
-- 15ml Apple juice
++ 50ml dark Rum
++ 5ml gomme
++ Dash Angostura bitters
++ 15ml Apple juice
 
 Orange twist
 
@@ -1687,9 +1687,9 @@ Sparkling Wine Glass
 
 _Build in glass_
 
-- 75ml Vodka
-- 20ml Elderflower liqueur
-- Top sparkling wine
++ 75ml Vodka
++ 20ml Elderflower liqueur
++ Top sparkling wine
 
 Lemon twist
 
@@ -1702,9 +1702,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 75ml Vodka
-- 25ml dry Gin
-- 15ml Lillet
++ 75ml Vodka
++ 25ml dry Gin
++ 15ml Lillet
 
 Lemon twist
 
@@ -1716,11 +1716,11 @@ Old Fashioned Glass
 
 _Stir in glass_
 
-- 25ml Rye Whiskey
-- 25ml Cognac
-- 25ml Sweet Vermouth
-- 1 Dash Benedictine
-- 2 Dashes Angostura
++ 25ml Rye Whiskey
++ 25ml Cognac
++ 25ml Sweet Vermouth
++ 1 Dash Benedictine
++ 2 Dashes Angostura
 
 Orange twist
 
@@ -1734,11 +1734,11 @@ Coupette/Old Fashioned Glass
 
 _Shake hard and fine strain_
 
-- 50ml Whiskey (usually American)
-- 25ml fresh Lemon juice
-- 10ml gomme syrup
-- Optional: Dash Angustora bitters
-- Optional: 10ml egg white
++ 50ml Whiskey (usually American)
++ 25ml fresh Lemon juice
++ 10ml gomme syrup
++ Optional: Dash Angustora bitters
++ Optional: 10ml egg white
 
 Orange twist
 
@@ -1751,10 +1751,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 40ml dry Gin
-- 25ml Triple sec
-- 20ml fresh Lemon juice
-- 10ml egg white
++ 40ml dry Gin
++ 25ml Triple sec
++ 20ml fresh Lemon juice
++ 10ml egg white
 
 Lemon twist
 
@@ -1768,9 +1768,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 25ml Dark Rum
-- 25ml Mozart White Chocolate Liqueur
-- 25ml Milk
++ 25ml Dark Rum
++ 25ml Mozart White Chocolate Liqueur
++ 25ml Milk
 
 Finely grated chocolate
 
@@ -1783,9 +1783,9 @@ Old Fashioned Glass
 
 _Build in glass_
 
-- 25ml Vodka
-- 25ml coffee liqueur (Kahula/Tia Maria)
-- 25ml milk/cream
++ 25ml Vodka
++ 25ml coffee liqueur (Kahula/Tia Maria)
++ 25ml milk/cream
 
 3 coffee beans
 
@@ -1799,14 +1799,14 @@ Collins Glass
 
 _Shake hard and strain_
 
-- 25ml Light Rum
-- 25ml Gold Rum
-- 25ml Dark Rum
-- 12.5ml Apricot Brandy
-- 15ml fresh Lime juice
-- 25ml Pineapple juice
-- 5ml Grenadine syrup
-- Dash Angostura bitters
++ 25ml Light Rum
++ 25ml Gold Rum
++ 25ml Dark Rum
++ 12.5ml Apricot Brandy
++ 15ml fresh Lime juice
++ 25ml Pineapple juice
++ 5ml Grenadine syrup
++ Dash Angostura bitters
 
 Lime wedge
 
