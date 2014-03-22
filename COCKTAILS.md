@@ -18,6 +18,18 @@ Lemon slice and raspberry				<= Garnish
 
 -----------------
 
+#### Abbey Crusta
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+- 4 parts Dry Gin
+- 1 part Orange Juice
+- 1 splash Vermouth
+
+Orange peel
+
 #### Amaretto Sour
 
 Coupette Glass
