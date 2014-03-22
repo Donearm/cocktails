@@ -30,6 +30,42 @@ _Shake and fine strain_
 
 Orange peel
 
+#### Agonie
+
+Cocktail Glass
+
+_Mix Gin and Lemon Juice. Add the Rum_
+
++ 4 parts Dry Gin
++ 1 part white Rum
++ 1 teaspoon Lemon Juice
+
+Lemon Zest
+
+#### Aldo's Fancy
+
+Cocktail Glass
+
+_Mix Cognac and Marsala. Add Maraschino and bitters. Mix, stronger. Pour in a 
+sugar-brimmed glass_
+
++ 4 parts Cognac
++ 1 part Marsala
++ 1 splash Maraschino
++ 2 drops Angostura bitters
+
+#### Alexander
+
+Cocktail Glass
+
+_Shake with half ice. Strain_
+
++ 1 part Gin
++ 1 part Cream
++ 1 part Creme de Cacao
+
+Grated Nutmeg
+
 #### Amaretto Sour
 
 Coupette Glass
