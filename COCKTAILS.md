@@ -1,6 +1,7 @@
 # The Cocktails
 
 ### Example
+>Created by X at Y					<= Notes
 
 **Bramble**		<= Drink Name
 
@@ -14,6 +15,8 @@ _Build in glass, drizzle Crème de Mure_  	<= Mix Method
 + 15ml Crème de Mure
 
 Lemon slice and raspberry				<= Garnish	
+
+>Another version is with Sugar Syrup	<= Variants (if any)
 
 
 -----------------
