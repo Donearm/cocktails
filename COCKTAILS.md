@@ -109,6 +109,32 @@ Lemon Zest and orange slice
 
 -----------------
 
+#### Ananas Cobbler
+
+Highball Glass
+
+_Slowly mix champagne and juice. Pour in a glass filled with finely crushed ice_
+
++ 2 parts Champagne (brut)
++ 1 part Pineapple Juice
+
+Pineapple cubes
+
+
+----------------
+
+#### Aperol Orange
+
+Highball Glass
+
+_Shake and strain_
+
++ 1 part Aperol
++ 3 parts Orange Juice
+
+
+---------------
+
 #### Aperol Spritz      
 
 Old Fashioned Glass
@@ -136,6 +162,21 @@ Apple fan
 
 -----------------
 
+#### Apple Martini (Appletini)
+
+Cocktail Glass
+
+_Shake and strain_
+
++ 3 parts Vodka
++ 1 part Apple Juice or Apple Cider or an Apple Liqueur
++ 1 part Cointreau
+
+Apple slice
+
+
+----------------
+
 #### Aviation
 
 Cocktail Glass
@@ -148,6 +189,21 @@ _Shake hard, fine strain_
 + 10ml Crème de Violette
 
 Lemon Zest
+
+
+-----------------
+
+#### B-52
+
+Shot or Highball Glass
+
+_Layer over a spoon in this order: Kahlua, Baileys, Grand Marnier. No ice._
+
++ 1 part Kahlua
++ 1 part Baileys
++ 1 part Grand Marnier
+
+None
 
 
 -----------------
@@ -166,6 +222,84 @@ None
 
 
 -----------------
+
+#### Bacardi Fizz
+
+Highball Glass
+
+_Shake first all ingredients with half the rum. Then add the rest of the rum and 
+shake again. Strain. Top with Seltz Water._
+
++ 3 parts Rum
++ 1 part Lemon Juice
++ 1 Egg Albumen
++ 1 teaspoon Sugar Syrup
+
+None
+
+
+--------------
+
+#### Baggage
+
+Cocktail Glass
+
+_Shake and strain_
+
++ 2 parts Yellow Rum
++ 2 parts Cognac
++ 1 part Orange Juice
++ 1 tablespoon Yellow Curaçao
+
+None
+
+
+--------------
+
+#### Banana Daiquiri
+
+Cocktail Glass
+
+_Shake and strain._
+
++ 9 parts Rum
++ 4 parts Lime Juice
++ 1 part Gomme Syrup
+
+None
+
+
+--------------
+
+#### Batida
+
+Highball Glass
+
+_Mix in a glass full of ice._
+
++ 2 parts Cachaça
++ 1 part of any Fruit Juice
++ 1 tablespoon Sugar
+
+None
+
+
+--------------
+
+#### Bee's Knees
+
+Cocktail Glass
+
+_Shake and strain._
+
++ 4 parts Dry Gin
++ 1 part Lemon Juice
++ 1 tablespoon Honey
+
+None
+
+
+--------------
 
 #### Bellini
 
@@ -211,6 +345,20 @@ Lemon twist
 
 
 -----------------
+
+#### Black Martini
+
+Cocktail Glass
+
+_Shake, gently, and strain._
+
++ 2 parts Gin
++ 1 part Black Sambuca
+
+None
+
+
+----------------
 
 #### Black Russian
 
