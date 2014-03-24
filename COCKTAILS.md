@@ -360,6 +360,8 @@ _Shake, gently, and strain._
 
 None
 
+>Variants: 4 parts Vodka, 2 parts Strawberry Liqueur, 1 part Blue Curaçao
+
 
 ----------------
 
@@ -386,6 +388,8 @@ _Pour slowly and stir_
 
 None
 
+>Variants: Poor Man's Black Velvet (replace Guinness with Cider)
+
 
 -----------------
 
@@ -405,10 +409,22 @@ Orange Zest
 
 -----------------
 
-#### Bloody Mary
+#### Blood Orange Bubbles
 
-Red Snapper – replace vodka with gin
-Bloody Caesar – replace tomato juice with Clomato juice
+Flute
+
+_Shake and strain. Top with Champagne._
+
++ 1 part Aperol
++ 1 part Red Orange Juice
++ 1 part Champagne
+
+None
+
+
+---------------
+
+#### Bloody Mary
 
 Collins Glass
 
@@ -424,8 +440,28 @@ _Roll ingredients, strain into glass_
 
 Salt/Pepper rim, celery stick
 
+>Variants: Red Snapper (replace Vodka with Gin), Bloody Caesar (replace Tomato 
+>Juice with Clamato Juice). [More](http://en.wikipedia.org/wiki/Bloody_Mary_(cocktail))
+
 
 -----------------
+
+#### Blue Hawaii
+
+Hurrican Glass
+
+_Shake and strain._
+
++ 3 parts Rum
++ 3 parts Vodka
++ 2 parts Curaçao
++ 10 parts Pineapple Juice
++ 4 parts Sweet And Sour mix
+
+Pineapple or Orange slice and Maraschino Cherry on a toothpick
+
+
+---------------
 
 #### Blue Moon
 
