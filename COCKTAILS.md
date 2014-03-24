@@ -30,6 +30,9 @@ _Shake and fine strain_
 
 Orange peel
 
+
+----------------
+
 #### Agonie
 
 Cocktail Glass
@@ -41,6 +44,9 @@ _Mix Gin and Lemon Juice. Add the Rum_
 + 1 teaspoon Lemon Juice
 
 Lemon Zest
+
+
+----------------
 
 #### Aldo's Fancy
 
@@ -54,6 +60,9 @@ sugar-brimmed glass_
 + 1 splash Maraschino
 + 2 drops Angostura bitters
 
+
+----------------
+
 #### Alexander
 
 Cocktail Glass
@@ -65,6 +74,9 @@ _Shake with half ice. Strain_
 + 1 part Creme de Cacao
 
 Grated Nutmeg
+
+
+----------------
 
 #### Amaretto Sour
 
