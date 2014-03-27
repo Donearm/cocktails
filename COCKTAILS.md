@@ -448,7 +448,7 @@ Salt/Pepper rim, celery stick
 
 #### Blue Hawaii
 
-Hurrican Glass
+Hurricane Glass
 
 _Shake and strain._
 
@@ -459,6 +459,37 @@ _Shake and strain._
 + 4 parts Sweet And Sour mix
 
 Pineapple or Orange slice and Maraschino Cherry on a toothpick
+
+
+---------------
+
+#### Blue Hawaiian
+
+Highball Glass
+
+_Shake and strain_
+
++ 1 part Rum
++ 1 part blue Curaçao
++ 2 parts Pineapple Juice
++ 1 part Coconut Cream
+
+Maraschino Cherry and Pineapple Slice
+
+
+--------------
+
+#### Blue Lagoon
+
+Highball Glass
+
+_Shake Vodka first. Then add Lemonade and Curaçao and shake again. Strain._
+
++ 1 part Vodka
++ 1 part blue Curaçao
++ 4 parts Lemonade
+
+Sugar rim
 
 
 ---------------
@@ -475,6 +506,23 @@ _Shake and fine strain_
 + Optional 10ml egg white
 
 Raspberry
+
+
+-----------------
+
+#### Boomerang
+
+Cocktail Glass
+
+_Shake and strain_
+
++ 4 parts Dry Gin
++ 1 part Vermouth
++ 1 part Dry Vermouth
++ 1 teaspoon Maraschino
++ 2 drops Angostura Bitters
+
+None
 
 
 -----------------
