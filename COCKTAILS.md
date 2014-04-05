@@ -441,7 +441,8 @@ _Roll ingredients, strain into glass_
 Salt/Pepper rim, celery stick
 
 >Variants: Red Snapper (replace Vodka with Gin), Bloody Caesar (replace Tomato 
->Juice with Clamato Juice). [More](http://en.wikipedia.org/wiki/Bloody_Mary_(cocktail))
+>Juice with Clamato Juice), Bull Shot (replace Tomato Juice with Beef Bouillon or Beef Consomme).
+>[More](http://en.wikipedia.org/wiki/Bloody_Mary_(cocktail))
 
 
 -----------------
@@ -589,6 +590,21 @@ Grated nutmeg
 
 -----------------
 
+#### Brandy Fix
+
+Highball Glass
+
+_Shake and strain. Finish with Seltz Water_
+
+* 3 parts Cognac or Brandy
+* 1 part Lemon Juice
+* 1 part Pineapple Juice
+
+Pineapple wedge
+
+
+----------------
+
 #### Brandy Flip   
 
 Collins Glass
@@ -604,6 +620,36 @@ Grated nutmeg
 
 
 -----------------
+
+#### Brandy Sour
+
+Highball Glass
+
+_Stir with ice. Top with either Lemonade or Seltz Water_
+
+* 2 parts Brandy
+* 1 part Water and Lemon (made with 1 part of Lemon Juice and 4-5 parts of 
+  Water)
+* 2-4 drops of Angostura Bitters
+
+None
+
+----------------
+
+#### Brass Monkey
+
+Highball Glass
+
+_Shake and strain_
+
+* 1 part Vodka
+* 1 part Rum (preferably dark)
+* 1 part Orange Juice
+
+None
+
+
+----------------
 
 #### Breakfast Martini    
 
@@ -657,19 +703,47 @@ Maraschino cherry
 
 -----------------
 
+#### Buck's Fizz
+
+Champagne Flute
+
+_Pour the Juice then the Champagne. Mix gently_
+
+* 2 parts Orange Juice
+* 1 part Champagne
+
+Orange Peel
+
+
+-----------------
+
+#### Café Royal Frappé
+
+Champagne Glass
+
+_Shake and fine strain_
+
+* 2 parts strong Coffee
+* 1 part Cognac or Brandy
+
+None
+
+
+-----------------
+
 #### Caipirinha
 
 Old Fashioned Glass
 
 _Muddle in glass. Fill with crushed ice_
 
-+ 50ml Cachaca (use Vodka for Caipiroska)
++ 50ml Cachaça
 + 4 Lime wedges
-+ 15ml sugar syrup OR
-+ Heaped bar spoon sugar
++ 15ml sugar syrup OR Heaped bar spoon sugar
 
 Lime wedge
 
+>Variations: Caipiroska (Vodka instead of Cachaça)
 
 -----------------
 
@@ -684,6 +758,22 @@ _Build in glass_
 + Top with cranberry juice
 
 Lime wedge
+
+
+-----------------
+
+#### Caribbean Sling
+
+Highball Glass
+
+_Build in glass_
+
+* 1 part Gin
+* 1 part Rum
+* 1 dash Cointreau or Triple Sec
+* a squeeze of Lime or Lemon
+
+Maraschino cherry
 
 
 -----------------
@@ -719,6 +809,80 @@ Lemon zest
 
 
 -----------------
+
+#### Chicago
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+* 8 parts Brandy
+* 1 part Orange Curaçao
+* 1 dash Angostura Bitters
+
+None
+
+
+------------------
+
+#### China
+
+Highball Glass
+
+_Shake Vodka and Coffee liqueur. Strain, pour and top with Chinotto_
+
+* 6 parts Chinotto
+* 3 parts Vodka
+* 1 part Coffee Liqueur
+
+None
+
+
+-------------------
+
+#### Chinetto
+
+Highball Glass
+
+_Shake and strain_
+
+* 7 parts Chinotto
+* 3 parts Amaretto (DiSaronno or similar)
+
+None
+
+
+------------------
+
+#### Chocolate Martini
+
+Martini Glass
+
+_Shake and strain_
+
+* 4 parts Vodka
+* 1 part Creme de Cacao
+
+None
+
+
+--------------------
+
+#### Churchill
+
+Cocktail Glass
+
+_Shake and strain_
+
+* 3 parts Whisky
+* 1 part Lime Juice
+* 1 part sweet Vermouth
+* 1 part Cointreau
+
+None
+
+
+---------------------
 
 #### Clover Club
 
@@ -1406,7 +1570,6 @@ Lime wedge and cherry
 -----------------
 
 #### Manhattan
-Variation: Rob Roy – use Scotch whisky
 
 Cocktail/Old Fashioned Glass
 
@@ -1426,6 +1589,9 @@ Sweet: Maraschino cherry
 Dry: Lemon twist
 
 Perfect: Orange twist
+
+>Variations: Rob Roy - use Scotch whisky, Brandy Manhattan - use Brandy instead 
+>of Whiskey
 
 
 -----------------
