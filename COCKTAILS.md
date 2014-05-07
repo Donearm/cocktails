@@ -915,6 +915,21 @@ Mint sprig
 
 -----------------
 
+#### Colonial
+
+Cocktail Glass
+
+_Shake and strain_
+
+* 3 parts Dry Gin
+* 1 part Grapefruit Juice
+* 4 drops Maraschino
+
+None
+
+
+-----------------
+
 #### Corn & Oil   
 
 Old Fashioned Glass
@@ -982,8 +997,6 @@ Crusted caster sugar rim and fruit band in top of glass
 
 #### Cuba Libra
 
-Variation: Fidel Castro – replace Cola with Ginger Ale
-
 Collins Glass
 
 _Build in glass_
@@ -994,8 +1007,28 @@ _Build in glass_
 
 Lime wedge
 
+>Variation: Fidel Castro (replace Cola with Ginger Ale)
+
 
 -----------------
+
+
+#### Culto A La Vida
+
+Highball Glass
+
+_Blend sugar and Lime Juice. Then add ice, blend again. Finally the Raspberry 
+Juice and the Rum. Blend_
+
+* 8 parts Raspberry Juice
+* 4 parts Rum
+* 1 part Lime Juice
+* 1 tablespoon Sugar
+
+None
+
+
+------------------
 
 #### Daiquiri
 
@@ -1010,6 +1043,22 @@ _Shake hard and fine strain_
 None
 
 -----------------
+
+#### Daiquiri Floridita
+
+Champagne Glass
+
+_Shake with crushed ice and strain_
+
+* 1 part Rum
+* 1 part Lime Juice
+* 1 tablespoon Sugar
+* 10 drops Maraschino
+
+None
+
+
+------------------
 
 #### Daisy
 
@@ -1038,6 +1087,25 @@ _Build in glass_
 
 Lime wedge
 
+>Variations: Clear and Sunny (Vodka instead of Rum), Partly Cloudy (Vodka 
+>instead of Rum and Gatorade instead of Beer)
+
+
+-----------------
+
+#### Derby Cocktail
+
+Cocktail Glass
+
+_Shake and strain_
+
+* 4 parts Whisky
+* 2 parts Vermouth
+* 2 parts Curaçao
+* 3 parts Lime Juice
+
+Lime wedge and Mint leaf
+
 
 -----------------
 
@@ -1056,6 +1124,36 @@ Orange Twist
 
 
 -----------------
+
+#### DiSaronno & Tea
+
+Mug
+
+_Build in glass_
+
+* 1 part DiSaronno Amaretto
+* 4 parts hot Tea
+* Top with Whipped Cream
+
+None
+
+
+-----------------
+
+#### DiSaronno Alexander
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+* 3 parts DiSaronno Amaretto
+* 1 part Cognac
+* 2 parts Cream
+
+Cocoa powder
+
+
+-------------------
 
 #### East India   
 
