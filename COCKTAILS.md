@@ -1417,6 +1417,22 @@ _Shake hard and fine strain_
 
 -----------------
 
+#### Espresso Tini Cocktail
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+* 1 part DiSaronno Amaretto
+* 1 part Vodka
+* 1/2 part Espresso Coffee
+* 1 part Cream
+
+Chocolate shavings on brim
+
+
+------------------
+
 #### Fish House Punch  
 >There's a little place just out of town,  
 >Where, if you go to lunch,  
@@ -1453,10 +1469,27 @@ Use fruit from recipe
 
 -----------------
 
-#### French 75
+#### Flirtini
 
-Substitute gin with vodka for French 76
-Death in the Afternoon – replace gin with 10ml Absinthe
+Champagne Flute
+
+_Muddle strawberries in the flute. Shake and fine strain the rest. Top with 
+Champagne_
+
+* 3-4 Strawberries
+* 3 parts Strawberry Vodka
+* 1 part Cointreau/Triple Sec
+* 1 splash Lime Juice
+* 1 splash Pineapple Juice
+* 1 splash Raspberry Juice
+* Top with Champagne
+
+Mint sprig
+
+
+-------------------
+
+#### French 75
 
 Sparkling Wine Glass
 
@@ -1468,6 +1501,8 @@ _Shake first ingredients, top sparkling wine_
 + Top with Sparkling wine
 
 Lemon zest
+
+>Variations: French 76 (Vodka instead of Gin)
 
 
 -----------------
@@ -1499,6 +1534,19 @@ None
 
 -----------------
 
+#### Frozen Daiquiri
+
+Cocktail Glass
+
+_Blend with crushed ice and don't strain_
+
+* Ingredients as per the Daiquiri
+
+None
+
+
+----------------
+
 #### Gimlet
 
 Cocktail Glass
@@ -1525,6 +1573,22 @@ _Stir in mixing glass_
 + 2 dash Angostura Bitters
 
 Lemon Zest
+
+
+-----------------
+
+#### Gin Daisy
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+* 4 parts Dry Gin
+* 1 part Lemon Juice
+* 1 tablespoon Orgeat
+* Top with 2 splashes of Seltz Water
+
+None
 
 
 -----------------
