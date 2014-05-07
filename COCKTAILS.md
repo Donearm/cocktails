@@ -1155,7 +1155,174 @@ Cocoa powder
 
 -------------------
 
-#### East India   
+#### DiSaronno Bocce Ball
+
+Pint Glass
+
+_Build in glass_
+
+* 1 part DiSaronno Amaretto
+* 3 parts Orange Juice
+
+None
+
+
+-------------------
+
+#### DiSaronno Caipi
+
+Highball Glass
+
+_Muddle the Lime and Sugar. Then add the DiSaronno over crushed ice_
+
+* 1 part DiSaronno Amaretto
+* 4 Lime Wedges
+* 1 tablespoon Sugar
+
+None
+
+
+------------------
+
+#### DiSaronno Classico
+
+Mug
+
+_Build in glass_
+
+* 1 part DiSaronno Amaretto
+* 1 part Espresso Coffee
+* 1 tablespoon Sugar
+* Top with Whipped Cream
+
+None
+
+
+-------------------
+
+#### DiSaronno Cocoa Hill
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+* 4 parts DiSaronno Amaretto
+* 5 parts Milk
+
+Cocoa powder
+
+
+--------------------
+
+#### DiSaronno Espresso Shake
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+* 3 parts DiSaronno Amaretto
+* 1 part Espresso Coffee
+* 1 tablespoon Sugar
+
+Coffee beans
+
+
+--------------------
+
+#### DiSaronno Ginger Tini
+
+Old Fashioned Glass
+
+_Muddle Ginger and Syrup. Shake and strain_
+
+* 3 parts DiSaronno Amaretto
+* 2 parts Sugar Syrup
+* 2 parts Lemon Juice
+* 1 small piece of Ginger
+
+None
+
+
+--------------------
+
+#### DiSaronno Gold
+
+Highball Glass
+
+_Shake and strain_
+
+* 1 part DiSaronno Amaretto
+* 1 part Vodka
+* 1 part White Rum
+* 1 part Cointreau or Triple Sec
+* 4 parts Sweet & Sour Mix
+
+Orange slice
+
+
+--------------------
+
+#### DiSaronno Mimosa
+
+Champagne Flute
+
+_Stir in glass_
+
+* 3/4 part DiSaronno Amaretto
+* 1 part Orange Juice
+* Fill with Prosecco
+
+None
+
+
+--------------------
+
+#### DiSaronno Orange Sicle
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+* 3 parts DiSaronno Amaretto
+* 1 part Vodka
+* 6 parts Orange Juice
+* 1 splash Cream
+
+Orange zest
+
+
+---------------------
+
+#### DiSaronno Sicily
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+* 1 part DiSaronno Amaretto
+* 1 part Limoncello
+* 1 part Lemon Juice
+
+None
+
+
+---------------------
+
+#### DiSaronno Tini
+
+Cocktail Glass
+
+_Shake and fine strain_
+
+* 2 parts DiSaronno Amaretto
+* 3 parts Vodka
+
+None
+
+
+----------------------
+
+#### East India
 
 Cocktail Glass
 
