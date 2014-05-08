@@ -668,8 +668,7 @@ Orange twist
 -----------------
 
 #### Bronx
-
-Created 1906 by Johnny Solon, Waldolf-Astoria, NY.
+>Created 1906 by Johnny Solon, Waldolf-Astoria, NY.
 
 Cocktail Glass
 
@@ -996,7 +995,7 @@ Crusted caster sugar rim and fruit band in top of glass
 
 -----------------
 
-#### Cuba Libra
+#### Cuba Libre
 
 Collins Glass
 
@@ -1435,6 +1434,10 @@ Chocolate shavings on brim
 ------------------
 
 #### Fish House Punch  
+>There's a little place just out of town,  
+>Where, if you go to lunch,  
+>They'll make you forget your mother-in-law  
+>With a drink called Fish-House Punch. 
 
 _Shake hard and fine strain_
 
@@ -1446,11 +1449,6 @@ _Shake hard and fine strain_
 + Top Soda
 
 Grated nutmeg and lemon slice
-
->There's a little place just out of town,  
->Where, if you go to lunch,  
->They'll make you forget your mother-in-law  
->With a drink called Fish-House Punch. 
 
 
 -----------------
@@ -1690,8 +1688,6 @@ Orange slice
 
 Old Fashioned Glass
 
-Substitute whisky with vodka for Godmother
-
 _Build in glass_
 
 + 35ml Cognac
@@ -1762,6 +1758,7 @@ Shaved Chocolate
 -----------------
 
 #### Hanky-Panky Martini
+>Created by Ada Coleman, first Bar Manager of American Bar, Savoy Hotel.
 
 Cocktail Glass
 
@@ -1773,8 +1770,6 @@ _Stir in mixing glass_
 + 10ml Orange juice
 
 Orange twist
-
->Created by Ada Coleman, first Bar Manager of American Bar, Savoy Hotel.
 
 
 -----------------
@@ -2234,9 +2229,6 @@ Lemon twist
 -----------------
 
 #### Martini
-Dry=Less vermouth, Wet= More vermouth
-Gibson – Pickled onion as garnish
-Kangeroo – Sub Vodka for gin
 
 Cocktail Glass
 
@@ -2320,8 +2312,7 @@ Mint sprig
 -----------------
 
 #### Mojito
-
-Many bars use two bar spoons of white or brown sugar rather than sugar syrup.
+>Many bars use two bar spoons of white or brown sugar rather than sugar syrup.
 
 Collins Glass
 
