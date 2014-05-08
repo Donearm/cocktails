@@ -3014,6 +3014,53 @@ None
 
 -------------------
 
+#### Strega Daiquiri
+
+Cocktail Glass
+
+_Shake with crushed ice and fine strain_
+
++ 2 parts Strega
++ 2 parts White Rum
++ 1 part Lemon Juice
++ 1 part Orange Juice
++ 1 tablespoon Sugar Syrup
+
+Maraschino Cherry
+
+
+-----------------
+
+#### Tea Cocktail
+
+Cocktail Glass
+
+_Stir and strain_
+
++ 4 parts Whisky
++ 1 part Tea (very strong and cold)
++ 1 tablespoon Sugar Syrup
+
+None
+
+
+-----------------
+
+#### Tequila Sour
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 1 part Tequila
++ 2 tablespoon Lemon Juice
++ 1 teaspoon Sugar
+
+Lemon Wedge/Zest and Maraschino Cherry
+
+
+----------------
+
 #### Tequila Sunrise
 
 Collins Glass
@@ -3024,10 +3071,30 @@ _Build in glass_
 + 50ml Orange Juice
 + 10ml Grenadine syrup
 
-Lime wedge or orange slice
+Orange Slice and Maraschino Cherry
+
+>Variants: Aperol Sunrise (Aperol instead of Grenadine), Tequila Sunset (berry 
+>Brandy instead of Grenadine), Caribbean Sunrise (Rum instead of Tequila), Vodka 
+>Sunrise (Vodka instead of Tequila), Amaretto Sunrise (Amaretto liqueur instead 
+>of Tequila), Florida Sunrise (half Pineapple and half Orange Juice), Enamorada 
+>Sunrise (Campari instead of Grenadine)
 
 
 -----------------
+
+#### Throne Frappé
+
+Champagne Glass
+
+_Shake with crushed ice and fine strain_
+
++ 1 part Coffee
++ 1 part Whisky
+
+None
+
+
+-------------------
 
 #### Tom Collins
 
@@ -3040,7 +3107,7 @@ _Build in glass_
 + 15ml Sugar syrup
 + Top Soda water
 
-Lemon slice
+Maraschino Cherry and Lemon slice (or Orange Slice)
 
 
 -----------------
@@ -3098,8 +3165,8 @@ Cocktail Glass
 _Shake hard and fine strain_
 
 + 75ml Vodka
-+ 25ml dry Gin
-+ 15ml Lillet
++ 25ml Dry Gin
++ 15ml Kina Lillet
 
 Lemon twist
 
@@ -3121,6 +3188,21 @@ Orange twist
 
 
 -----------------
+
+#### Vodka Sour
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts Vodka
++ 1 part Lemon Juice
++ 1 tablespoon Sugar Syrup
+
+Lemon zest
+
+
+------------------
 
 #### Whisk(e)y Sour
 Can dry shake if using egg white for better texture/foam
@@ -3186,6 +3268,22 @@ _Build in glass_
 
 
 -----------------
+
+#### Witch
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts Vodka
++ 1 part Lemon Juice
++ 1 tablespoon Strega
++ 1 splash Pernod
+
+None
+
+
+--------------------
 
 #### Zombie
 Some recipes add Overproof rum and Absinthe – very strong!
