@@ -596,9 +596,9 @@ Highball Glass
 
 _Shake and strain. Finish with Seltz Water_
 
-* 3 parts Cognac or Brandy
-* 1 part Lemon Juice
-* 1 part Pineapple Juice
++ 3 parts Cognac or Brandy
++ 1 part Lemon Juice
++ 1 part Pineapple Juice
 
 Pineapple wedge
 
@@ -627,10 +627,10 @@ Highball Glass
 
 _Stir with ice. Top with either Lemonade or Seltz Water_
 
-* 2 parts Brandy
-* 1 part Water and Lemon (made with 1 part of Lemon Juice and 4-5 parts of 
++ 2 parts Brandy
++ 1 part Water and Lemon (made with 1 part of Lemon Juice and 4-5 parts of 
   Water)
-* 2-4 drops of Angostura Bitters
++ 2-4 drops of Angostura Bitters
 
 None
 
@@ -642,9 +642,9 @@ Highball Glass
 
 _Shake and strain_
 
-* 1 part Vodka
-* 1 part Rum (preferably dark)
-* 1 part Orange Juice
++ 1 part Vodka
++ 1 part Rum (preferably dark)
++ 1 part Orange Juice
 
 None
 
@@ -709,8 +709,8 @@ Champagne Flute
 
 _Pour the Juice then the Champagne. Mix gently_
 
-* 2 parts Orange Juice
-* 1 part Champagne
++ 2 parts Orange Juice
++ 1 part Champagne
 
 Orange Peel
 
@@ -723,8 +723,8 @@ Champagne Glass
 
 _Shake and fine strain_
 
-* 2 parts strong Coffee
-* 1 part Cognac or Brandy
++ 2 parts strong Coffee
++ 1 part Cognac or Brandy
 
 None
 
@@ -768,10 +768,10 @@ Highball Glass
 
 _Build in glass_
 
-* 1 part Gin
-* 1 part Rum
-* 1 dash Cointreau or Triple Sec
-* a squeeze of Lime or Lemon
++ 1 part Gin
++ 1 part Rum
++ 1 dash Cointreau or Triple Sec
++ a squeeze of Lime or Lemon
 
 Maraschino cherry
 
@@ -816,9 +816,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-* 8 parts Brandy
-* 1 part Orange Curaçao
-* 1 dash Angostura Bitters
++ 8 parts Brandy
++ 1 part Orange Curaçao
++ 1 dash Angostura Bitters
 
 None
 
@@ -831,9 +831,9 @@ Highball Glass
 
 _Shake Vodka and Coffee liqueur. Strain, pour and top with Chinotto_
 
-* 6 parts Chinotto
-* 3 parts Vodka
-* 1 part Coffee Liqueur
++ 6 parts Chinotto
++ 3 parts Vodka
++ 1 part Coffee Liqueur
 
 None
 
@@ -846,8 +846,8 @@ Highball Glass
 
 _Shake and strain_
 
-* 7 parts Chinotto
-* 3 parts Amaretto (DiSaronno or similar)
++ 7 parts Chinotto
++ 3 parts Amaretto (DiSaronno or similar)
 
 None
 
@@ -860,8 +860,8 @@ Martini Glass
 
 _Shake and strain_
 
-* 4 parts Vodka
-* 1 part Creme de Cacao
++ 4 parts Vodka
++ 1 part Creme de Cacao
 
 None
 
@@ -874,10 +874,10 @@ Cocktail Glass
 
 _Shake and strain_
 
-* 3 parts Whisky
-* 1 part Lime Juice
-* 1 part sweet Vermouth
-* 1 part Cointreau
++ 3 parts Whisky
++ 1 part Lime Juice
++ 1 part sweet Vermouth
++ 1 part Cointreau
 
 None
 
@@ -921,9 +921,9 @@ Cocktail Glass
 
 _Shake and strain_
 
-* 3 parts Dry Gin
-* 1 part Grapefruit Juice
-* 4 drops Maraschino
++ 3 parts Dry Gin
++ 1 part Grapefruit Juice
++ 4 drops Maraschino
 
 None
 
@@ -1020,10 +1020,10 @@ Highball Glass
 _Blend sugar and Lime Juice. Then add ice, blend again. Finally the Raspberry 
 Juice and the Rum. Blend_
 
-* 8 parts Raspberry Juice
-* 4 parts Rum
-* 1 part Lime Juice
-* 1 tablespoon Sugar
++ 8 parts Raspberry Juice
++ 4 parts Rum
++ 1 part Lime Juice
++ 1 tablespoon Sugar
 
 None
 
@@ -1050,10 +1050,10 @@ Champagne Glass
 
 _Shake with crushed ice and strain_
 
-* 1 part Rum
-* 1 part Lime Juice
-* 1 tablespoon Sugar
-* 10 drops Maraschino
++ 1 part Rum
++ 1 part Lime Juice
++ 1 tablespoon Sugar
++ 10 drops Maraschino
 
 None
 
@@ -1099,10 +1099,10 @@ Cocktail Glass
 
 _Shake and strain_
 
-* 4 parts Whisky
-* 2 parts Vermouth
-* 2 parts Curaçao
-* 3 parts Lime Juice
++ 4 parts Whisky
++ 2 parts Vermouth
++ 2 parts Curaçao
++ 3 parts Lime Juice
 
 Lime wedge and Mint leaf
 
@@ -1131,9 +1131,9 @@ Mug
 
 _Build in glass_
 
-* 1 part DiSaronno Amaretto
-* 4 parts hot Tea
-* Top with Whipped Cream
++ 1 part DiSaronno Amaretto
++ 4 parts hot Tea
++ Top with Whipped Cream
 
 None
 
@@ -1146,9 +1146,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-* 3 parts DiSaronno Amaretto
-* 1 part Cognac
-* 2 parts Cream
++ 3 parts DiSaronno Amaretto
++ 1 part Cognac
++ 2 parts Cream
 
 Cocoa powder
 
@@ -1161,8 +1161,8 @@ Pint Glass
 
 _Build in glass_
 
-* 1 part DiSaronno Amaretto
-* 3 parts Orange Juice
++ 1 part DiSaronno Amaretto
++ 3 parts Orange Juice
 
 None
 
@@ -1175,9 +1175,9 @@ Highball Glass
 
 _Muddle the Lime and Sugar. Then add the DiSaronno over crushed ice_
 
-* 1 part DiSaronno Amaretto
-* 4 Lime Wedges
-* 1 tablespoon Sugar
++ 1 part DiSaronno Amaretto
++ 4 Lime Wedges
++ 1 tablespoon Sugar
 
 None
 
@@ -1190,10 +1190,10 @@ Mug
 
 _Build in glass_
 
-* 1 part DiSaronno Amaretto
-* 1 part Espresso Coffee
-* 1 tablespoon Sugar
-* Top with Whipped Cream
++ 1 part DiSaronno Amaretto
++ 1 part Espresso Coffee
++ 1 tablespoon Sugar
++ Top with Whipped Cream
 
 None
 
@@ -1206,8 +1206,8 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-* 4 parts DiSaronno Amaretto
-* 5 parts Milk
++ 4 parts DiSaronno Amaretto
++ 5 parts Milk
 
 Cocoa powder
 
@@ -1220,9 +1220,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-* 3 parts DiSaronno Amaretto
-* 1 part Espresso Coffee
-* 1 tablespoon Sugar
++ 3 parts DiSaronno Amaretto
++ 1 part Espresso Coffee
++ 1 tablespoon Sugar
 
 Coffee beans
 
@@ -1235,10 +1235,10 @@ Old Fashioned Glass
 
 _Muddle Ginger and Syrup. Shake and strain_
 
-* 3 parts DiSaronno Amaretto
-* 2 parts Sugar Syrup
-* 2 parts Lemon Juice
-* 1 small piece of Ginger
++ 3 parts DiSaronno Amaretto
++ 2 parts Sugar Syrup
++ 2 parts Lemon Juice
++ 1 small piece of Ginger
 
 None
 
@@ -1251,11 +1251,11 @@ Highball Glass
 
 _Shake and strain_
 
-* 1 part DiSaronno Amaretto
-* 1 part Vodka
-* 1 part White Rum
-* 1 part Cointreau or Triple Sec
-* 4 parts Sweet & Sour Mix
++ 1 part DiSaronno Amaretto
++ 1 part Vodka
++ 1 part White Rum
++ 1 part Cointreau or Triple Sec
++ 4 parts Sweet & Sour Mix
 
 Orange slice
 
@@ -1268,9 +1268,9 @@ Champagne Flute
 
 _Stir in glass_
 
-* 3/4 part DiSaronno Amaretto
-* 1 part Orange Juice
-* Fill with Prosecco
++ 3/4 part DiSaronno Amaretto
++ 1 part Orange Juice
++ Fill with Prosecco
 
 None
 
@@ -1283,10 +1283,10 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-* 3 parts DiSaronno Amaretto
-* 1 part Vodka
-* 6 parts Orange Juice
-* 1 splash Cream
++ 3 parts DiSaronno Amaretto
++ 1 part Vodka
++ 6 parts Orange Juice
++ 1 splash Cream
 
 Orange zest
 
@@ -1299,9 +1299,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-* 1 part DiSaronno Amaretto
-* 1 part Limoncello
-* 1 part Lemon Juice
++ 1 part DiSaronno Amaretto
++ 1 part Limoncello
++ 1 part Lemon Juice
 
 None
 
@@ -1314,8 +1314,8 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-* 2 parts DiSaronno Amaretto
-* 3 parts Vodka
++ 2 parts DiSaronno Amaretto
++ 3 parts Vodka
 
 None
 
@@ -1423,10 +1423,10 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-* 1 part DiSaronno Amaretto
-* 1 part Vodka
-* 1/2 part Espresso Coffee
-* 1 part Cream
++ 1 part DiSaronno Amaretto
++ 1 part Vodka
++ 1/2 part Espresso Coffee
++ 1 part Cream
 
 Chocolate shavings on brim
 
@@ -1434,10 +1434,6 @@ Chocolate shavings on brim
 ------------------
 
 #### Fish House Punch  
->There's a little place just out of town,  
->Where, if you go to lunch,  
->They'll make you forget your mother-in-law  
->With a drink called Fish-House Punch. 
 
 _Shake hard and fine strain_
 
@@ -1449,6 +1445,11 @@ _Shake hard and fine strain_
 + Top Soda
 
 Grated nutmeg and lemon slice
+
+>There's a little place just out of town,  
+>Where, if you go to lunch,  
+>They'll make you forget your mother-in-law  
+>With a drink called Fish-House Punch. 
 
 
 -----------------
@@ -1476,13 +1477,13 @@ Champagne Flute
 _Muddle strawberries in the flute. Shake and fine strain the rest. Top with 
 Champagne_
 
-* 3-4 Strawberries
-* 3 parts Strawberry Vodka
-* 1 part Cointreau/Triple Sec
-* 1 splash Lime Juice
-* 1 splash Pineapple Juice
-* 1 splash Raspberry Juice
-* Top with Champagne
++ 3-4 Strawberries
++ 3 parts Strawberry Vodka
++ 1 part Cointreau/Triple Sec
++ 1 splash Lime Juice
++ 1 splash Pineapple Juice
++ 1 splash Raspberry Juice
++ Top with Champagne
 
 Mint sprig
 
@@ -1540,7 +1541,7 @@ Cocktail Glass
 
 _Blend with crushed ice and don't strain_
 
-* Ingredients as per the Daiquiri
++ Ingredients as per the Daiquiri
 
 None
 
@@ -1555,6 +1556,20 @@ _Stir in mixing glass_
 
 + 50ml Gin
 + 20ml Roses Lime cordial
+
+Lime wedge
+
+
+-----------------
+
+#### Gin and Tonic
+
+Highball Glass
+
+_Build in glass_
+
++ 3 parts Gin
++ Fill with Tonic Water
 
 Lime wedge
 
@@ -1583,15 +1598,31 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-* 4 parts Dry Gin
-* 1 part Lemon Juice
-* 1 tablespoon Orgeat
-* Top with 2 splashes of Seltz Water
++ 4 parts Dry Gin
++ 1 part Lemon Juice
++ 1 tablespoon Orgeat
++ Top with 2 splashes of Seltz Water
 
 None
 
 
 -----------------
+
+#### Gin Fizz
+
+Highball Glass
+
+_Shake and strain_
+
++ 3 parts Gin
++ 2 parts Lemon Juice
++ 1 part Gomme or Sugar Syrup
++ Top with 5 parts of Soda Water
+
+None
+
+
+------------------
 
 #### Gin Gin Mule
 
@@ -1605,6 +1636,21 @@ _Muddle ginger then add and shake base ingredients. Top with Ginger Beer_
 + 2 thin slices root Ginger
 
 Lime Wedge
+
+
+-----------------
+
+#### Gin On Top
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 6 parts Dry Gin
++ 1 part Campari
++ 1 part Lemon Juice
+
+Wild/Wood Strawberry
 
 
 -----------------
@@ -1624,6 +1670,21 @@ Lime wedge
 
 -----------------
 
+#### Gin Sour
+
+Highball Glass
+
+_Shake and strain_
+
++ 2 parts Gin
++ 1/2 teaspoon Sugar
++ 1 part Lemon Juice
+
+Orange slice
+
+
+----------------
+
 #### Godfather
 
 Old Fashioned Glass
@@ -1638,6 +1699,51 @@ _Build in glass_
 None
 
 -----------------
+
+#### Godmother
+
+Old Fashioned Glass
+
+_Build in glass_
+
++ 3 parts Vodka
++ 1 part Amaretto
+
+None
+
+
+-------------------
+
+#### Golden Cadillac
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part Galliano
++ 1 part Creme de Cacao
++ 1 part Cream
+
+None
+
+
+-------------------
+
+#### Golden Dream
+
+Cocktail Glass
+
+_Shake with crushed ice and fine strain_
+
++ 2 parts Galliano
++ 2 parts Cointreau/Triple Sec
++ 2 parts Orange Juice
++ 1 part Cream
+
+Orange slice or Umbrella
+
+
+-------------------
 
 #### Grasshopper
 
@@ -1655,7 +1761,6 @@ Shaved Chocolate
 -----------------
 
 #### Hanky-Panky Martini
->Created by Ada Coleman, first Bar Manager of American Bar, Savoy Hotel.
 
 Cocktail Glass
 
@@ -1668,8 +1773,25 @@ _Stir in mixing glass_
 
 Orange twist
 
+>Created by Ada Coleman, first Bar Manager of American Bar, Savoy Hotel.
+
 
 -----------------
+
+#### Happy Honey
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts Cognac/Brandy
++ 1 part Grapefruit Juice
++ 1 teaspoon Honey
+
+None
+
+
+------------------
 
 #### Harvard      
 
@@ -1693,11 +1815,11 @@ Collins Glass
 
 _Build in glass_
 
-+ 50ml Vodka
-+ 25ml Galliano liqueur
-+ Top with Orange juice
++ 3 parts Vodka
++ 6 parts Orange Juice
++ Top with Galliano
 
-Orange Slice
+Orange Slice or Maraschino Cherry
 
 
 -----------------
@@ -1719,6 +1841,21 @@ Orange Slice
 
 -----------------
 
+#### Horse's Neck
+
+Old Fashioned Glass
+
+_Stir in glass_
+
++ 1 part Brandy/Cognac
++ 3 parts Red Beer
++ 1 dash Angostura Bitters
+
+Lemon zest
+
+
+-------------------
+
 #### Hurricane
 
 Hurricane Glass/Collins Glass
@@ -1737,6 +1874,51 @@ Lime wedge and cherry
 
 
 -----------------
+
+#### Irish Coffee
+
+Mug
+
+_Build in glass_
+
++ 2 parts Whiskey
++ 4 parts Hot Coffee
++ 1 teaspoon Sugar
++ Top with 1.5 parts of Cream
+
+None
+
+
+------------------
+
+#### Italia Libre
+
+Highball Glass
+
+_Build in glass_
+
++ 7 parts Chinotto
++ 3 parts Dark Rum
++ 2 dashes Angostura Bitters
+
+Lemon wedge
+
+
+-------------------
+
+#### Jack and Coke
+
+Highball Glass
+
+_Build in glass_
+
++ 2 parts DiSaronno Amaretto
++ 3 parts Whisky
+
+None
+
+
+------------------
 
 #### Jack Rose
 
@@ -1781,7 +1963,7 @@ _Shake hard and strain_
 + 15ml Crème de banane
 + 75ml Pineapple juice
 
-Lime wedge
+Lime wedge or Pineapple wedge
 
 
 -----------------
@@ -1801,18 +1983,41 @@ Lime wedge
 
 -----------------
 
-#### Kir Royale
+#### Kir
 
-Sparkling Wine Glass
+Wine Goblet
 
-_Build in glass_
+_Stir gently in glass_
 
-+ 10ml Crème de Cassis
-+ Top with Champagne
++ 9 parts sparkling White Wine
++ 1 part Creme de Cassis
 
 None
 
+>Variations: Kir Royal (Champagne instead of the White Wine), Cardinal (Red 
+>instead of White Wine), Normand (Cider instead of Wine), Cidre Royal (Cider and 
+>Calvados instead of the Wine), Peche (with a Peach liqueur instead of Creme de 
+>Cassis), Pamplemousse (Grapefruit Liqueur added), Tarantino (with Lager Beer 
+>instead of Wine), Pink Russian (with Milk instead of Wine)
+
+
 -----------------
+
+#### Kremlin
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts Vodka
++ 1 part Rum
++ 1 part Lemon Juice
++ 1 teaspoon Grenadine Syrup
+
+None
+
+
+----------------
 
 #### The Last Word
 
@@ -1830,6 +2035,24 @@ Lime wedge
 
 -----------------
 
+#### Le Fleur Vert
+
+Champagne Glass
+
+_Shake and fine strain_
+
++ 3 parts Gin
++ 1 part Lemon Juice
++ 2 parts Sugar Syrup
++ 2 parts Kiwi Juice
++ 2 Basil Leaves
++ Top with 4 parts of Champagne
+
+None
+
+
+-------------------
+
 #### Lemon Drop
 
 Cocktail Glass
@@ -1845,6 +2068,25 @@ Lemon twist
 
 -----------------
 
+#### Long Beach Iced Tea
+
+Highball Glass
+
+_Shake and strain_
+
++ 1 part Vodka
++ 1 part White Rum
++ 1 part Gin
++ 1 part Tequila
++ 1 part Cointreau/Triple Sec
++ 2 parts Lemon Juice
++ Top with Raspberry Juice
+
+Lemon wedge
+
+
+--------------------
+
 #### Long Island Iced Tea
 
 Collins/Sling Glass
@@ -1857,7 +2099,7 @@ _Build in glass, or shake first ingredients and top with Coke_
 + 12.5ml Blanco Tequila
 + 12.5ml Triple Sec
 + 25ml fresh Lemon Juice
-+ Top Coca Cola
++ Top with Coca Cola
 
 Lemon Wedge
 
@@ -1873,7 +2115,7 @@ _Build in glass_
 + 40ml Jack Daniels
 + 20ml Triple Sec
 + 20ml fresh Lemon juice
-+ Top Lemonade
++ Top with Lemonade
 
 Lemon wedge
 
@@ -1881,7 +2123,6 @@ Lemon wedge
 -----------------
 
 #### Mai Tai
->Created 1944 by Trader Vic
 
 Old Fashioned Glass
 
@@ -1894,6 +2135,8 @@ _Shake hard and strain over crushed ice_
 + 10ml Orgeat (almond) syrup
 
 Lime wedge and cherry
+
+>Created 1944 by Trader Vic
 
 
 -----------------
@@ -1913,14 +2156,14 @@ Plus:
 + Dry: 15ml Dry Vermouth
 + Perfect: 10ml each Dry/Sweet Vermouth
 
-Sweet: Maraschino cherry
+Sweet: Maraschino Cherry
 
 Dry: Lemon twist
 
-Perfect: Orange twist
+Perfect: Orange twist or both Lemon twist and Maraschino Cherry
 
->Variations: Rob Roy - use Scotch whisky, Brandy Manhattan - use Brandy instead 
->of Whiskey
+>Variations: Rob Roy (use Scotch Whisky), Brandy Manhattan (Brandy instead of 
+>Whiskey)
 
 
 -----------------
@@ -1935,10 +2178,43 @@ _Shake hard and fine strain_
 + 25ml Triple Sec
 + 20ml fresh Lime juice
 
-Lime wedge
+Lime wedge and Salt rim
 
 
 -----------------
+
+#### Maria Teresa
+
+Highball Glass
+
+_Shake and strain_
+
+* 4 parts Orange Juice
+* 2 parts Cointreau/Triple Sec
+* 1 part Grenadine Syrup
+* 1 part Lime Juice
+
+Sugar rim
+
+
+----------------
+
+#### Marsala Cobbler
+
+Highball Glass
+
+_Mix slowly. Pour in glass over crushed ice_
+
+* 3 parts Marsala
+* 2 parts Rum
+* 1 tablespoon Orange Curaçao
+* 1 tablespoon Sugar Syrup
+
+Wild/wood Strawberries
+
+
+-------------------
+
 
 #### Martinez 
 
@@ -1956,7 +2232,7 @@ Lemon twist
 
 -----------------
 
-#### Martini (Dry)
+#### Martini
 Dry=Less vermouth, Wet= More vermouth
 Gibson – Pickled onion as garnish
 Kangeroo – Sub Vodka for gin
@@ -1967,9 +2243,11 @@ _Stir in mixing glass and strain_
 
 + 50ml dry Gin
 + 15ml Dry Vermouth
-+ (Optional) Dash of Orange Bitters
 
-Lemon twist or olive
+Lemon twist or olive(s) on a stick
+
+>Variations: Wet Martini (slightly more Vermouth), Gibson (Pickled Onion as 
+>garnish), Kangeroo/Vodka Martini (Vodka instead of Gin)
 
 
 -----------------
