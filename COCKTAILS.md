@@ -743,7 +743,8 @@ _Muddle in glass. Fill with crushed ice_
 
 Lime wedge
 
->Variations: Caipiroska (Vodka instead of Cachaça)
+>Variations: Caipiroska (Vodka instead of Cachaça), Rabo de Galo (2/3 Cachaça 
+>and 1/3 Red Vermouth)
 
 -----------------
 
@@ -2267,6 +2268,39 @@ None
 
 -----------------
 
+#### Matador
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part of White/Silver Tequila
++ 2 parts Pineapple Juice
++ half a Lime Juice
+
+None
+
+>Variations: Sweet and Sour Mix can be used instead of the Lime Juice
+
+
+
+-----------------
+
+#### Mimosa
+
+Champagne Flute
+
+_Stir gently_
+
++ 1 part Orange Juice
++ Fill with Champagne
+
+None
+
+
+
+-----------------------
+
 #### Mint Julep
 
 Collins Glass
@@ -2279,6 +2313,8 @@ _Lightly muddle ingredients except Bourbon in mixing glass. Strain into glass ha
 + 3 dashes Angostura bitters
 
 Mint sprig
+
+>Variations: Kremlin Colonel (Vodka instead of Bourbon)
 
 
 -----------------
@@ -2302,6 +2338,22 @@ Lime wedge and mint sprig
 
 -----------------
 
+#### Monkey Tits
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts Rum
++ 1 part Grand Marnier
++ 1 part Lime Juice
++ 1 tablespoon Orgeat Syrup
+
+None
+
+
+-----------------
+
 #### Moscow Mule
 
 Collins Glass
@@ -2318,6 +2370,23 @@ Lime wedge
 
 -----------------
 
+#### My Fair Lady
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part Gin
++ 1 part Lemon Juice
++ 1 part Orange Juice
++ 1 part Strawberry Syrup
++ 1 dash of Egg Yolk
+
+None
+
+
+------------------
+
 #### Negroni
 
 Old Fashioned Glass
@@ -2329,6 +2398,9 @@ _Stir in mixing glass, strain_
 + 25ml Campari
 
 Orange twist or orange wedge
+
+>Variations: Negroni Sbagliato (Spumante instead of Gin), Negroni Malato (add 
+>Orange Juice)
 
 
 -----------------
@@ -2366,22 +2438,69 @@ Lime wedge
 -----------------
 
 #### Old Fashioned
-Call me old fashioned – sub Bourbon with Cognac.
-
 
 Old Fashioned Glass
 
-_Add ingredients slowly, stiring until ice melts and then adding more ice_
-_Stir in glass_
+_Muddle the Angostura soaked sugar cube with Soda Water. Gradually add ice and 
+Whisky while gently stirring_
 
-+ 50ml Bourbon or Rye
-+ 5ml gomme syrup
-+ 3 dashes Angustora bitters
++ 1 part Whisky
++ 1 Sugar Cube
++ 2 dashes Angostura Bitters
++ 1 splash Soda Water
 
 Orange twist
 
+>Variations: for a quicker preparations, it's possible to use Sugar Syrup 
+>instead than the sugar cube
+
 
 -----------------
+
+#### Orange Blossom
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts Gin
++ 1 part Orange Juice
++ 1 tablespoon Maraschino
+
+None
+
+
+-------------------
+
+#### Orange Strega
+
+Highball Glass
+
+_Shake and strain_
+
++ 2 parts Gin
++ 1 part Strega
++ 6 parts Orange Juice
+
+None
+
+
+-------------------
+
+#### Orgasm
+
+Old Fashioned Glass/Shot Glass
+
+_Build in glass_
+
++ 1 part Grand Marnier
++ 1.5 parts Bailey's
++ 1.5 parts Cointreau
+
+Maraschino Cherry
+
+
+--------------------
 
 #### Painkiller
 
@@ -2415,6 +2534,22 @@ Lime wedge, salt rim
 
 -----------------
 
+#### Papa's Daiquiri
+
+Champagne Flute
+
+_Shake with crushed ice and fine strain_
+
++ 1 part Rum
++ 1 part Grapefruit Juice
++ 1 teaspoon Sugar
++ 10 drops of Maraschino
+
+None
+
+
+------------------
+
 #### Paradise
 
 Cocktail Glass
@@ -2424,7 +2559,22 @@ _Shake and fine strain_
 + 35ml Gin
 + 20ml Apricot Brandy
 + 15ml Orange juice
-+ 15ml fresh Lemon juice
+
+None
+
+
+-----------------
+
+#### Park Avenue
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts Dry Gin
++ 2 parts Pineapple Juice
++ 1 part Vermouth
++ 1 splash Curaçao
 
 None
 
@@ -2465,7 +2615,7 @@ None
 
 -----------------
 
-#### Pina Colada
+#### Piña Colada
 
 Collins Glass
 
@@ -2483,6 +2633,20 @@ Lime wedge ad pineapple slice
 
 -----------------
 
+#### Pink Gin
+
+Cocktail Glass
+
+_Build in glass_
+
++ 1 part Plymouth Gin
++ 1 dash Angostura Bitters
+
+Lemon zest
+
+
+-------------------
+
 #### Pisco Sour
 
 Coupette
@@ -2499,22 +2663,115 @@ None
 
 -----------------
 
-#### Planters Punch
+#### Planter's Punch
 
 Collins Glass
 
-_Shake, top with Soda_
+_Shake and strain_
 
-+ 50ml Jamaican Rum
-+ 25ml Fresh Lime Juice
-+ 10ml Sugar Syrup
-+ 3 Dashes Angostura Bitters
-+ Top Soda
++ 4.5 parts Dark Rum
++ 3.5 parts Orange Juice
++ 3.5 parts Pineapple Juice
++ 2 parts Lemon Juice
++ 1 part Grenadine Syrup
++ 1 part Sugar Syrup
++ 3 dashes Angostura Bitters
 
-Lime Wedge
-
+Maraschino Cherry and Pineapple wedge
 
 -----------------
+
+#### Porto Flip
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts Brandy
++ 5 parts Porto
++ 1 Egg Yolk
+
+Grated Nutmeg
+
+
+------------------
+
+#### Princess
+
+Cocktail Glass
+
+_Shake with crushed ice and fine strain_
+
++ 4 parts Rum
++ 1 part Lemon Juice
++ 1 tablespoon Honey
+
+None
+
+
+------------------
+
+#### Red Lion
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 9 parts Dry Gin
++ 1 part Lemon Juice
++ 1 part Orange Juice
++ 1 teaspoon Grand Marnier
+
+None
+
+
+--------------------
+
+#### Rob Roy
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 5 parts Whisky
++ 3 parts Sweet Vermouth
++ 1 dash Angostura Bitters
+
+Maraschino Cherry or Lemon zest
+
+>Variations: on the rocks (lowball glass and ice)
+
+
+-----------------------
+
+#### Rose
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 9 parts Dry Vermouth
++ 3 parts Kirsch
++ 2 parts Cherry Brandy
+
+Maraschino Cherry
+
+
+-------------------------
+
+#### Rossini
+
+Champagne Flute
+
+_Shake and strain/fine strain_
+
++ 1 part Strawberry Puree
++ 2 parts Sparkling Wine
+
+None
+
+
+------------------------
 
 #### Rum Swizzle
 
@@ -2562,6 +2819,44 @@ Lemon twist
 
 -----------------
 
+#### Salty Dog
+
+Highball Glass
+
+_Shake and strain_
+
++ 1 part Vodka
++ 2.5 parts Grapefruit Juice
+
+Salt rim
+
+
+--------------------
+
+#### Sangria
+
+Wine Goblet
+
+_Stir fruits with the wine. Add sugar and cinnamon. Let rest for 4-6 hours. 
+Serve over plenty of ice_
+
++ 2 parts Orange Juice
++ 4 parts Wine
++ 1 Pineapple
++ 3 Peaches
++ 4 Oranges
++ 2 Lemons
++ 2-3 Apples
++ 1/2 Cantaloupe
++ Sugar and Cinnamon to taste
+
+None
+
+>Variants: White instead of Red Wine, added spirits (Vodka or Brandy usually), 
+>Champagne instead of wine
+
+---------------------
+
 #### Sazerac
 
 Old Fashioned Glass
@@ -2584,7 +2879,7 @@ Collins Glass
 _Shake and strain_
 
 + 25ml Vodka
-+ 15ml Baileys Irish Cream liqueur
++ 15ml Bailey's
 + 15ml Coffee liqueur
 + 15ml Amaretto liqueur
 + 75ml Milk or half n half
@@ -2594,7 +2889,34 @@ Orange Slice
 
 -----------------
 
+#### Screwdriver
 
+Highball Glass
+
+_Build in glass_
+
++ 1 part Vodka
++ 2 parts Orange Juice
+
+Orange wedge
+
+
+-----------------
+
+#### Sea Breeze
+
+Highball Glass
+
+_Build in glass_
+
++ 4 parts Vodka
++ 3 parts Grapefruit Juice
++ 4 parts Raspberry Juice
+
+None
+
+
+------------------
 
 #### Sex on the beach
 
@@ -2632,16 +2954,19 @@ _Shake hard and strain_
 
 Sling Glass/Collins Glass
 
-_Shake first ingredients, top with soda, drizzle Cherry Brandy on top_
+_Shake and strain_
 
-+ 50ml dry Gin
-+ 25ml Lemon juice
-+ 10ml gomme syrup
-+ 10ml cherry brandy
-+ 10ml Benedictine liqueur
-+ Dash Angustora bitters
++ 8 parts Gin
++ 4 parts Cherry Brandy
++ 1 part Cointreau/Triple Sec
++ 1 part Benedictine
++ 2 parts Grenadine Syrup
++ 16 parts Pineapple Juice
++ 6 parts Lemon Juice
++ 1 dash Angostura Bitters
 
-Lemon slice and cherry
+Pineapple wedge and Maraschino Cherry
+
 
 -----------------
 
@@ -2674,6 +2999,20 @@ _Build in glass_
 Lime Slice
 
 -----------------
+
+#### Staten Island Ferry
+
+Highball Glass
+
+_Shake and strain_
+
++ 1 part Malibu/Coconut liqueur
++ 1 part Pineapple Juice
+
+None
+
+
+-------------------
 
 #### Tequila Sunrise
 
