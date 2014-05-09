@@ -2961,9 +2961,10 @@ Old Fashioned Glass
 
 _Stir in mixing glass, strain into Absinthe rinsed glass (no ice)_
 
-+ 6 parts Rye Whiskey or Cognac
-+ 1 part Gomme Syrup
-+ 1 dash Paychards Bitters
++ 5 parts Rye Whiskey or Cognac
++ 1 part (1cl) Absinthe
++ 1 Sugar Cube
++ 3 dashes Paychards Bitters
 
 Lemon twist
 
@@ -2993,10 +2994,15 @@ Highball Glass
 
 _Build in glass_
 
-+ 1 part Vodka
-+ 2 parts Orange Juice
++ 1 part (5cl) Vodka
++ 2 parts (10cl) Orange Juice
 
 Orange wedge
+
+>Variations: Mexican Screw (Tequila instead of Vodka), Sloe Screw (Sloe Gin 
+>instead of Vodka), American Screw (Bourbon instead of Vodka), French Screw 
+>(Cognac instead of Vodka), Italian Screw (Galliano instead of Vodka), Cuban 
+>Screw (Rum instead of Vodka)
 
 
 -----------------
@@ -3038,11 +3044,11 @@ Cocktail Glass
 
 _Shake hard and strain_
 
-+ 6 parts Cognac
-+ 3 parts Triple Sec
-+ 2 parts Lemon Juice
++ 5 parts (5cl) Cognac
++ 2 parts (2cl) Triple Sec
++ 2 parts (2cl) Lemon Juice
 
-½ Sugar rim on glass (your choice)
+Half Sugar rim on glass (your choice)
 
 
 -----------------
