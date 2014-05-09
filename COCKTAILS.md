@@ -2315,10 +2315,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 6 parts White Rum
-+ 3 parts Pineapple Juice
-+ 1 dash Maraschino
-+ 1 dash Grenadine Syrup
++ 6 parts (6cl) White Rum
++ 6 parts (6cl) Pineapple Juice
++ 1 part (1cl) Maraschino
++ 1 part (1cl) Grenadine Syrup
 
 None
 
