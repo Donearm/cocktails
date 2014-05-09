@@ -799,6 +799,22 @@ Maraschino Cherry
 
 -----------------
 
+#### Casino
+
+Cocktail Glass
+
+_Shake hard and fine strain_
+
++ 4 parts (4cl) Old Tom Gin
++ 1 part (1cl) Maraschino
++ 1 part (1cl) Orange Bitters
++ 1 part (1cl) Lemon Juice
+
+Lemon twist and Maraschino Cherry
+
+
+---------------------
+
 #### Champagne Cocktail
 
 Sparkling Wine Glass
