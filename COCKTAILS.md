@@ -1653,12 +1653,15 @@ Highball Glass
 
 _Shake and strain_
 
-+ 3 parts Gin
-+ 2 parts Lemon Juice
-+ 1 part Gomme or Sugar Syrup
-+ Top with 5 parts of Soda Water
++ 4.5 parts (4.5cl) Gin
++ 3 parts (3cl) Lemon Juice
++ 1 part (1cl) Gomme or Sugar Syrup
++ Top with 8 parts (8cl) of Soda Water
 
 None
+
+>Variations: Sloe Gin Fizz (Sloe Gin, simple Sugar and 1 Egg White instead of 
+>normal Gin and the Syrup)
 
 
 ------------------
