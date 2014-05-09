@@ -2393,6 +2393,22 @@ Lime wedge and mint sprig
 
 -----------------
 
+#### Monkey Gland
+
+Cocktail Glass
+
+_Shake hard and fine strain_
+
++ 5 parts (5cl) Gin
++ 3 parts (3cl) Orange Juice
++ 2 drops Absinthe
++ 2 drops Grenadine Syrup
+
+None
+
+
+-----------------
+
 #### Monkey Tits
 
 Cocktail Glass
