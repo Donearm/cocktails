@@ -2629,9 +2629,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 5 parts Gin
-+ 3 parts Apricot Brandy
-+ 2 parts Orange Juice
++ 7 parts (3.5cl) Gin
++ 4 parts (2cl) Apricot Brandy
++ 3 parts (1.5cl) Orange Juice
 
 None
 
@@ -2740,15 +2740,15 @@ None
 
 Collins Glass
 
-_Shake and strain_
+_Shake and strain. Add Bitters at the end_
 
-+ 4.5 parts Dark Rum
-+ 3.5 parts Orange Juice
-+ 3.5 parts Pineapple Juice
-+ 2 parts Lemon Juice
-+ 1 part Grenadine Syrup
-+ 1 part Sugar Syrup
-+ 3 dashes Angostura Bitters
++ 4.5 parts (4.5cl) Dark Rum
++ 3.5 parts (3.5cl) Orange Juice
++ 3.5 parts (3.5cl) Pineapple Juice
++ 2 parts (2cl) Lemon Juice
++ 1 part (1cl) Grenadine Syrup
++ 1 part (1cl) Sugar Syrup
++ 3-4 dashes Angostura Bitters
 
 Maraschino Cherry and Pineapple wedge
 
@@ -2760,9 +2760,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 2 parts Brandy
-+ 5 parts Porto
-+ 1 Egg Yolk
++ 3 parts (1.5cl) Brandy
++ 8 parts (4cl) Porto
++ 2 parts (1cl) Egg Yolk
 
 Grated Nutmeg
 
@@ -2778,6 +2778,27 @@ _Shake with crushed ice and fine strain_
 + 4 parts Rum
 + 1 part Lemon Juice
 + 1 tablespoon Honey
+
+None
+
+
+------------------
+
+#### Ramos Fizz
+
+Collins Glass
+
+_Dry shake, shake hard and strain in a Collins glass without ice_
+
++ 4.5 parts (4.5cl) Gin
++ 1.5 parts (1.5cl) Lime Juice
++ 1.5 parts (1.5cl) Lemon Juice
++ 1.5 parts (1.5cl) Sugar Syrup
++ 6 parts (6cl) Cream
++ 1 Egg White
++ 3 dashes Orange Flower Water
++ 2 drops Vanilla Extract
++ Top with Soda Water
 
 None
 
