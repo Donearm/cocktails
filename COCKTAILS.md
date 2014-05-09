@@ -929,8 +929,8 @@ _Dry shake, wet shake, fine strain_
 
 + 6 parts Dry Gin
 + 3 parts Lemon Juice
-+ 1 part Raspberry Syrup
-+ 1 part Egg White
++ 1 part Raspberry Syrup or Grenadine Syrup
++ 1 Egg White
 
 None
 
