@@ -238,9 +238,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 5 parts Bacardi Rum
-+ 2.5 parts Lime Juice
-+ 1 part Grenadine Syrup
++ 9 parts (4.5cl) Bacardi Rum
++ 4 parts (2cl) Lime Juice
++ 1 part (0.5cl) Grenadine Syrup
 
 None
 
