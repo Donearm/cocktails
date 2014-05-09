@@ -3118,6 +3118,22 @@ None
 
 -------------------
 
+#### Stinger
+
+Cocktail Glass/Rocks (with ice)
+
+_Stir in a mixing glass and fine strain_
+
++ 5 parts (5cl) Cognac
++ 2 parts (2cl) White Creme de Menthe
+
+None
+
+>Variations: Vodka Stinger (Vodka instead of Cognac)
+
+
+-------------------
+
 #### Strega Daiquiri
 
 Cocktail Glass
