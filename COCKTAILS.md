@@ -360,10 +360,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 2 parts White Rum
-+ 2 parts Cognac
-+ 2 parts Cointreau/Triple Sec
-+ 1 splash Gomme Syrup
++ 2 parts (3cl) White Rum
++ 2 parts (3cl) Cognac
++ 2 parts (3cl) Cointreau/Triple Sec
++ 1.5 parts (2cl) Lemon Juice
 
 Lemon twist
 
