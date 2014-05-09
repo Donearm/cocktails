@@ -129,6 +129,21 @@ Pineapple cubes
 
 ----------------
 
+#### Angel Face
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part (3cl) Gin
++ 1 part (3cl) Apricot Brandy
++ 1 part (3cl) Calvados
+
+None
+
+
+-----------------
+
 #### Aperol Orange
 
 Highball Glass
