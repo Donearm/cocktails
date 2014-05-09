@@ -3349,13 +3349,13 @@ Coupette/Old Fashioned Glass
 
 _Shake hard and fine strain_
 
-+ 4 parts Whiskey (usually American)
-+ 2 parts Lemon Juice
-+ 1 part Gomme Syrup
++ 3 parts (4.5cl) Whiskey (usually American)
++ 2 parts (3cl) Lemon Juice
++ 1 part (1.5cl) Gomme Syrup
 + Optional: 1 dash Angostura Bitters
 + Optional: 1 part Egg White
 
-Orange twist
+Orange twist and Maraschino Cherry
 
 
 -----------------
@@ -3366,10 +3366,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 4 parts Dry Gin
-+ 2.5 parts Triple Sec
-+ 2 parts Lemon Juice
-+ 1 part Egg White
++ 4 parts (4cl) Dry Gin
++ 3 parts (3cl) Triple Sec
++ 2 parts (2cl) Lemon Juice
 
 Lemon twist
 
