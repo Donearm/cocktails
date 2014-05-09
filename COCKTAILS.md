@@ -2274,8 +2274,8 @@ Cocktail Glass
 
 _Stir in mixing glass and strain_
 
-+ 5 parts Dry Gin
-+ 2 parts Dry Vermouth
++ 12 parts (6cl) Dry Gin
++ 2 parts (1cl) Dry Vermouth
 
 Lemon twist or Olive(s) on a stick
 
