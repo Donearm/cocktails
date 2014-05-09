@@ -2220,7 +2220,10 @@ Dry: Lemon twist
 Perfect: Orange twist or both Lemon twist and Maraschino Cherry
 
 >Variations: Rob Roy (use Scotch Whisky), Brandy Manhattan (Brandy instead of 
->Whiskey)
+>Whiskey), Metropolitan (3:1 ratio of Whiskey and Vermouth), Cuban Manhattan 
+>(Dark Rum instead of Whiskey), Tijuana Manhattan (Anejo Tequila instead of 
+>Whiskey), Fourth Regiment (1:1 ratio of Whiskey and Vermouth and 3 dashes, 1 
+>each, of Orange Bitters, Celery Bitters and Peychaud's Bitters)
 
 
 -----------------
