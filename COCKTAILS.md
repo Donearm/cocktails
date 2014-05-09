@@ -2464,14 +2464,16 @@ Old Fashioned Glass
 
 _Stir in mixing glass, strain_
 
-+ 2 parts Dry Gin
-+ 2 parts Sweet Vermouth
-+ 2 parts Campari
++ 1 part (3cl) Dry Gin
++ 1 part (3cl) Sweet Vermouth
++ 1 part (3cl) Campari
 
 Orange twist or Orange wedge
 
 >Variations: Negroni Sbagliato (Spumante instead of Gin), Negroni Malato (add 
->Orange Juice)
+>Orange Juice), Negroski (Vodka instead of Gin), Cardinaloski (Vodka instead of 
+>Gin and a few Angostura Bitters drops), Cin Cyn (Cynar instead of Campari), 
+>Boulevardier (Bourbon instead of Gin), Raultini (Aperol instead of Campari) 
 
 
 -----------------
