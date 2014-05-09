@@ -2517,7 +2517,7 @@ Old Fashioned Glass
 _Muddle the Angostura soaked sugar cube with Soda Water. Gradually add ice and 
 Whisky while gently stirring_
 
-+ 1 part Whisky
++ 1 part (4.5cl) Bourbon or Rye Whiskey
 + 1 Sugar Cube
 + 2 dashes Angostura Bitters
 + 1 splash Soda Water
