@@ -1075,11 +1075,12 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 5 parts Rum
-+ 2 parts Lime Juice
-+ 1 part Sugar Syrup
++ 9 parts (4.5cl) White Rum
++ 5 parts (2.5cl) Lime Juice
++ 3 parts (1.5cl) Sugar Syrup
 
 None
+
 
 -----------------
 
