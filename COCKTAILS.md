@@ -1989,6 +1989,24 @@ Melon slice
 
 -----------------
 
+#### John Collins
+
+Highball Glass
+
+_Build and stir in glass_
+
++ 3 parts (4.5cl) Gin
++ 2 parts (3cl) Lemon Juice
++ 1 part (1.5cl) Sugar Syrup
++ 1 dash Angostura Bitters
++ Top with 6 parts (6cl) Soda Water
+
+Lemon slice and Maraschino Cherry
+
+
+
+------------------
+
 #### June Bug
 
 Collins Glass
