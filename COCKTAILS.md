@@ -2905,10 +2905,14 @@ Old Fashioned Glass
 
 _Stir in glass_
 
-+ 4 parts Scotch whisky
-+ 2 parts Drambuie
++ 5 parts (4.5cl) Blended Scotch Whisky
++ 2 parts (2.5cl) Drambuie
 
 Lemon twist
+
+>Variations: Smoky Nail (Islay Whisky instead of Blended Scotch), Clavo Ahumado 
+>(Tequila instead of Whisky), Donald Sutherland (Canadian Whiskey instead of 
+>Scotch)
 
 
 -----------------
