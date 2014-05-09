@@ -204,12 +204,15 @@ Cocktail Glass
 
 _Shake hard, fine strain_
 
-+ 6 parts London Dry Gin
-+ 3 parts Lemon Juice
-+ 1.5 part Maraschino
-+ 1 part Crème de Violette
++ 6 parts (4.5cl) London Dry Gin
++ 3 parts (1.5cl) Lemon Juice
++ 3 parts (1.5cl) Maraschino
++ 1 part (0.5cl) Crème de Violette
 
-Lemon Zest
+Cherry
+
+>Variations: Blue Moon (remove Maraschino), Moonlight (Lime instead of Lemon and 
+>Cointreau instead of Maraschino)
 
 
 -----------------
