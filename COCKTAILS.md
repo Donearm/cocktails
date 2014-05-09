@@ -3263,6 +3263,24 @@ Orange twist
 
 -----------------
 
+#### Tuxedo
+
+Cocktail Glass
+
+_Stir in a mixing glass and fine strain_
+
++ 1 part (3cl) Old Tom Gin
++ 1 part (3cl) Dry Vermouth
++ 1/2 barspoon Maraschino
++ 1/4 barspoon Absinthe
++ 3 dashes Orange Bitters
+
+Cherry and Lemon twist
+
+
+
+-----------------
+
 #### Twinkle
 
 Sparkling Wine Glass
