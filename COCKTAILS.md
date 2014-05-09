@@ -72,11 +72,14 @@ Cocktail Glass
 
 _Shake with half ice. Strain_
 
-+ 1 part Gin
-+ 1 part Cream
-+ 1 part Creme de Cacao
++ 1 part (3cl) Gin
++ 1 part (3cl) Cream
++ 1 part (3cl) Creme de Cacao
 
 Grated Nutmeg
+
+>Variations: Coffee Alexander (Coffee Liqueur instead of Gin), Blue Alexander 
+>(Blue Curaçao instead of Creme de Cacao)
 
 
 ----------------
@@ -103,11 +106,11 @@ Old Fashioned Glass
 
 _Pour over glass into ice_
 
-+ 1 part Sweet Vermouth
-+ 1 part Campari
++ 1 part (3cl) Sweet Vermouth
++ 1 part (3cl) Campari
 + Fill with Soda Water
 
-Lemon Zest and orange slice
+Lemon Zest and Orange slice
 
 
 -----------------
