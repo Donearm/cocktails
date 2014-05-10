@@ -223,9 +223,9 @@ Shot or Highball Glass
 
 _Layer over a spoon in this order: Kahlua, Baileys, Grand Marnier. No ice._
 
-+ 1 part Kahlua
-+ 1 part Bailey's
-+ 1 part Grand Marnier
++ 1 part (2cl) Kahlua
++ 1 part (2cl) Bailey's
++ 1 part (2cl) Grand Marnier
 
 None
 
@@ -295,6 +295,23 @@ None
 
 --------------
 
+#### Barracuda
+
+Cocktail Glass
+
+_Build in glass_
+
++ 3 parts (4.5cl) Gold Rum
++ 1 part (1.5cl) Galliano
++ 4 parts (6cl) Pineapple Juice
++ 1 dash Lime Juice
++ Top with Prosecco
+
+None
+
+
+---------------
+
 #### Batida
 
 Highball Glass
@@ -329,10 +346,10 @@ None
 
 Sparkling Wine Glass
 
-_Build in glass_
+_Build in glass. Stir gently_
 
-+ 1 part Peach Pureé
-+ 2 parts Prosecco
++ 1 part (5cl) Peach Pureé
++ 2 parts (10cl) Prosecco
 
 None
 
@@ -390,10 +407,16 @@ None
 
 Old Fashioned Glass
 
-_Build in glass_
+_Build in glass. Stir gently_
 
-+ 2 parts Vodka
-+ 1 part Coffee Liqueur (Kahlua/Tia Maria)
++ 5 parts (5cl) Vodka
++ 2 parts (2cl) Coffee Liqueur (Kahlua/Tia Maria)
+
+None
+
+>Variations: Dirty Black Russian (top with Cola), Black Magic (add a dash of 
+>Lemon Juice and garnish with a lemon twist), Irish Russian (top with Guinness), 
+>Brown Russian (top with Ginger Ale)
 
 
 -----------------
@@ -584,14 +607,14 @@ Lemon Twist
 
 Old Fashioned Glass
 
-_Build in glass, drizzle Crème de Mure_
+_Build in glass over crushed ice_
 
-+ 4 parts London Dry Gin
-+ 3 parts Lemon Juice
-+ 1 part Gomme Syrup
-+ 1.5 parts Crème de Mure
++ 4 parts (4cl) London Dry Gin
++ 1.5 parts (1.5cl) Lemon Juice
++ 1 part (1cl) Sugar Syrup
++ Top with (1.5cl) Blackberry Liqueur
 
-Lemon slice and Raspberry
+Lemon slice and 2 Blackberries
 
 
 -----------------
@@ -757,9 +780,9 @@ Old Fashioned Glass
 
 _Muddle in glass. Fill with crushed ice_
 
-+ 6 parts Cachaça
++ 6 parts (6cl) Cachaça
 + 6 Lime Wedges
-+ 2 barspoon Sugar
++ 2 barspoon Brown Sugar
 
 Lime wedge
 
@@ -822,8 +845,8 @@ Sparkling Wine Glass
 _Build in glass_
 
 + 1 Sugar cube soaked with Angostura bitters
-+ 2 parts Cognac
-+ Top with Champagne
++ 2 parts (1cl) Cognac
++ Top with (9cl) Champagne
 
 Orange zest
 
@@ -1005,15 +1028,18 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 4 parts Lemon Vodka
-+ 2 parts Triple Sec
-+ 1 part Lime Juice
-+ 3 parts Cranberry Juice
++ 4 parts (4cl) Lemon Vodka
++ 2 parts (2cl) Cointreau/Triple Sec
++ 2 parts (2cl) Lime Juice
++ 3 parts (3cl) Cranberry Juice
 + 1 dash Orange Bitters
 
 Flamed Orange zest
 
->Variations: Rude Cosmo (Tequila instead of Vodka)
+>Variations: Rude Cosmo (Tequila instead of Vodka), Blue Cosmopolitan (white 
+>Cranberry Juice instead of red and Blue Curaçao instead of Triple Sec), 
+>Cosmocello (Limoncello instead of Lime Juice), Peach Cosmopolitan (Peach 
+>Schnapps instead of Triple Sec and Peach Juice instead of Cranberry)
 
 
 -----------------
@@ -1040,9 +1066,9 @@ Collins Glass
 
 _Build in glass_
 
-+ 4 parts Cuban style Rum
-+ 1 part Lime Juice
-+ Top with Coca Cola
++ 4 parts (4cl) Cuban style Rum
++ 1 part (1cl) Lime Juice
++ Top with (12cl) Coca Cola
 
 Lime wedge
 
@@ -1121,8 +1147,8 @@ Collins Glass
 
 _Build in glass_
 
-+ 6 parts Goslings Black Rum
-+ 3 parts Lime Juice
++ 6 parts (6cl) Goslings Black Rum
++ 3 parts (3cl) Lime Juice
 + Top with Ginger Beer
 
 Lime wedge
@@ -1448,9 +1474,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 2 parts Vodka
-+ 2 parts Coffee Liqueur (Kahlua/Tia Maria)
-+ 2 parts Chilled Espresso
++ 5 parts (5cl) Vodka
++ 1 part (1cl) Coffee Liqueur (Kahlua/Tia Maria)
++ 3 parts (3cl) Chilled Espresso
++ Sugar Syrup (optional)
 
 3 Coffee beans
 
@@ -1533,12 +1560,12 @@ Mint sprig
 
 Sparkling Wine Glass
 
-_Shake first ingredients, top sparkling wine_
+_Shake hard, fine strain, top and stir gently_
 
-+ 5 parts Gin
-+ 2 parts Lemon Juice
-+ 1 splash Gomme Syrup
-+ Top with Sparkling wine
++ 6 parts (3cl) Gin
++ 3 parts (1.5cl) Lemon Juice
++ 2 dashes Sugar Syrup
++ Top with (6cl) Champagne
 
 Lemon zest
 
@@ -1551,12 +1578,13 @@ Lemon zest
 
 Old Fashioned Glass
 
-_Build in glass_
+_Build in glass. Stir gently_
 
-+ 3 parts Cognac
-+ 3 parts Amaretto Liqueur
++ 3 parts (3.5cl) Cognac
++ 3 parts (3.5cl) Amaretto Liqueur
 
 None
+
 
 -----------------
 
@@ -1564,13 +1592,14 @@ None
 
 Cocktail Glass
 
-_Shake hard and fine strain_
+_Stir in mixing glass and strain_
 
-+ 3 parts Vodka
-+ 1 part Chambord
-+ 3 parts Pineapple Juice
++ 3 parts (4.5cl) Vodka
++ 1 part (1.5cl) Chambord
++ 1 part (1.5cl) Pineapple Juice
 
-None
+Lemon zest
+
 
 -----------------
 
@@ -1733,8 +1762,8 @@ Old Fashioned Glass
 
 _Build in glass_
 
-+ 3 parts Cognac
 + 3 parts Scotch Whisky
++ 3 parts Amaretto
 
 None
 
@@ -1775,10 +1804,10 @@ Cocktail Glass
 
 _Shake with crushed ice and fine strain_
 
-+ 2 parts Galliano
-+ 2 parts Cointreau/Triple Sec
-+ 2 parts Orange Juice
-+ 1 part Cream
++ 2 parts (2cl) Galliano
++ 2 parts (2cl) Cointreau/Triple Sec
++ 2 parts (2cl) Orange Juice
++ 1 part (1cl) Cream
 
 Orange slice or Umbrella
 
@@ -1791,11 +1820,14 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 2 parts White Creme de Cacao
-+ 2 parts Creme de Menthe
-+ 2 parts Cream
++ 1 part (3cl) White Creme de Cacao
++ 1 part (3cl) Creme de Menthe
++ 1 part (3cl) Cream
 
 Shaved Chocolate
+
+>Variations: Flying Grasshopper (Vodka instead of Cream), Brown Grasshopper (add 
+>Coffee) 
 
 
 -----------------
@@ -1854,9 +1886,9 @@ Collins Glass
 
 _Build in glass_
 
-+ 3 parts Vodka
-+ 6 parts Orange Juice
-+ Top with Galliano
++ 3 parts (4.5cl) Vodka
++ 6 parts (9cl) Orange Juice
++ Top with (1.5cl) Galliano
 
 Orange Slice or Maraschino Cherry
 
@@ -1867,12 +1899,12 @@ Orange Slice or Maraschino Cherry
 
 Cocktail Glass Glass
 
-_Build in glass_
+_Shake and fine strain_
 
-+ 6 parts Light Rum
-+ 3 parts Lime Juice
-+ 1 part Maraschino
-+ 1 part Grapefruit Juice
++ 6 parts (6cl) Light Rum
++ 4 parts (4cl) Grapefruit Juice
++ 1 part (1.5cl) Lime Juice
++ 1 part (1.5cl) Maraschino
 + Optional: Simple Syrup to taste
 
 Orange Slice
@@ -1886,8 +1918,8 @@ Old Fashioned Glass
 
 _Stir in glass_
 
-+ 1 part Brandy/Cognac
-+ 3 parts Red Beer
++ 1 part (4cl) Brandy/Cognac
++ 3 parts (12cl) Red Beer
 + 1 dash Angostura Bitters
 
 Lemon zest
@@ -1918,12 +1950,12 @@ Lime wedge and cherry
 
 Mug
 
-_Build in glass_
+_Heat Coffee, Whiskey and Sugar. Do not boil. Build in glass and top with Cream_
 
-+ 2 parts Whiskey
-+ 4 parts Hot Coffee
-+ 1 teaspoon Sugar
-+ Top with 1.5 parts of Cream
++ 2 parts (4cl) Whiskey
++ 4 parts (8cl) Hot Coffee
++ 1 teaspoon Brown Sugar
++ Top with 1.5 parts (3cl) of Cream
 
 None
 
@@ -2031,9 +2063,9 @@ Cocktail Glass/Old Fashioned Glass
 
 _Shake hard and fine strain_
 
-+ 2 parts Vodka
-+ 2 parts Cointreau/Triple Sec
-+ 2 parts Lime Juice
++ 1 part (3cl) Vodka
++ 1 part (3cl) Cointreau/Triple Sec
++ 1 part (3cl) Lime Juice
 
 Lime wedge
 
@@ -2046,8 +2078,8 @@ Wine Goblet
 
 _Stir gently in glass_
 
-+ 9 parts sparkling White Wine
-+ 1 part Creme de Cassis
++ 9 parts (9cl) sparkling White Wine
++ 1 part (1cl) Creme de Cassis
 
 None
 
@@ -2125,6 +2157,21 @@ Lemon twist
 
 -----------------
 
+#### Lemon Drop Martini
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts (2.5cl) Vodka Citron
++ 2 parts (2cl) Cointreau/Triple Sec
++ 1 part (1.5cl) Lemon Juice
+
+Sugar rim and Lemon wedge
+
+
+------------------
+
 #### Long Beach Iced Tea
 
 Highball Glass
@@ -2155,10 +2202,11 @@ _Build in glass, or shake first ingredients and top with Coke_
 + 2 parts Light Rum
 + 2 parts Blanco Tequila
 + 2 parts Triple Sec
-+ 4 parts Lemon Juice
++ 3 parts Lemon Juice
++ 4 parts Gomme Syrup
 + Top with Coca Cola
 
-Lemon Wedge
+Lemon twist
 
 
 -----------------
@@ -2183,15 +2231,15 @@ Lemon wedge
 
 Old Fashioned Glass
 
-_Shake hard and strain over crushed ice_
+_Shake hard and strain over crushed ice. Float the Dark Rum on top_
 
-+ 3 parts Light Rum (Jamaican)
-+ 3 parts Dark Rum (Jamaican)
-+ 3 parts Lime Juice
-+ 1.5 parts Triple Sec
-+ 1 part Orgeat
++ 8 parts (4cl) Light Rum (Jamaican)
++ 4 parts (2cl) Dark Rum (Jamaican)
++ 2 parts (1cl) Lime Juice
++ 3 parts (1.5cl) Triple Sec/Orange Curaçao
++ 3 parts (1.5cl) Orgeat
 
-Lime wedge and Cherry
+Lime zest and Pineapple wedge
 
 >Created 1944 by Trader Vic
 
@@ -2234,9 +2282,9 @@ Cocktail/Old Fashioned Glass
 
 _Shake hard and fine strain_
 
-+ 5 parts Tequila
-+ 3 parts Triple Sec
-+ 2 parts Lime Juice
++ 7 parts (3.5cl) Tequila
++ 4 parts Triple Sec
++ 3 parts (1.5cl) Lime Juice
 
 Lime wedge and Salt rim
 
@@ -2304,7 +2352,8 @@ _Stir in mixing glass and strain_
 Lemon twist or Olive(s) on a stick
 
 >Variations: Wet Martini (slightly more Vermouth), Gibson (Pickled Onion as 
->garnish), Kangeroo/Vodka Martini (Vodka instead of Gin)
+>garnish), Kangeroo/Vodka Martini (Vodka instead of Gin), Dirty Martini (Vodka 
+>instead of Gin and 2 parts of Olive Juice)
 
 
 -----------------
@@ -2346,10 +2395,10 @@ None
 
 Champagne Flute
 
-_Stir gently_
+_Build in glass. Stir gently_
 
-+ 1 part Orange Juice
-+ Fill with Champagne
++ 1 part (7.5cl) Orange Juice
++ Fill with (7.5cl) Champagne
 
 None
 
@@ -2361,11 +2410,12 @@ None
 
 Collins Glass
 
-_Lightly muddle ingredients except Bourbon in mixing glass. Strain into glass half filled with crushed ice, add Bourbon, churn and refill with ice until full_
+_Muddle ingredients except Bourbon in glass. Add crushed ice and Bourbon. Churn_
 
-+ 5 parts Bourbon
-+ 10-12 Mint Leaves
-+ 1 part Gomme Syrup
++ 6 parts (6cl) Bourbon
++ 4 Mint Leaves
++ 1 teaspoon Sugar
++ 2 teaspoons Water
 + 3 dashes Angostura bitters
 
 Mint sprig
@@ -2382,13 +2432,15 @@ Collins Glass
 
 _Slap mint, add other ingredients, churn with crushed ice_
 
-+ 6 parts Cuban style Rum
-+ 3 parts Lime Juice
++ 4 parts (4cl) Cuban style Rum
++ 3 parts (3cl) Lime Juice
 + 2 parts Gomme Syrup
 + Approx 8-12 Mint Leaves
-+ Top Soda Water
++ Top with Soda Water
 
 Lime wedge and mint sprig
+
+>Variations: Mexican Mojito (Tequila instead of Rum)
 
 
 -----------------
@@ -2431,9 +2483,9 @@ Collins Glass
 
 _Build in glass_
 
-+ 4 parts Vodka
-+ 2 parts Lime Juice
-+ Top with Ginger Beer
++ 4 parts (4cl) Vodka
++ 1 part (1cl) Lime Juice
++ Top with (12cl) Ginger Beer
 + Optional: Dash Angostura Bitters
 
 Lime wedge
@@ -2692,16 +2744,16 @@ None
 
 Collins Glass
 
-_Shake and strain_
+_Shake with crushed ice and strain_
 
-+ 3 parts Light Rum
-+ 3 parts Coconut Rum
-+ 1 part Lime Juice
-+ 1.5 parts Coconut Cream
-+ 1 part Cream
-+ 8 parts Pineapple Juice
++ 3 parts (3cl) Light Rum
++ 3 parts (3cl) Coconut Rum
++ 1 part (1cl) Lime Juice
++ 1.5 parts (1.5cl) Coconut Cream
++ 1 part (1cl) Cream
++ 9 parts (9cl) Pineapple Juice
 
-Lime wedge ad Pineapple slice
+Pineapple wedge and Maraschino Cherry
 
 
 -----------------
@@ -2724,12 +2776,12 @@ Lemon zest
 
 Coupette
 
-_Dry Shake, wet shake and strain_
+_Dry Shake, wet shake and strain. No ice_
 
-+ 6 parts Pisco
-+ 3 parts Lemon Juice
-+ 1 part Sugar Syrup
-+ 1 part Egg White
++ 6 parts (4.5cl) Pisco
++ 4 parts (3cl) Lemon Juice
++ 3 parts (2cl) Sugar Syrup
++ 1 Egg White
 
 None
 
@@ -2844,9 +2896,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 9 parts Dry Vermouth
-+ 3 parts Kirsch
-+ 2 parts Cherry Brandy
++ 2 parts (4cl) Dry Vermouth
++ 1 parts (2cl) Kirsch
++ 3 dashes Strawberry Syrup
 
 Maraschino Cherry
 
@@ -2886,15 +2938,15 @@ Lime wedge and Mint leaf
 
 Collins Glass
 
-_Build in glass_
+_Shake and strain_
 
-+ 6 parts Vodka
-+ 3 parts Lemon Juice
-+ 1 part Gomme Syrup
-+ 1.5 parts Creme de Cassis
++ 3 parts (2.5cl) Vodka
++ 3 parts (2.5cl) Lemon Juice
++ 1.5 parts (1cl) Sugar Syrup
++ 2 parts (1.5cl) Creme de Cassis
 + Top with Sparkling Wine
 
-Lemon wedge and Raspberries
+Lemon wedge and Blackberry
 
 
 -----------------
@@ -3013,9 +3065,9 @@ Highball Glass
 
 _Build in glass_
 
-+ 4 parts Vodka
-+ 3 parts Grapefruit Juice
-+ 4 parts Raspberry Juice
++ 4 parts (4cl) Vodka
++ 3 parts (3cl) Grapefruit Juice
++ Top with (12cl) Cranberry Juice
 
 None
 
@@ -3028,10 +3080,10 @@ Collins Glass
 
 _Shake and strain_
 
-+ 2 parts Vodka
-+ 2 parts Peach Liqueur
-+ 3 parts Orange Juice
-+ 3 parts Cranberry Juice
++ 2 parts (4cl) Vodka
++ 1 parts (2cl) Peach Liqueur
++ 2 parts (4cl) Orange Juice
++ 2 parts (4cl) Cranberry Juice
 
 Orange slice
 
@@ -3060,13 +3112,13 @@ Sling Glass/Collins Glass
 
 _Shake and strain_
 
-+ 8 parts Gin
-+ 4 parts Cherry Brandy
-+ 1 part Cointreau/Triple Sec
-+ 1 part Benedictine
-+ 2 parts Grenadine Syrup
-+ 16 parts Pineapple Juice
-+ 6 parts Lemon Juice
++ 8 parts (3cl) Gin
++ 4 parts (1.5cl) Cherry Brandy
++ 2 parts (0.75cl) Cointreau/Triple Sec
++ 2 parts (0.75cl) Benedictine
++ 3 parts (1cl) Grenadine Syrup
++ 16 parts (12cl) Pineapple Juice
++ 4 parts (1.5cl) Lime Juice
 + 1 dash Angostura Bitters
 
 Pineapple wedge and Maraschino Cherry
@@ -3087,6 +3139,21 @@ _Shake hard and fine strain_
 + (Optional) 1 dash Angostura Bitters
 
 None
+
+-----------------
+
+#### Spritz Veneziano
+
+Old Fashioned Glass
+
+_Build in glass_
+
++ 6 parts (6cl) Prosecco
++ 4 parts (4cl) Aperol
++ Top with 1 splash of Soda Water
+
+Orange slice
+
 
 -----------------
 
@@ -3185,11 +3252,11 @@ Lemon Wedge/Zest and Maraschino Cherry
 
 Collins Glass
 
-_Build in glass_
+_Build in glass. Sink the Grenadine_
 
-+ 5 parts Tequila
-+ 5 parts Orange Juice
-+ 1 part Grenadine Syrup
++ 3 parts (4.5cl) Tequila
++ 6 parts (9cl) Orange Juice
++ 1 part (1.5cl) Grenadine Syrup
 
 Orange Slice and Maraschino Cherry
 
@@ -3232,15 +3299,15 @@ Maraschino Cherry and Lemon slice (or Orange Slice)
 
 -----------------
 
-#### Tommys Margarita
+#### Tommy's Margarita
 
 Cocktail/Old Fashioned Glass
 
 _Shake and fine strain_
 
-+ 6 parts Tequila
-+ 3 parts Lime Juice
-+ 2 parts Agave Syrup
++ 6 parts (4.5cl) Tequila
++ 2 parts (1.5cl) Lime Juice
++ 2 barspoons Agave Syrup
 
 Lime wedge
 
@@ -3296,17 +3363,39 @@ Lemon twist
 
 -----------------
 
+#### Vampiro
+
+Highball Glass
+
+_Shake and strain_
+
++ 5 parts (5cl) Tequila
++ 7 parts (7cl) Tomato Juice
++ 3 parts (3cl) Orange Juice
++ 1 part (1cl) Lime Juice
++ 1 teaspoon Honey
++ Half slice Onion, chopped
++ A few slices of Red Chili Peppers
++ A few drops of Worcestershire Sauce
++ Salt
+
+Lime wedge and Chili (Green or Red)
+
+
+------------------
+
 #### Vesper Martini
 
-Cocktail Glass
+Cocktail Glass/Champagne Coupe
 
 _Shake hard and fine strain_
 
-+ 8 parts Vodka
-+ 3 parts Dry Gin
-+ 2 parts Kina Lillet
++ 8 parts (6cl) Gin
++ 2 parts (1.5cl) Vodka
++ 1 part (0.75cl) Kina Lillet
 
 Lemon twist
+
 
 -----------------
 
@@ -3421,6 +3510,22 @@ None
 
 
 --------------------
+
+#### Yellow Bird
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts (3cl) White Rum
++ 2 parts (1.5cl) Galliano
++ 2 parts (1.5cl) Triple Sec
++ 2 parts (1.5cl) Lime Juice
+
+Lime slice
+
+
+------------------
 
 #### Zombie
 >Some recipes add Overproof rum and Absinthe – very strong!
