@@ -387,6 +387,21 @@ Lemon twist
 
 -----------------
 
+#### Big Apple
+
+Highball Glass
+
+_Build in glass. Squeeze and top with the Lime wedge_
+
++ 1 part (3cl) Licor 43)
++ 3 parts (9cl) Apple Juice
++ 1 Lime wedge
+
+Lime wedge
+
+
+----------------
+
 #### Black Martini
 
 Cocktail Glass
@@ -1044,6 +1059,21 @@ Flamed Orange zest
 
 -----------------
 
+#### Crush 43
+
+Highball Glass
+
+_Muddle the lemon. Fill with crushed ice. Churn_
+
++ 3 parts (6cl) Licor 43
++ Half a Lemon
++ Top with 1 part (2cl) Soda Water
+
+Lemon slice
+
+
+----------------
+
 #### Crusta    
 
 Collins Glass
@@ -1615,6 +1645,20 @@ None
 
 
 ----------------
+
+#### Garibaldi
+
+Highball Glass
+
+_Build in glass_
+
++ 1 part (4cl) Campari
++ Fill with Orange Juice
+
+Orange slice
+
+
+---------------
 
 #### Gimlet
 
@@ -2440,7 +2484,8 @@ _Slap mint, add other ingredients, churn with crushed ice_
 
 Lime wedge and mint sprig
 
->Variations: Mexican Mojito (Tequila instead of Rum)
+>Variations: Mexican Mojito (Tequila instead of Rum), Campari Mojito (Campari 
+>instead of Rum)
 
 
 -----------------
@@ -2771,6 +2816,21 @@ Lemon zest
 
 
 -------------------
+
+#### Pink Panther
+
+Highball Glass
+
+_Shake and strain_
+
++ 1 part (3cl) Licor 43
++ 3 parts (9cl) Milk
++ 1 dash Grenadine Syrup
+
+Cherry
+
+
+----------------
 
 #### Pisco Sour
 
@@ -3141,6 +3201,21 @@ _Shake hard and fine strain_
 None
 
 -----------------
+
+#### Spanish Coffee
+
+Wine Glass
+
+_Build in glass_
+
++ 2 parts (4cl) Licor 43
++ 6 parts (12cl) Espresso Coffee
++ Top with Whipped Cream
+
+Cinnamon or Cocoa powder
+
+
+------------------
 
 #### Spritz Veneziano
 
