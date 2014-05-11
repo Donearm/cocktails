@@ -90,12 +90,13 @@ Coupette Glass
 
 _Shake hard and fine strain_
 
-+ 4 parts Amaretto liqueur
-+ 2 parts Lemon Juice
++ 4 parts (4cl) Amaretto liqueur
++ 2 parts (2cl) Lemon Juice
 + 1 splash Gomme Syrup
++ 2 dashes Angostura Bitters
 + Optional - Egg white
 
-Lemon Zest
+Lemon Zest and Cherry
 
 
 -----------------
@@ -327,6 +328,21 @@ None
 
 --------------
 
+#### Bay Breeze
+
+Highball Glass
+
+_Build in glass_
+
++ 4 parts (4cl) Vodka
++ 6 parts (6cl) Cranberry Juice
++ Float 4 parts (4cl) Pineapple Juice
+
+None
+
+
+----------------
+
 #### Bee's Knees
 
 Cocktail Glass
@@ -424,7 +440,7 @@ Old Fashioned Glass
 
 _Build in glass. Stir gently_
 
-+ 5 parts (5cl) Vodka
++ 4 parts (4cl) Vodka
 + 2 parts (2cl) Coffee Liqueur (Kahlua/Tia Maria)
 
 None
@@ -812,9 +828,9 @@ Collins Glass
 
 _Build in glass_
 
-+ 5 parts Vodka
-+ 1 part Lime Juice
-+ Top with Cranberry Juice
++ 4 parts (4cl) Vodka
++ 1 part (1cl) Lime Juice
++ Fill with Cranberry Juice
 
 Lime wedge
 
@@ -1680,7 +1696,7 @@ Highball Glass
 
 _Build in glass_
 
-+ 3 parts Gin
++ 4 parts (4cl) Gin
 + Fill with Tonic Water
 
 Lime wedge
@@ -1930,9 +1946,9 @@ Collins Glass
 
 _Build in glass_
 
-+ 3 parts (4.5cl) Vodka
-+ 6 parts (9cl) Orange Juice
-+ Top with (1.5cl) Galliano
++ 4 parts (4cl) Vodka
++ 8 parts (8cl) Orange Juice
++ Top with (1cl) Galliano
 
 Orange Slice or Maraschino Cherry
 
@@ -2089,12 +2105,12 @@ Collins Glass
 
 _Shake hard and strain_
 
-+ 3 parts Vodka
-+ 3 parts Lime Juice
-+ 2 parts Midori
-+ 2 parts Malibu Coconut Rum
-+ 2 parts Crème de Banane
-+ 8 parts Pineapple juice
++ 1 part (1cl) Vodka
++ 1 part (1cl) Midori
++ 1 part (1cl) Malibu Coconut Rum
++ 1 part (1cl) Crème de Banane
++ 3 parts (3cl) Lime Juice
++ 6 parts (6cl) Pineapple juice
 
 Lime wedge or Pineapple wedge
 
@@ -2222,13 +2238,13 @@ Highball Glass
 
 _Shake and strain_
 
-+ 1 part Vodka
-+ 1 part White Rum
-+ 1 part Gin
-+ 1 part Tequila
-+ 1 part Cointreau/Triple Sec
-+ 2 parts Lemon Juice
-+ Top with Raspberry Juice
++ 2 parts (2cl) Vodka
++ 2 parts (2cl) White Rum
++ 2 parts (2cl) Gin
++ 2 parts (2cl) Tequila
++ 2 parts (2cl) Cointreau/Triple Sec
++ 3 parts (3cl) Lemon Juice
++ Top with Cranberry Juice
 
 Lemon wedge
 
@@ -2241,13 +2257,13 @@ Collins/Sling Glass
 
 _Build in glass, or shake first ingredients and top with Coke_
 
-+ 2 parts Vodka
-+ 2 parts Dry Gin
-+ 2 parts Light Rum
-+ 2 parts Blanco Tequila
-+ 2 parts Triple Sec
-+ 3 parts Lemon Juice
-+ 4 parts Gomme Syrup
++ 2 parts (2cl) Vodka
++ 2 parts (2cl) Dry Gin
++ 2 parts (2cl) Light Rum
++ 2 parts (2cl) Blanco Tequila
++ 2 parts (2cl) Triple Sec
++ 3 parts (3cl) Lemon Juice
++ 4 parts (4cl) Gomme Syrup
 + Top with Coca Cola
 
 Lemon twist
@@ -2261,10 +2277,11 @@ Collins Glass
 
 _Build in glass_
 
-+ 4 parts Jack Daniels
-+ 2 parts Triple Sec
-+ 2 parts Lemon Juice
-+ Top with Lemonade
++ 4 parts (4cl) Jack Daniels
++ 2 parts (2cl) Triple Sec
++ 2 parts (2cl) Lemon Juice
++ 1 part (1cl) Sugar Syrup
++ Top with Lemonade/Sprite
 
 Lemon wedge
 
@@ -2272,6 +2289,7 @@ Lemon wedge
 -----------------
 
 #### Mai Tai
+>Created 1944 by Trader Vic
 
 Old Fashioned Glass
 
@@ -2284,8 +2302,6 @@ _Shake hard and strain over crushed ice. Float the Dark Rum on top_
 + 3 parts (1.5cl) Orgeat
 
 Lime zest and Pineapple wedge
-
->Created 1944 by Trader Vic
 
 
 -----------------
@@ -2327,8 +2343,9 @@ Cocktail/Old Fashioned Glass
 _Shake hard and fine strain_
 
 + 7 parts (3.5cl) Tequila
-+ 4 parts Triple Sec
++ 4 parts (2cl) Triple Sec
 + 3 parts (1.5cl) Lime Juice
++ 2 parts (1cl) Sugar Syrup
 
 Lime wedge and Salt rim
 
@@ -2435,6 +2452,21 @@ None
 
 -----------------
 
+#### Midori Sour
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 4 parts (4cl) Midori
++ 6 parts (6cl) Sweet and Sour Mix
++ 2 dashes Angostura Bitters
+
+Lemon wedge and Cherry
+
+
+-----------------
+
 #### Mimosa
 
 Champagne Flute
@@ -2529,7 +2561,7 @@ Collins Glass
 _Build in glass_
 
 + 4 parts (4cl) Vodka
-+ 1 part (1cl) Lime Juice
++ 2 parts (2cl) Lime Juice
 + Top with (12cl) Ginger Beer
 + Optional: Dash Angostura Bitters
 
@@ -2705,13 +2737,14 @@ Lime wedge and Salt rim
 -----------------
 
 #### Papa's Daiquiri
+>Also known as Hemingway Daiquiri
 
 Champagne Flute
 
 _Shake with crushed ice and fine strain_
 
-+ 1 part Rum
-+ 1 part Grapefruit Juice
++ 2 parts (4cl) Rum
++ 1 part (2cl) Grapefruit Juice
 + 1 teaspoon Sugar
 + 10 drops of Maraschino
 
@@ -3089,10 +3122,10 @@ Collins Glass
 
 _Shake and strain_
 
-+ 3 parts Vodka
-+ 2 parts Bailey's
-+ 2 parts Coffee Liqueur (Kahlua/Tia Maria)
-+ 2 parts Amaretto
++ 3 parts (3cl) Vodka
++ 2 parts (2cl) Bailey's
++ 2 parts (2cl) Coffee Liqueur (Kahlua/Tia Maria)
++ 2 parts (2cl) Amaretto
 + Fill with Milk or Half'n'Half
 
 Orange Slice
@@ -3106,8 +3139,8 @@ Highball Glass
 
 _Build in glass_
 
-+ 1 part (5cl) Vodka
-+ 2 parts (10cl) Orange Juice
++ 1 part (4cl) Vodka
++ 2 parts (8cl) Orange Juice
 
 Orange wedge
 
@@ -3126,8 +3159,8 @@ Highball Glass
 _Build in glass_
 
 + 4 parts (4cl) Vodka
-+ 3 parts (3cl) Grapefruit Juice
-+ Top with (12cl) Cranberry Juice
++ 6 parts (6cl) Cranberry Juice
++ Top with (4cl) Grapefruit Juice
 
 None
 
@@ -3146,6 +3179,9 @@ _Shake and strain_
 + 2 parts (4cl) Cranberry Juice
 
 Orange slice
+
+>Variations: Sex on the beach - US version (1 part each for Midori and Chambord 
+>instead of Peach liqueur and Pineapple juice instead of Orange)
 
 
 -----------------
@@ -3358,6 +3394,26 @@ None
 
 -------------------
 
+#### Tokyo Iced Tea
+
+Highball Glass
+
+_Shake and strain_
+
++ 2 parts (2cl) Vodka
++ 2 parts (2cl) Gin
++ 2 parts (2cl) White Rum
++ 2 parts (2cl) Midori
++ 2 parts (2cl) Tequila
++ 2 parts (2cl) Lemon Juice
++ 1 part (1cl) Sugar Syrup
++ Top with Lemonade/Sprite
+
+Lemon wedge
+
+
+-----------------
+
 #### Tom Collins
 
 Collins Glass
@@ -3561,9 +3617,9 @@ Old Fashioned Glass
 
 _Build in glass_
 
-+ 2 parts Vodka
-+ 2 parts Coffee Liqueur (Kahlua/Tia Maria)
-+ 2 parts Milk/Cream
++ 4 parts (4cl) Vodka
++ 2 parts (2cl) Coffee Liqueur (Kahlua/Tia Maria)
++ 2 parts (2cl) Milk/Cream
 
 3 Coffee beans
 
@@ -3585,6 +3641,21 @@ None
 
 
 --------------------
+
+#### Woo Woo
+
+Highball Glass
+
+_Build in glass_
+
++ 3 parts (3cl) Vodka
++ 3 parts (3cl) Peach Liqueur
++ Fill with Cranberry Juice
+
+Lime wedge
+
+
+------------------
 
 #### Yellow Bird
 
