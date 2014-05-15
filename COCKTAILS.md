@@ -540,6 +540,21 @@ Salt/Pepper rim, celery stick
 
 -----------------
 
+#### Blow Job
+
+Shot Glass
+
+_Layer in order_
+
++ 1 part Coffee liqueur (Kahlua/Tia Maria)
++ 1 part Bailey's
++ Top with Whipped Cream
+
+None
+
+
+----------------
+
 #### Blue Hawaii
 
 Hurricane Glass
@@ -3327,6 +3342,22 @@ Orange slice
 
 -----------------
 
+#### Sex with an Alligator
+
+Shot Glass
+
+_Shake Midori and Sweet and Sour Mix. Strain in glass. Layer then the Raspberry liqueur and Jaegermesiter, in this order_
+
++ 3 parts Midori
++ 3-4 splashes Sweet and Sour Mix
++ 3 parts Raspberry Liqueur
++ 1 part Jaegermeister
+
+None
+
+
+-------------------
+
 #### Sidecar
 
 Cocktail Glass
@@ -3559,6 +3590,21 @@ Orange Slice and Maraschino Cherry
 >Sunrise (Vodka instead of Tequila), Amaretto Sunrise (Amaretto liqueur instead 
 >of Tequila), Florida Sunrise (half Pineapple and half Orange Juice), Enamorada 
 >Sunrise (Campari instead of Grenadine)
+
+
+-----------------
+
+#### Three Wise Men
+
+Old Fashioned Glass
+
+_Build in glass_
+
++ 1 part Scotch Whisky
++ 1 part Tennessee Whiskey
++ 1 part Bourbon
+
+None
 
 
 -----------------
