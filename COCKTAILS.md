@@ -267,8 +267,29 @@ Flamed Orange zest
 >Variations: Club Cocktail (Sweet Vermouth instead of Dry Vermouth)
 
 
-
 -----------------
+
+#### American Beauty
+
+Cocktail Glass
+
+_Shake, fine strain and float_
+
++ 4 parts (4cl) Brandy
++ 3 parts (3cl) Dry Vermouth
++ 3 parts (3cl) Orange Juice
++ 2 dashes Creme de Menthe
++ 2 dashes Grenadine
++ Float with (3cl) Tawny Port
+
+None
+
+>Variations: Dale DeGroff's recipe is same amount of Brandy, Vermouth and Orange 
+>Juice, no Creme de Menthe, optional 2 dashes of Sugar Syrup and a Rose petal as 
+>garnish
+
+
+----------------
 
 #### Americano
 
@@ -295,6 +316,23 @@ _Slowly mix champagne and juice. Pour in a glass filled with finely crushed ice_
 + 1 part Pineapple Juice
 
 Pineapple cubes
+
+
+----------------
+
+#### Anejo Highball
+
+Highball Glass
+
+_Build in glass_
+
++ 7 parts (4cl) Anejo Rum
++ 3 parts (1.5cl) Orange Curaçao
++ 2 parts (1cl) Lime Juice
++ 2 dashes Angostura Bitters
++ Fill with Ginger Beer
+
+Lime wheel and Orange slice
 
 
 ----------------
@@ -368,6 +406,54 @@ Apple slice
 
 ----------------
 
+#### Apricot Cocktail
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts (3cl) Gin
++ 2 parts (3cl) Apricot Brandy
++ 2 parts (3cl) Orange Juice
++ 1 part (1.5cl) Lemon Juice
+
+Cherry and Flamed Orange zest
+
+
+------------------
+
+#### Apricot-Mango Martini
+
+Cocktail Glass
+
+_Muddle the Mango pieces in shaker, shake and fine strain_
+
++ 7 parts (7cl) Tanqueray Gin
++ 2 part (1.5cl) Apricot Brandy
++ 2 part (1.5cl) Sugar Syrup
++ 3 parts (2cl) Lemon Juice
+
+Lemon zest
+
+
+------------------
+
+#### Aqueduct
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 5 parts (4cl) Vodka
++ 2 parts (1.5cl) Triple Sec
++ 2 parts (1.5cl) Apricot Brandy
++ 2 parts (1.5cl) Lime Juice
+
+None
+
+
+-----------------
+
 #### Aviation
 
 Cocktail Glass
@@ -434,6 +520,21 @@ None
 
 --------------
 
+#### Bacardi Martini
+
+Cocktail Glass
+
+_Stir and strain_
+
++ 6 parts (6cl) Bacardi White Rum
++ 2 dashes Angostura Bitters
++ 2 dashes Dry Vermouth
+
+Lime peel
+
+
+--------------
+
 #### Baggage
 
 Cocktail Glass
@@ -450,6 +551,40 @@ None
 
 --------------
 
+#### Bakunin
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 3 parts (4cl) Stolichnaya Vodka
++ 4 parts (6cl) Orange Juice
++ 2 parts (3cl) Grand Marnier
++ 1 part (1.5cl) Lemon Juice
++ 1 dash Grenadine
+
+None
+
+
+---------------
+
+#### Balit Cocktail
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 9 parts (6cl) Medium Sherry
++ 3 parts (2cl) Orange Juice
++ 2 parts (1.5cl) Cointreau/Triple Sec
++ 2 dashes Angostura Bitters
++ 2 Orange slices (optional, muddle in the shaker)
+
+Flamed Orange zest
+
+
+----------------
+
 #### Banana Daiquiri
 
 Cocktail Glass
@@ -464,6 +599,25 @@ None
 
 
 --------------
+
+#### Barcelona Frozen
+
+Sherry or London-dock Glass
+
+_Blend in blender_
+
++ 2 parts (2cl) Spanish Brandy
++ 2 parts (2cl) Dry Sack Sherry
++ 2 parts (2cl) Cointreau
++ 2 parts (2cl) Orange Juice
++ 2 parts (2cl) Cream
++ 3 parts (3cl) Sugar Syrup
++ Crushed ice to blend
+
+Pinch of Cinnamon
+
+
+----------------
 
 #### Barnamint Bailey's
 
@@ -529,6 +683,22 @@ None
 
 
 ----------------
+
+#### Bee's Kiss
+>From the Ritz Bar in Paris (1936)
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts (4cl) White Rum
++ 3 parts (3cl) Cream
++ 2 teaspoons Honey
+
+None
+
+
+---------------
 
 #### Bee's Knees
 
