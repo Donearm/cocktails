@@ -36,6 +36,90 @@ Orange peel
 
 ----------------
 
+#### ABC Pousse Café
+
+Pousse-cafe or Cordial Glass
+
+_Layer in order_
+
++ 1 part (1.5cl) Amaretto
++ 1 part (1.5cl) Bailey's
++ 1 part (1.5cl) Cointreau
+
+None
+
+
+----------------
+
+#### Absinthe n°2
+
+Cocktail Glass
+
+_Stir and strain_
+
++ 2 parts (6cl) Gin
++ 1 part (3cl) Absinthe
++ 2 dashes Orange bitters
+
+None
+
+
+-----------------
+
+#### Absinthe Suissesse
+
+Champagne Flute
+
+_Shake hard and strain_
+
++ 2 parts (3cl) Absinthe
++ 1 splash Anisette
++ 1 part (1.5cl) Creme de Menthe
++ 2 parts (3cl) Egg White
++ 1 dash Orange Flower Water
+
+Grated Orange zest
+
+
+-----------------
+
+#### Absolutely Bananas
+>Invented by David Thompson in 1996
+
+Cocktail Glass
+
+_Shake hard and fine strain_
+
++ 5 parts (4cl) Vodka
++ 2 parts (1.5cl) Banana liqueur
++ 5 parts (4cl) Pineapple Juice
+
+None
+
+
+-------------------
+
+#### Adonis
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part (3cl) Dry Sherry
++ 1 part (3cl) Sweet Vermouth
++ 1 part (3cl) Orange Juice
++ 1 dash Orange Bitters
++ 1 dash Sugar Syrup
+
+Orange zest
+
+>Variations: a simpler one is without the Orange Juice and the Sugar Syrup, with 
+>Sherry being 50% more than the Vermouth
+
+
+
+-----------------
+
 #### Agonie
 
 Cocktail Glass
@@ -50,6 +134,49 @@ Lemon Zest
 
 
 ----------------
+
+#### Alabama Slammer
+
+Highball Glass
+
+_Build in glass_
+
++ 1 part (2.5cl) Amaretto
++ 1 part (2.5cl) Southern Comfort
++ 1 part (2.5cl) Sloe Gin
++ Fill with Orange Juice
+
+None
+
+>Variations: Dale DeGroff suggests doing it differently:
+> 4 parts (2.5cl) Southern Comfort
+> 4 parts (2.5cl) Sloe Gin
+> 5 parts (3cl) Vodka
+> Fill with Orange Juice (12cl)
+> Shake hard, strain in 6 Shot glasses and top with 1 dash of Grenadine in each 
+> glass
+
+
+
+---------------------
+
+#### Alabazam
+>From "The Flowing Bowl" by William Schmidt (1891)
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts (6cl) Brandy
++ 1 part (1.5cl) Lemon Juice
++ 1 part (1.5cl) Blue Curaçao
++ 1 part (1.5cl) Sugar Syrup
++ 2 dashes Angostura Bitters
+
+None
+
+
+------------------
 
 #### Aldo's Fancy
 
@@ -84,6 +211,28 @@ Grated Nutmeg
 
 ----------------
 
+#### Algonquin
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts (3cl) Rye Whiskey
++ 2 parts (3cl) Dry Vermouth
++ 1 part (1.5cl) Blackberry Brandy
++ 1 part (1.5cl) Lemon Juice
+
+Lemon zest
+
+>Variations: the modern version would be:
+> 2 parts (3cl) Rye Whiskey
+> 1 part (1.5cl) Vermouth
+> 1 part (1.5cl) Pineapple Juice
+
+
+
+-----------------------
+
 #### Amaretto Sour
 
 Coupette Glass
@@ -97,6 +246,26 @@ _Shake hard and fine strain_
 + Optional - Egg white
 
 Lemon Zest and Cherry
+
+
+-----------------
+
+#### Amber Dream
+>From Barkeeper's Golden Book (1935)
+
+Cocktail Glass
+
+_Stir and strain_
+
++ 2 parts (6cl) Dry Gin
++ 1 part (3cl) Dry Vermouth
++ 1 splash Yellow Chartreuse
++ 1 dash Orange Bitters
+
+Flamed Orange zest
+
+>Variations: Club Cocktail (Sweet Vermouth instead of Dry Vermouth)
+
 
 
 -----------------
