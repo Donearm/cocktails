@@ -791,6 +791,21 @@ None
 
 ----------------
 
+#### Black Rose
+
+Old Fashioned Glass
+
+_Build in glass_
+
++ 1 part (6cl) Bourbon
++ 1 dash Grenadine
++ 2 dashes Peychaud's Bitters
+
+Flamed Lemon zest
+
+
+-----------------
+
 #### Black Russian
 
 Old Fashioned Glass
@@ -805,6 +820,23 @@ None
 >Variations: Dirty Black Russian (top with Cola), Black Magic (add a dash of 
 >Lemon Juice and garnish with a lemon twist), Irish Russian (top with Guinness), 
 >Brown Russian (top with Ginger Ale)
+
+
+-----------------
+
+#### Blackthorn
+>Created by Harry Johnson
+
+Cocktail Glass
+
+_Stir and strain_
+
++ 5 parts (7cl) Irish Whiskey
++ 1 part (1.5cl) Dry Vermouth
++ 2 dashes Angostura Bitters
++ 2 dashes Pernod Fils or another Absinthe
+
+Flamed Lemon zest
 
 
 -----------------
@@ -825,21 +857,53 @@ None
 
 -----------------
 
+#### Black Widow
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 6 parts (6cl) Myer's Rum or other Dark Rum
++ 3 parts (3cl) White Creme de Menthe
+
+None
+
+
+---------------
+
 #### Blood and Sand
 
 Cocktail Glass
 
 _Shake and fine strain_
 
-+ 2 parts Scotch Whisky
-+ 2 parts Cherry Brandy
-+ 2 parts Sweet Vermouth
-+ 2 parts Orange Juice
++ 2 parts (2cl) Scotch Whisky
++ 2 parts (2cl) Cherry Brandy
++ 2 parts (2cl) Sweet Vermouth
++ 3 parts (3cl) Orange Juice
 
 Orange Zest
 
 
 -----------------
+
+#### Bloodhound
+
+Cocktail Glass
+
+_Muddle strawberries in shaker. Shake and fine strain_
+
++ 4 parts (6cl) Gin
++ 1 part (1.5cl) Dry Vermouth
++ 1 part (1.5cl) Sweet Vermouth
++ 8 Strawberries
+
+3 Strawberries
+
+>Variations: Halsdon (Raspberries instead of Strawberries)
+
+
+----------------
 
 #### Blood Orange Bubbles
 
@@ -855,6 +919,23 @@ None
 
 
 ---------------
+
+#### Blood Orange Cosmo
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 5 parts (5cl) Orange Vodka
++ 1.5 parts (1.5cl) Triple Sec/Cointreau
++ 1 part (1cl) Lime Juice
++ 1 part (1cl) Red Orange Juice
++ 1 splash Cranberry Juice
+
+Orange slice
+
+
+------------------
 
 #### Bloody Mary
 
@@ -941,6 +1022,22 @@ Sugar rim
 
 
 ---------------
+
+#### Blue Monday
+>From Harry Craddock's _Savoy Cocktail Book_
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4.5 parts (4.5cl) Vodka
++ 1.5 parts (1.5cl) Cointreau
++ 1 part (1cl) Blue Curaçao
+
+Flamed Orange zest
+
+
+-----------------
 
 #### Blue Moon
 
