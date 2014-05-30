@@ -819,7 +819,7 @@ None
 
 >Variations: Dirty Black Russian (top with Cola), Black Magic (add a dash of 
 >Lemon Juice and garnish with a lemon twist), Irish Russian (top with Guinness), 
->Brown Russian (top with Ginger Ale)
+>Brown Russian (top with Ginger Ale), Brave Bull (Tequila instead of Vodka)
 
 
 -----------------
@@ -1012,11 +1012,11 @@ Maraschino Cherry and Pineapple Slice
 
 Highball Glass
 
-_Shake Vodka first. Then add Lemonade and Curaçao and shake again. Strain._
+_Shake Vodka first. Then add Lemonade and Curaçao and shake again. Strain_
 
 + 1 part Vodka
 + 1 part Blue Curaçao
-+ 4 parts Lemonade
++ Top with 4 parts Lemonade
 
 Sugar rim
 
@@ -1055,6 +1055,37 @@ Raspberry
 
 -----------------
 
+#### Blue Train
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 8 parts (4cl) Gin
++ 3 parts (1.5cl) Cointreau
++ 2 parts (1cl) Lemon Juice
++ 1 dash Blue Curaçao
+
+Flamed Orange zest
+
+
+-----------------
+
+#### Bobby Burns
+
+Cocktail Glass      
+
+_Shake hard and fine strain_
+
++ 6 parts (6cl) Scotch Whisky
++ 3 parts (3cl) Sweet Vermouth
++ 1 part (1cl) Benedictine D.O.M
+
+Lemon Twist
+
+
+-------------
+
 #### Boomerang
 
 Cocktail Glass
@@ -1073,14 +1104,15 @@ None
 -----------------
 
 #### Boulevard
+>From Selmer Fougner of The New York Sun (1935)
 
 Cocktail Glass
 
 _Stir in mixing glass_
 
-+ 5 parts Rye Whiskey
-+ 2 parts Dry Vermouth
-+ 1 part Grand Marnier
++ 4 parts (6cl) Rye Whiskey
++ 1 part (1.5cl) Dry Vermouth
++ 1 part (1.5cl) Grand Marnier
 + 2 dashes Orange Bitters
 
 Orange twist & Cherry
@@ -1088,20 +1120,21 @@ Orange twist & Cherry
 
 -----------------
 
-#### Bobby Burns
+#### Bourbon Stone Sour
 
-Cocktail Glass      
+Old Fashioned Glass
 
-_Shake hard and fine strain_
+_Shake and strain_
 
-+ 5 parts Scotch Whisky
-+ 3 parts Sweet Vermouth
-+ 1 part Benedictine D.O.M
++ 7 parts (4.5cl) Bourbon
++ 5 parts (3cl) Sugar Syrup
++ 5 parts (3cl) Orange Juice
++ 4 parts (2.5cl) Lemon Juice
 
-Lemon Twist
+Orange slice & Cherry
 
 
------------------
+--------------
 
 #### Brain Haemorrhage
 
@@ -1119,6 +1152,7 @@ None
 ----------------
 
 #### Bramble
+>Created by Dick Bradsell
 
 Old Fashioned Glass
 
@@ -1148,6 +1182,23 @@ Grated Nutmeg
 
 
 -----------------
+
+#### Brandy Cocktail
+>From Jerry Thomas _The Bon-Vivant's Companion Or How To Mix Drinks_ (1862)
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts (6cl) Brandy
++ 1 part (1.5cl) Orange Curaçao
++ 2 dashes Angostura Bitters
++ 2 dashes Peychaud's Bitters
+
+Lemon zest
+
+
+-------------
 
 #### Brandy Fix
 
@@ -1210,18 +1261,33 @@ None
 
 ----------------
 
+#### Brassy Blonde
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part (6cl) Citron Vodka
++ 1 part (6cl) Pineapple Juice
++ 1 splash Cointreau
+
+None
+
+
+-------------
+
 #### Breakfast Martini    
 
 Cocktail Glass
 
 _Stir in mixing glass_
 
-+ 5 parts Gin
-+ 1 part Triple Sec
-+ 1 part Lemon Juice
++ 5 parts (5cl) Bombay Sapphire Gin
++ 2 parts (2cl) Triple Sec/Cointreau
++ 2 parts (2cl) Lemon Juice
 + 1 tablespoon Orange Marmalade
 
-Orange twist
+Orange twist or Slice of a Toast
 
 
 -----------------
@@ -1233,13 +1299,14 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 5 parts Dry Gin
-+ 2 parts Dry Vermouth
-+ 2 parts Sweet Vermouth
-+ 3 parts Orange Juice
-+ 2 dashes Angostura bitters for an Income Tax Cocktail
++ 4 parts (4cl) Dry Gin
++ 2 parts (2cl) Dry Vermouth
++ 2 parts (2cl) Sweet Vermouth
++ 2 parts (2cl) Orange Juice
 
 Orange twist
+
+>Variations: Income Tax (add 2 dashes of Angostura bitters)
 
 
 -----------------
@@ -1250,16 +1317,31 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-+ 6 parts Bourbon
-+ 1 part Maraschino
-+ 1.5 parts Dry Vermouth
-+ 1.5 parts Sweet Vermouth
++ 6 parts (6cl) Bourbon
++ 1 part (1cl) Maraschino
++ 3 parts (3cl) Dry Vermouth
 + 3 dashes Angostura Bitters
 
 Maraschino Cherry
 
 
 -----------------
+
+#### Brown Derby
+>From the Vendome club in Hollywood, 1930
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 6 parts (6cl) Bourbon
++ 4 parts (3cl) Grapefruit Juice
++ 2 parts (1.5cl) Honey Syrup (half water, half honey)
+
+None
+
+
+---------------
 
 #### Buck's Fizz
 
@@ -1274,6 +1356,22 @@ Orange Peel
 
 
 -----------------
+
+#### Bull's Blood
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts (2cl) Rum
++ 2 parts (2cl) Orange Curaçao
++ 2 parts (2cl) Spanish Brandy
++ 4.5 parts (4.5cl) Orange Juice
+
+Flamed Orange zest
+
+
+-------------
 
 #### Bush Fire
 
@@ -1319,6 +1417,20 @@ Lime wedge
 >and 1/3 Red Vermouth)
 
 -----------------
+
+#### Cape Cod
+
+Highball Glass
+
+_Build in glass_
+
++ 4 parts (4.5cl) Vodka
++ Fill with Cranberry Juice
+
+Lime wedge
+
+
+---------------
 
 #### Cape Codder
 
@@ -1568,7 +1680,8 @@ Flamed Orange zest
 >Variations: Rude Cosmo (Tequila instead of Vodka), Blue Cosmopolitan (white 
 >Cranberry Juice instead of red and Blue Curaçao instead of Triple Sec), 
 >Cosmocello (Limoncello instead of Lime Juice), Peach Cosmopolitan (Peach 
->Schnapps instead of Triple Sec and Peach Juice instead of Cranberry)
+>Schnapps instead of Triple Sec and Peach Juice instead of Cranberry), Caribe 
+>Cosmopolitan (Lemon Rum instead of Vodka)
 
 
 -----------------
@@ -1781,7 +1894,7 @@ Cocoa powder
 
 #### DiSaronno Bocce Ball
 
-Pint Glass
+Highball Glass
 
 _Build in glass_
 
