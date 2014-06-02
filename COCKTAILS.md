@@ -1476,6 +1476,8 @@ _Shake hard and fine strain_
 
 Lemon twist and Maraschino Cherry
 
+>Variations: Casino Royale (fill with Champagne)
+
 
 ---------------------
 
@@ -1494,6 +1496,22 @@ Orange zest
 
 -----------------
 
+#### Champagne Passion
+
+Champagne Flute
+
+_Build, stir gently and float_
+
++ 4 parts (4cl) Passion Fruit Pureé or Juice
++ 1 part (1cl) Sugar Syrup
++ Fill with Champagne
++ Float with (1cl) Passion Fruit Liqueur
+
+None
+
+
+----------------
+
 #### Champs-Elysées
 
 Cocktail Glass
@@ -1510,6 +1528,70 @@ Lemon zest
 
 
 -----------------
+
+#### Charlie Chaplin
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part (3cl) Apricot Brandy
++ 1 part (3cl) Sloe Gin
++ 1 part (3cl) Lime Juice
+
+Lime zest
+
+
+-----------------
+
+#### Cherry Blossom
+
+Cocktail Glass
+
+_Muddle the cherries in shaker, shake and fine strain_
+
++ 5 Cherries
++ 1 part (1.5cl) Lemon Juice
++ 1 part (1.5cl) Orange Curaçao
++ 1 part (1.5cl) Cherry Heering
++ 3 parts (4.5cl) Brandy
+
+None
+
+
+------------------
+
+#### Cherry Crush
+
+Cocktail Glass
+
+_Muddle the cherries in shaker, shake and fine strain_
+
++ 5 Cherries
++ 3 parts (4.5cl) Gin
++ 2 parts (3cl) Maraschino
++ 1 part (1.5cl) Lemon Juice
+
+Cherry
+
+
+-------------------
+
+#### Cherry Kiss
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts (4cl) Gin
++ 2 parts (2cl) Maraschino
++ 6 parts (6cl) Pineapple Juice
++ 3 dashes Grenadine
+
+Grated Nutmeg
+
+
+--------------------
 
 #### Chicago
 
