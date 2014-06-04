@@ -819,7 +819,7 @@ None
 
 >Variations: Dirty Black Russian (top with Cola), Black Magic (add a dash of 
 >Lemon Juice and garnish with a lemon twist), Irish Russian (top with Guinness), 
->Brown Russian (top with Ginger Ale), Brave Bull (Tequila instead of Vodka)
+>Brown Russian (top with Ginger Ale), Brave Bull/Dirty Mother (Tequila instead of Vodka)
 
 
 -----------------
@@ -1651,6 +1651,24 @@ None
 
 --------------------
 
+#### Chocolate Punch
+>From "The Flowing Bowl" by William Schmidt, 1891
+
+Cocktail Glass
+
+_Shake and strain_
+
++ 2 parts (3cl) Cognac
++ 1 part (1.5cl) Port
++ 1 part (1.5cl) Dark Creme de Cacao
++ 1 part (1.5cl) Sugar Syrup
++ 2 parts (3cl) Cream
+
+Grated Nutmeg
+
+
+----------------
+
 #### Churchill
 
 Cocktail Glass
@@ -1666,6 +1684,55 @@ None
 
 
 ---------------------
+
+#### Cigar Lover's Martini
+>By Andrea Immer
+
+Cocktail Glass
+
+_Stir and strain_
+
++ 5 parts (7cl) VS Cognac
++ 1 part (1.5cl) Tawny Port
+
+Flamed Orange zest
+
+
+--------------------
+
+#### Claremont
+
+Old Fashioned Glass
+
+_Muddle fruits, bitters and Curaçao. Build Soda and Bourbon in glass_
+
++ 6 parts (4.5cl) Bourbon
++ 4 parts (3cl) Soda Water
++ 3 parts (2cl) Orange Curaçao
++ 3 dashes Angostura Bitters
++ 1 Orange Slice
++ 1 Cherry
+
+Orange Slice and Cherry
+
+
+-----------------------
+
+#### Claret Lemonade
+>From "Bartender Manual" by Harry Johnson, 1898
+
+Goblet
+
+_Shake and strain_
+
++ 12 parts (12cl) Red Wine
++ 3 parts (3cl) Sugar Syrup
++ 2 parts (2cl) Lemon Juice
+
+Lemon wheel
+
+
+------------------
 
 #### Clover Club
 
@@ -1698,6 +1765,73 @@ Mint sprig
 
 -----------------
 
+#### Coco Berry
+
+Cocktail Glass
+
+_Muddle raspberries and the corresponding liqueur. Add Creme de Cacao, Rum, stir 
+and strain_
+
++ 4 parts (6cl) White Rum
++ 1 part (1.5cl) Raspberry Liqueur
++ 1 part (1.5cl) White Creme de Cacao
++ 4 Raspberries
+
+None
+
+
+------------------
+
+#### Coctel Algeria
+>By Joe Baum, circa 1960
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts (2cl) Pisco Brandy
++ 2 parts (2cl) Cointreau
++ 2 parts (2cl) Apricot Brandy
++ 3 parts (3cl) Orange Juice
+
+Flamed Orange zest
+
+
+----------------
+
+#### Coffee Cocktail
+
+Wine Glass
+
+_Shake hard and strain_
+
++ 1 part (3cl) Brandy/Cognac
++ 1 part (3cl) Ruby Port
++ 1 Egg
++ 1 tsp Sugar
+
+Grated Nutmeg
+
+
+------------------
+
+#### Coffee Nudge
+
+Mug
+
+_Build in glass_
+
++ 2 parts (3cl) Brandy
++ 1 part (1.5cl) Dark Creme de Cacao
++ 1 part (1.5cl) Coffee Liqueur
++ 2 parts (3cl) Hot Espresso Coffee
++ Top with Whipped Cream
+
+None
+
+
+-----------------
+
 #### Colonial
 
 Cocktail Glass
@@ -1712,6 +1846,37 @@ None
 
 
 -----------------
+
+#### Colorado Bulldog
+
+Highball Glass
+
+_Build in glass and stir_
+
++ 1 part (4.5cl) Kahlua
++ 2 parts (9cl) Cold Milk
++ Fill with Coca Cola
+
+None
+
+
+-----------------
+
+#### Copperstown
+
+Cocktail Glass
+
+_Muddle the Mint with the Vermouths in mixing glass. Stir and strain_
+
++ 4 parts (6cl) Gin
++ 1 part (1.5cl) Sweet Vermouth
++ 1 part (1.5cl) Dry Vermouth
++ 1 Mint Sprig
+
+Mint Sprig
+
+
+------------------
 
 #### Corn & Oil   
 
@@ -1767,6 +1932,39 @@ Flamed Orange zest
 
 
 -----------------
+
+#### Cosmopolitan Delight
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 6 parts (4.5cl) Brandy
++ 2 parts (1.5cl) Curaçao
++ 2 parts (1.5cl) Sugar Syrup
++ 4 parts (3cl) Lemon Juice
++ 1 splash Orgeat
++ Top with 1 splash of Red Wine
+
+Seasonal fruit on rim
+
+
+-----------------
+
+#### Crawdaddy
+
+Highball Glass
+
+_Build in glass_
+
++ 1 part (4.5cl) Vodka
++ 1 splash Soda Water
++ Fill with Lemonade
+
+Lemon slice
+
+
+---------------
 
 #### Crush 43
 
@@ -1830,6 +2028,21 @@ Juice and the Rum. Blend_
 + 1 tablespoon Sugar
 
 None
+
+
+------------------
+
+#### Cupid's Cocktail
+
+Highball Glass
+
+_Shake and strain_
+
++ 1 part (3cl) Cherry Heering
++ 1 part (3cl) Peachtree
++ 4 parts (12cl) Orange Juice
+
+Orange slice and Cherry
 
 
 ------------------
@@ -1898,6 +2111,23 @@ Lime wedge
 
 -----------------
 
+#### D'Artagnan
+
+Champagne Glass
+
+_Stir and strain_
+
++ 1 tsp Armagnac
++ 1 tsp Grand Marnier
++ 3 tsp Orange Juice
++ 1/2 tsp Sugar Syrup
++ Fill with Champagne
+
+Orange peel (very long, directly in the glass)
+
+
+-----------------
+
 #### Death in the Afternoon
 
 Champagne Glass
@@ -1927,6 +2157,23 @@ Lime wedge and Mint leaf
 
 
 -----------------
+
+#### Desert Healer
+>From the Vendome Club, Hollywood, 1930
+
+Highball Glass
+
+_Build in glass_
+
++ 3 parts (4.5cl) Gin
++ 3 parts (4.5cl) Orange Juice
++ 1 part (1.5cl) Cherry Heering
++ Fill with Ginger Ale
+
+Orange zest and Cherry
+
+
+----------------
 
 #### Diplomat   
 
@@ -2112,6 +2359,25 @@ Orange zest
 
 ---------------------
 
+#### DiSaronno Punch
+
+Highball Glass
+
+_Shake and strain_
+
++ 2.5 parts (4.5cl) DiSaronno Amaretto
++ 3 parts (6cl) Orange Juice
++ 3 parts (6cl) Pineapple Juice
++ 1 splash Orange Curaçao
++ 1 part (2cl) Lime Juice
++ 1 dash Angostura Bitters
++ Top with Soda Water
+
+Orange slice and Cherry
+
+
+-----------------
+
 #### DiSaronno Sicily
 
 Cocktail Glass
@@ -2140,6 +2406,22 @@ None
 
 
 ----------------------
+
+#### Douglas Fairbanks
+
+Cocktail Glass
+
+_Shake very hard and fine strain_
+
++ 3 parts (4.5cl) Gin
++ 2 parts (3cl) Apricot Brandy
++ 1 part (1.5cl) Lime Juice
++ 1.5 parts (2cl) Egg White
+
+None
+
+
+-----------------
 
 #### E.T.
 
@@ -4496,6 +4778,8 @@ _Build in glass_
 + 2 parts (2cl) Milk/Cream
 
 3 Coffee beans
+
+>Variations: Dirty White Mother (Tequila instead of Vodka)
 
 
 -----------------
