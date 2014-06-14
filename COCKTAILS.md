@@ -2423,6 +2423,21 @@ None
 
 -----------------
 
+#### Dusty Rose
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts (3cl) Cherry Brandy
++ 1 part (1.5cl) White Creme de Cacao
++ 4 parts (6cl) Heavy Cream
+
+None
+
+
+----------------
+
 #### E.T.
 
 Shot Glass
@@ -2518,6 +2533,23 @@ Lime wedge
 
 -----------------
 
+#### Elk's Own
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts (3cl) Canadian Whiskey
++ 3 parts (3cl) Port
++ 1.5 parts (1.5cl) Lemon Juice
++ 1 part (1cl) Sugar Syrup
++ 1 Egg White
+
+None
+
+
+--------------
+
 #### Espresso Martini
 
 Cocktail Glass
@@ -2564,6 +2596,37 @@ None
 
 ----------------
 
+#### Faux Nog
+
+Highball Glass
+
+_Shake and strain over crushed ice_
+
++ 1 part (3cl) Vodka
++ 1 part (3cl) White Creme de Cacao
++ 2 parts (6cl) Heavy Cream
++ 3 dashes Angostura Bitters
+
+Grated Nutmeg
+
+
+------------------
+
+#### Fernet Branca Cocktail
+
+Cocktail Glass
+
+_Stir and strain_
+
++ 6 parts (6cl) Gin
++ 2 parts (2cl) Sweet Vermouth
++ 1.5 parts (1.5cl) Fernet Branca
+
+Flamed Lemon zest
+
+
+-----------------
+
 #### Fish House Punch  
 >There's a little place just out of town,  
 >Where, if you go to lunch,  
@@ -2580,6 +2643,22 @@ _Shake hard and fine strain_
 + Top with Soda Water
 
 Grated Nutmeg and Lemon slice
+
+
+-----------------
+
+#### Fitzgerald
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 4 parts (4cl) Gin
++ 3 parts (3cl) Sugar Syrup
++ 2 parts (2cl) Lemon Juice
++ 2 dashes Angostura Bitters
+
+Lemon wedge
 
 
 -----------------
