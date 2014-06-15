@@ -2679,6 +2679,23 @@ Use fruit from recipe
 
 -----------------
 
+#### Flamingo
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4.5 parts (4.5cl) White Rum
++ 4.5 parts (4.5cl) Pineapple Juice
++ 1 part (1cl) Lime Juice
++ 1 part (1cl) Grenadine
++ 1 splash Sugar Syrup (optional)
+
+None
+
+
+-------------------
+
 #### Flat Liner
 
 Shot Glass
@@ -2698,7 +2715,7 @@ None
 
 Champagne Flute
 
-_Muddle strawberries in the flute. Shake and fine strain the rest. Top with 
+_Muddle strawberries in the flute. Stir and fine strain the rest. Top with 
 Champagne_
 
 + 3-4 Strawberries
@@ -2710,6 +2727,22 @@ Champagne_
 + Top with Champagne
 
 Mint sprig
+
+
+-------------------
+
+#### Floradora
+
+Highball Glass
+
+_Build in glass_
+
++ 3 parts (4.5cl) Gin
++ 1 part (1.5cl) Lime Juice
++ 1.5 parts (2cl) Framboise Liqueur or Raspberry Syrup
++ Fill with Ginger Ale
+
+Lime wedge
 
 
 -------------------
@@ -2802,6 +2835,40 @@ Lime wedge
 
 -----------------
 
+#### Gin and It
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part (4.5cl) Gin
++ 1 part (4.5cl) Sweet Vermouth
++ 1 dash Angostura Bitters
+
+Orange zest
+
+
+------------------
+
+#### Gin and Sin
+
+Cocktail Glass
+
+_Muddle fruits and juices. Then add the rest, shake and fine strain_
+
++ 1 part (1.5cl) Sugar Syrup
++ 2 parts (3cl) Orange Juice
++ 1 part (1.5cl) Lemon Juice
++ 4 parts (6cl) Gin
++ 1 splash Grenadine
++ 1 Orange slice
++ 1 Lemon slice
+
+None
+
+
+------------------
+
 #### Gin and Tonic
 
 Highball Glass
@@ -2816,7 +2883,7 @@ Lime wedge
 
 -----------------
 
-#### Gin Cockail
+#### Gin Cocktail
 
 Cocktail Glass
 
@@ -2862,7 +2929,8 @@ _Shake and strain_
 None
 
 >Variations: Sloe Gin Fizz (Sloe Gin, simple Sugar and 1 Egg White instead of 
->normal Gin and the Syrup)
+>normal Gin and the Syrup), Golden Fizz (add 1 Egg Yolk and make it 4.5 parts of 
+>Sugar Syrup), Royal Fizz (add 1 whole Egg and make it 4.5 parts of Sugar Syrup)
 
 
 ------------------
@@ -2913,6 +2981,24 @@ Lime wedge
 
 -----------------
 
+#### Gin Sling
+
+Highball Glass
+
+_Shake and strain_
+
++ 4.5 parts (4.5cl) Gin
++ 3 parts (3cl) Sweet Vermouth
++ 2 parts (2cl) Lemon Juice
++ 3 parts (3cl) Sugar Syrup
++ 1 dash Angostura Bitters
++ Top with Soda Water
+
+None
+
+
+------------------
+
 #### Gin Sour
 
 Highball Glass
@@ -2961,14 +3047,33 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 1 part Galliano
-+ 1 part Creme de Cacao
-+ 1 part Cream
++ 1 part (3cl) Galliano
++ 1 part (3cl) Creme de Cacao
++ 1 part (3cl) Cream
 
 None
 
 
 -------------------
+
+#### Golden Dawn
+>By Tom Buttery
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts (1.5cl) Gin
++ 3 parts (2cl) Orange Juice
++ 3 parts (2cl) Apricot Brandy
++ 1 dash Grenadine
++ 2 dashes Angostura Bitters
+
+Orange wedge and Cherry
+
+
+
+-----------------
 
 #### Golden Dream
 
@@ -3004,6 +3109,20 @@ Shaved Chocolate
 
 -----------------
 
+#### Grey Hound
+
+Highball Glass
+
+_Build in glass_
+
++ 1 part (4.5cl) Vodka
++ Fill with Grapefruit Juice
+
+None
+
+
+----------------
+
 #### Hanky-Panky Martini
 >Created by Ada Coleman, first Bar Manager of American Bar, Savoy Hotel.
 
@@ -3027,9 +3146,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 3 parts Cognac/Brandy
-+ 1 part Grapefruit Juice
-+ 1 teaspoon Honey
++ 4 parts (6cl) Cognac/Brandy
++ 2 parts (3cl) Grapefruit Juice
++ 1 part (1.5cl) Honey
 
 None
 
@@ -3067,6 +3186,22 @@ Orange Slice or Maraschino Cherry
 
 -----------------
 
+#### Hawaiian Stone Sour
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 4.5 parts (4.5cl) Blended Whisky
++ 3 parts (3cl) Sugar Syrup
++ 2.5 parts (2.5cl) Lemon Juice
++ 4.5 parts (4.5cl) Pineapple Juice
+
+Cherry and Pineapple wedge
+
+
+----------------
+
 #### Hemingway Special
 
 Cocktail Glass Glass
@@ -3091,13 +3226,44 @@ Old Fashioned Glass
 _Stir in glass_
 
 + 1 part (4cl) Brandy/Cognac
-+ 3 parts (12cl) Red Beer
++ 3 parts (12cl) Ginger Ale
 + 1 dash Angostura Bitters
 
-Lemon zest
+Lemon peel spiral (put in glass before everything else, ice included)
 
 
 -------------------
+
+#### Hot Shot
+
+Shot Glass
+
+_Build in glass_
+
++ 1 part (1.5cl) Galliano
++ 1 part (1.5cl) Hot Espresso Coffee
++ Top with Whipped Cream
+
+None
+
+
+-----------------
+
+#### Hummer
+
+Wine Glass
+
+_Blend_
+
++ 1 part (3cl) Coffee Liqueur
++ 1 part (3cl) Spiced Rum
++ 1 scoop Vanilla Ice Cream
++ 2 parts (6cl) Milk
+
+None
+
+
+--------------------
 
 #### Hurricane
 
@@ -4071,7 +4237,7 @@ _Dry shake, shake hard and strain in a Collins glass without ice_
 + 1.5 parts (1.5cl) Lime Juice
 + 1.5 parts (1.5cl) Lemon Juice
 + 1.5 parts (1.5cl) Sugar Syrup
-+ 6 parts (6cl) Cream
++ 6 parts (6cl) Cream/Milk
 + 1 Egg White
 + 3 dashes Orange Flower Water
 + 2 drops Vanilla Extract
