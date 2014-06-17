@@ -3276,7 +3276,7 @@ _Shake hard and strain_
 + 3 parts Orange Juice
 + 3 parts Pineapple Juice
 + 2 part Lime Juice
-+ 1 part Roses Lime Cordial
++ 1 part Roses Lime Cordial or Sugar Syrup
 + 1 part Passion Fruit Syrup
 
 Lime wedge and cherry
@@ -3297,8 +3297,45 @@ _Heat Coffee, Whiskey and Sugar. Do not boil. Build in glass and top with Cream_
 
 None
 
+>Variations: Café Amore (2cl Brandy and 2cl Amaretto instead of Whiskey), 
+>Calypso Coffee (Rum and Kahlua, 2cl/2cl, instead of Whiskey), Mexican Coffee 
+>(Tequila 2cl and Kahlua 2cl instead of Whiskey), Kioke Coffee (Brandy 2cl and 
+>Kahlua 2cl instead of Whiskey)
+
 
 ------------------
+
+#### Island Breeze
+
+Highball Glass
+
+_Build in glass_
+
++ 3 parts (4.5cl) Light Rum
++ 2 parts (3cl) Cranberry Juice
++ 2 dashes Angostura Bitters
++ Fill with Pineapple Juice
+
+Lime wedge
+
+
+-----------------
+
+#### Island Rose
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4 parts (2cl) Tequila
++ 4 parts (2cl) Kahlua
++ 3 parts (1.5cl) Chambord
++ 8.5 parts (4.5cl) Heavy Cream
+
+Rose petal
+
+
+-----------------
 
 #### Italia Libre
 
@@ -3343,6 +3380,26 @@ Lemon Wedge
 
 
 -----------------
+
+#### Japanese Cocktail
+
+Highball Glass
+
+_Muddle fruits, syrup and juices. Then shake and strain_
+
++ 2 Pineapple wedges
++ 2 Lemon wedges
++ 2 Orange slices
++ 3 parts (1.5cl) Sugar Syrup
++ 5 parts (2.5cl) Lemon Juice
++ 5 parts (2.5cl) Ruby Port
++ 9 parts (4.5cl) Whiskey
++ Top with Soda Water
+
+None
+
+
+----------------
 
 #### Japanese Slipper
 
@@ -3410,6 +3467,20 @@ Lime wedge
 
 -----------------
 
+#### Kentucky Colonel
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 2 parts (6cl) Bourbon
++ 1 part (3cl) Benedictine
+
+None
+
+
+----------------
+
 #### Kir
 
 Wine Goblet
@@ -3429,6 +3500,22 @@ None
 
 
 -----------------
+
+#### Knickerbein Cocktail
+
+Frosted London Dock Glass
+
+_Shake hard and strain_
+
++ 1 part (2.5cl) Orange Curaçao
++ 1 part (2.5cl) Maraschino
++ 1 part (2.5cl) VS Cognac
++ 1 Egg
+
+Grated Nutmeg and Grated Orange zest
+
+
+------------------
 
 #### Kremlin
 
@@ -3510,6 +3597,38 @@ Sugar rim and Lemon wedge
 
 ------------------
 
+#### Lemon Meringue
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 8.5 parts (4.5cl) Citrus Vodka
++ 4 parts (2cl) Limoncello
++ 3 parts (1.5cl) White Creme de Cacao
++ Float of 1 Whipped Egg White and Sugar (optional)
+
+None
+
+
+------------------
+
+#### Le Perroquet
+
+Champagne Flute
+
+_Build in glass_
+
++ 1 dash Campari
++ 1 dash Gin
++ 1 part (6cl) Orange Juice
++ Fill with Champagne
+
+Twist of Lemon peel and Twist of Orange peel
+
+
+--------------
+
 #### Long Beach Iced Tea
 
 Highball Glass
@@ -3548,6 +3667,23 @@ Lemon twist
 
 
 -----------------
+
+#### Lust For Life
+>By Jeff Bicker
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts (4.5cl) Galliano
++ 2 parts (3cl) Orange Juice
++ 1 part (1.5cl) Peach Liqueur
++ 1 part (1.5cl) Heavy Cream
+
+Grated Nutmeg
+
+
+-------------
 
 #### Lynchburg Lemonade
 
@@ -3614,6 +3750,25 @@ Perfect: Orange twist or both Lemon twist and Maraschino Cherry
 
 -----------------
 
+#### Maragato
+>From El Floridita bar in Havana
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts (3cl) Silver Rum
++ 1 part (1.5cl) Sweet Vermouth
++ 1 part (1.5cl) Dry Vermouth
++ 2 parts (3cl) Orange Juice
++ 1 part (1.5cl) Lime Juice
++ 1 dash Maraschino
+
+Flamed Orange zest
+
+
+-----------------
+
 #### Margarita
 
 Cocktail/Old Fashioned Glass
@@ -3642,6 +3797,22 @@ _Shake and strain_
 * 1 part Lime Juice
 
 Sugar rim
+
+
+----------------
+
+#### Mark Twain Cocktail
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4.5 parts (4.5cl) Scotch Whisky
++ 3 parts (3cl) Sugar Syrup
++ 2 parts (2cl) Lemon Juice
++ 2 dashes Angostura Bitters
+
+None
 
 
 ----------------
@@ -4133,6 +4304,23 @@ Pineapple wedge and Maraschino Cherry
 
 
 -----------------
+
+#### Pineapple Julep
+
+Highball Glass
+
+_Muddle mint leaves and the pineapple with the syrup. Add Bourbon. Shake and 
+strain. Stir a bit in glass_
+
++ 6 Mint leaves
++ 3 Pineapple wedges
++ 1 part (3cl) Sugar Syrup
++ 2 parts (6cl) Bourbon
+
+2 Mint sprigs
+
+
+-------------------
 
 #### Pink Gin
 

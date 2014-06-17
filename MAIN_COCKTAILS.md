@@ -1774,7 +1774,7 @@ _Shake hard and strain_
 + 3 parts Orange Juice
 + 3 parts Pineapple Juice
 + 2 part Lime Juice
-+ 1 part Roses Lime Cordial
++ 1 part Roses Lime Cordial or Sugar Syrup
 + 1 part Passion Fruit Syrup
 
 Lime wedge and cherry
@@ -1794,6 +1794,11 @@ _Heat Coffee, Whiskey and Sugar. Do not boil. Build in glass and top with Cream_
 + Top with 1.5 parts (3cl) of Cream
 
 None
+
+>Variations: Café Amore (2cl Brandy and 2cl Amaretto instead of Whiskey), 
+>Calypso Coffee (Rum and Kahlua, 2cl/2cl, instead of Whiskey), Mexican Coffee 
+>(Tequila 2cl and Kahlua 2cl instead of Whiskey), Kioke Coffee (Brandy 2cl and 
+>Kahlua 2cl instead of Whiskey)
 
 
 ------------------
