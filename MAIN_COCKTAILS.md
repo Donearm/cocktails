@@ -1565,8 +1565,8 @@ Collins Glass
 
 _Build in glass_
 
-+ 4 parts Gin
-+ 2 parts Lime Juice
++ 3 parts (4.5cl) Gin
++ 1 part (1.5cl) Lime Juice
 + Top with Soda Water
 
 Lime wedge
@@ -2458,6 +2458,20 @@ Pineapple wedge and Maraschino Cherry
 
 
 -----------------
+
+#### Pink Gin
+
+Old Fashioned Glass
+
+_Build in glass_
+
++ 1 part (6cl) Plymouth Gin
++ 1 dash Angostura Bitters
+
+Lemon zest
+
+
+-------------------
 
 #### Pisco Sour
 

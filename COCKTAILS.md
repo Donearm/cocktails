@@ -1951,6 +1951,22 @@ Seasonal fruit on rim
 
 -----------------
 
+#### Count Camillo's Derby
+
+Highball Glass
+
+_Muddle mint and Campari. Pour the rest, ice, stir. No strain_
+
++ 1 part (5cl) Beefeater Gin
++ 1 part (5cl) Sweet Vermouth
++ 1 part (5cl) Campari
++ 8 Mint leaves
+
+Mint sprig
+
+
+----------------
+
 #### Crawdaddy
 
 Highball Glass
@@ -2789,7 +2805,7 @@ _Stir in mixing glass and strain_
 + 1 part (1.5cl) Chambord
 + 1 part (1.5cl) Pineapple Juice
 
-Lemon zest
+None
 
 
 -----------------
@@ -2972,8 +2988,8 @@ Collins Glass
 
 _Build in glass_
 
-+ 4 parts Gin
-+ 2 parts Lime Juice
++ 3 parts (4.5cl) Gin
++ 1 part (1.5cl) Lime Juice
 + Top with Soda Water
 
 Lime wedge
@@ -3898,6 +3914,38 @@ None
 >Variations: Sweet and Sour Mix can be used instead of the Lime Juice
 
 
+---------------------
+
+#### Melon Martini
+
+Cocktail Glass
+
+_Muddle everything but Vodka. Shake and fine strain_
+
++ 2 parts (3cl) Honey Syrup
++ 2 parts (3cl) Maraschino
++ 2 parts (3cl) Lime Juice
++ 3 parts (4.5cl) Vodka
++ Half a cup of chopped Melon
+
+Mint sprig
+
+
+----------------
+
+#### Mexican Blonde
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts (4.5cl) Light Rum
++ 1 part (1.5cl) Kahlua
++ 1 part (1.5cl) Orange Curaçao
++ 2 parts (3cl) Cream
+
+None
+
 
 -----------------
 
@@ -4108,6 +4156,22 @@ Lime wedge
 
 -----------------
 
+#### Nutty Angel
+
+Cocktail Glas
+
+_Shake and fine strain_
+
++ 2 parts (3cl) Vodka
++ 2 parts (3cl) Frangelico
++ 2 parts (3cl) Bailey's
++ 1 part (1.5cl) Dark Creme de Cacao
+
+Grated Nutmeg
+
+
+---------------
+
 #### Old Fashioned
 
 Old Fashioned Glass
@@ -4124,6 +4188,23 @@ Orange twist
 
 >Variations: for a quicker preparations, it's possible to use Sugar Syrup 
 >instead than the sugar cube
+
+
+-----------------
+
+#### Old Flame
+
+Cocktail Glass
+
+_Shake well and fine strain_
+
++ 3 parts (3cl) Gin
++ 1.5 parts (1.5cl) Sweet Vermouth
++ 1 part (1cl) Campari
++ 1 part (1cl) Cointreau
++ 4.5 parts (4.5cl) Orange Juice
+
+Flamed Orange zest
 
 
 -----------------
@@ -4231,11 +4312,27 @@ _Shake and fine strain_
 + 7 parts (3.5cl) Gin
 + 4 parts (2cl) Apricot Brandy
 + 3 parts (1.5cl) Orange Juice
++ 2 dashes Orange Bitters (optional)
 
 None
 
 
 -----------------
+
+#### Parisian Blond
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part (3cl) Rum
++ 1 part (3cl) Orange Curaçao
++ 1 part (3cl) Heavy Cream
+
+1-2 drops of Vanilla extract
+
+
+--------------
 
 #### Park Avenue
 
@@ -4252,6 +4349,24 @@ None
 
 
 -----------------
+
+#### Peach Melissa
+>By Fred McKibbon
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 4.5 parts (4.5cl) Gosling's Rum
++ 1.5 parts (1.5cl) Sugar Syrup
++ 3 parts (3cl) Orange Juice
++ 1 part (1cl) Lemon Juice
++ 3 parts (3cl) Peach Pureé
+
+Peach slice
+
+
+---------------
 
 #### Pegu Club
 
@@ -4324,17 +4439,33 @@ strain. Stir a bit in glass_
 
 #### Pink Gin
 
-Cocktail Glass
+Old Fashioned Glass
 
 _Build in glass_
 
-+ 1 part Plymouth Gin
++ 1 part (6cl) Plymouth Gin
 + 1 dash Angostura Bitters
 
 Lemon zest
 
 
 -------------------
+
+#### Pink Lady
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 10 parts (4.5cl) Gin
++ 1 splash Grenadine
++ 4 parts (2.5cl) Sugar Syrup
++ 5 parts (3cl) Heavy Cream
+
+None
+
+
+------------------
 
 #### Pink Panther
 
@@ -4384,6 +4515,21 @@ _Shake and strain. Add Bitters at the end_
 Maraschino Cherry and Pineapple wedge
 
 -----------------
+
+#### Poinsettia
+
+Champagne Flute
+
+_Build and float the Cointreau_
+
++ 4 parts (6cl) Cranberry Juice
++ Fill with Champagne
++ 1 part (1.5cl) Cointreau
+
+None
+
+
+----------------
 
 #### Porto Flip
 
@@ -4442,12 +4588,12 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 9 parts Dry Gin
-+ 1 part Lemon Juice
-+ 1 part Orange Juice
-+ 1 teaspoon Grand Marnier
++ 2 parts (3cl) Dry Gin
++ 2 parts (3cl) Grand Marnier
++ 1 part (1.5cl) Lemon Juice
++ 1 part (1.5cl) Orange Juice
 
-None
+Flamed Orange zest
 
 
 --------------------
@@ -4497,6 +4643,21 @@ None
 
 
 ------------------------
+
+#### Royal Cocktail
+
+Cocktail Glass
+
+_Stir and strain_
+
++ 4.5 parts (4.5cl) Gin
++ 2.5 parts (2.5cl) Dry Vermouth
++ 2.5 parts (2.5cl) Cherry Heering
+
+Flamed Lemon zest
+
+
+--------------------
 
 #### Rum Runner
 
