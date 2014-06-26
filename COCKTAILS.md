@@ -4659,6 +4659,22 @@ Flamed Lemon zest
 
 --------------------
 
+#### Royal Hawaiian
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts (4.5cl) Gin
++ 2 parts (3cl) Pineapple Juice
++ 1 part (1.5cl) Lemon Juice
++ 1 splash Orgeat
+
+None
+
+
+----------------
+
 #### Rum Runner
 
 Highball Glass
@@ -4762,6 +4778,22 @@ None
 >Champagne instead of wine
 
 ---------------------
+
+#### San Salvador
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 3 parts (4.5cl) Dark Rum
++ 2 parts (3cl) Curaçao
++ 1 part (1.5cl) Lime Juice
++ 3 parts (4.5cl) Orange Juice
+
+Orange and Lime slice
+
+
+-------------------
 
 #### Sazerac
 
@@ -4915,6 +4947,37 @@ None
 
 -----------------
 
+#### South Beach
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2.5 parts (2.5cl) Campari
++ 2.5 parts (2.5cl) Amaretto
++ 6 parts (6cl) Orange Juice
++ 1.5 parts (1.5cl) Sugar Syrup (optional)
+
+Flamed Orange zest
+
+
+-------------------
+
+#### South Of The Border
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts (4.5cl) Malibu
++ 1 part (1.5cl) Amaretto
++ 10 parts (15cl) Pineapple Juice
+
+None
+
+
+------------------
+
 #### Southside Cocktail
 
 Cocktail Glass
@@ -5003,6 +5066,22 @@ None
 
 -------------------
 
+#### Stilletto
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts (3cl) Amaretto
++ 1 part (1.5cl) Banana Liqueur
++ 2 parts (3cl) Orange Juice
++ 2 parts (3cl) Pineapple Juice
+
+Flamed Orange zest
+
+
+------------------
+
 #### Stinger
 
 Cocktail Glass/Rocks (with ice)
@@ -5035,6 +5114,24 @@ Maraschino Cherry
 
 
 -----------------
+
+#### Suffering Bastard
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 3 parts (4.5cl) Rum
++ 2 parts (3cl) Overproof Rum
++ 2 parts (3cl) Orange Curaçao
++ 1 part (1.5cl) Orgeat
++ 2 parts (3cl) Lime Juice
++ 4 parts (6cl) Orange Juice
+
+Lime and Orange slice
+
+
+-------------------
 
 #### Tea Cocktail
 
@@ -5126,6 +5223,23 @@ _Shake with crushed ice and fine strain_
 + 1 part Whisky
 
 None
+
+
+-------------------
+
+#### Toasted Almond
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 1 part (3cl) Amaretto
++ 1 part (3cl) Kahlua
++ 2 parts (6cl) Cream
+
+None
+
+>Variations: Roasted Almond (add 3cl Vodka)
 
 
 -------------------
