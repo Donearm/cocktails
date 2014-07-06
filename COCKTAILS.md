@@ -182,13 +182,14 @@ None
 
 Cocktail Glass
 
-_Mix Cognac and Marsala. Add Maraschino and bitters. Mix, stronger. Pour in a 
-sugar-brimmed glass_
+_Mix Cognac and Marsala. Add Maraschino and bitters. Mix, stronger_
 
 + 4 parts Cognac
 + 1 part Marsala
 + 1 splash Maraschino
 + 2 drops Angostura bitters
+
+Sugar rim
 
 
 ----------------
