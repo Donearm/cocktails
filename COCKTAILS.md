@@ -265,7 +265,7 @@ _Stir and strain_
 
 Flamed Orange zest
 
->Variations: Club Cocktail (Sweet Vermouth instead of Dry Vermouth)
+>Variations: Club Cocktail (Sweet instead of Dry Vermouth)
 
 
 -----------------
