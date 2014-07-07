@@ -510,12 +510,13 @@ None
 Highball Glass
 
 _Shake first all ingredients with half the rum. Then add the rest of the rum and 
-shake again. Strain. Top with Seltz Water._
+shake again. Strain_
 
 + 3 parts Rum
 + 1 part Lemon Juice
 + 1 Egg Albumen
 + 1 teaspoon Sugar Syrup
++ Top with Seltz Water
 
 None
 
