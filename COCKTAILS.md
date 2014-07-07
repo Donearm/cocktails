@@ -663,8 +663,8 @@ Highball Glass
 
 _Mix in a glass full of ice._
 
-+ 2 parts Cachaça
-+ 1 part of any Fruit Juice
++ 2 parts (6cl) Cachaça
++ 1 part (3cl) of any Fruit Juice
 + 1 tablespoon Sugar
 
 None
