@@ -433,6 +433,7 @@ _Muddle the Mango pieces in shaker, shake and fine strain_
 + 2 part (1.5cl) Apricot Brandy
 + 2 part (1.5cl) Sugar Syrup
 + 3 parts (2cl) Lemon Juice
++ 4 Mango slices
 
 Lemon zest
 
