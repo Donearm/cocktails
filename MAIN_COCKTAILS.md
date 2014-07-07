@@ -282,9 +282,9 @@ Cocktail Glass
 
 _Shake and strain._
 
-+ 9 parts Rum
-+ 4 parts Lime Juice
-+ 1 part Gomme Syrup
++ 9 parts (4.5cl) Rum
++ 4 parts (2cl) Lime Juice
++ 1 part (0.5cl) Gomme Syrup
 
 None
 
