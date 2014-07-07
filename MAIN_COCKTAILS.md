@@ -378,8 +378,8 @@ Cocktail Glass
 
 _Shake and strain._
 
-+ 4 parts Dry Gin
-+ 1 part Lemon Juice
++ 4 parts (4cl) Dry Gin
++ 1 part (1cl) Lemon Juice
 + 1 tablespoon Honey
 
 None
