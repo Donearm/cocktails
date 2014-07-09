@@ -500,11 +500,11 @@ None
 
 Flute
 
-_Shake and strain. Top with Champagne._
+_Shake and strain_ 
 
-+ 1 part Aperol
-+ 1 part Red Orange Juice
-+ 1 part Champagne
++ 1 part (2cl) Aperol
++ 1 part (2cl) Red Orange Juice
++ Top with Champagne
 
 None
 
