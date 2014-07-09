@@ -651,11 +651,10 @@ Cocktail Glass
 
 _Shake and strain_
 
-+ 4 parts Dry Gin
-+ 1 part Vermouth
-+ 1 part Dry Vermouth
++ 4 parts (4cl) Dry Gin
++ 1 part (1cl) Dry Vermouth
 + 1 teaspoon Maraschino
-+ 2 drops Angostura Bitters
++ 2 dashes Angostura Bitters
 
 None
 
