@@ -428,7 +428,7 @@ _Shake, gently, and strain._
 
 None
 
->Variants: 4 parts Vodka, 2 parts Strawberry Liqueur, 1 part Blue Curaçao
+>Variations: 4 parts Vodka, 2 parts Strawberry Liqueur, 1 part Blue Curaçao
 
 
 ----------------
