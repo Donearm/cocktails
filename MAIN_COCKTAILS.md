@@ -603,11 +603,11 @@ Maraschino Cherry and Pineapple Slice
 
 Highball Glass
 
-_Shake Vodka first. Then add Lemonade and Curaçao and shake again. Strain_
+_Shake Vodka first. Then add Curaçao and shake again. Strain_
 
-+ 1 part Vodka
-+ 1 part Blue Curaçao
-+ Top with 4 parts Lemonade
++ 1 part (3cl) Vodka
++ 1 part (3cl) Blue Curaçao
++ Top with Lemonade
 
 Sugar rim
 
