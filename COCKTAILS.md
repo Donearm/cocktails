@@ -1001,10 +1001,10 @@ Highball Glass
 
 _Shake and strain_
 
-+ 1 part Rum
-+ 1 part Blue Curaçao
-+ 2 parts Pineapple Juice
-+ 1 part Coconut Cream
++ 1 part (3cl) Rum
++ 1 part (3cl) Blue Curaçao
++ 2 parts (6cl) Pineapple Juice
++ 1 part (3cl) Coconut Cream
 
 Maraschino Cherry and Pineapple Slice
 
