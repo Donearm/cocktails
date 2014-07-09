@@ -784,8 +784,8 @@ Cocktail Glass
 
 _Shake, gently, and strain._
 
-+ 2 parts Gin
-+ 1 part Black Sambuca
++ 2 parts (3cl) Gin
++ 1 part (1.5cl) Black Sambuca
 
 None
 
