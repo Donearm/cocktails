@@ -729,12 +729,12 @@ Lemon zest
 
 Highball Glass
 
-_Stir with ice. Top with either Lemonade or Seltz Water_
+_Stir and strain_
 
-+ 2 parts Brandy
-+ 1 part Water and Lemon (made with 1 part of Lemon Juice and 4-5 parts of 
-  Water)
++ 2 parts (6cl) Brandy
 + 2-4 drops of Angostura Bitters
++ Top with 1 part (3cl) Water and Lemon (made with 1 part of Lemon Juice and 4-5 parts of 
+  Water)
 
 None
 
