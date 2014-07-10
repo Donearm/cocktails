@@ -746,9 +746,9 @@ Highball Glass
 
 _Shake and strain_
 
-+ 1 part Vodka
-+ 1 part Rum (preferably dark)
-+ 1 part Orange Juice
++ 1 part (3cl) Vodka
++ 1 part (3cl) Rum (preferably dark)
++ 1 part (3cl) Orange Juice
 
 None
 
