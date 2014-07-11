@@ -1641,12 +1641,12 @@ None
 
 #### Chocolate Martini
 
-Martini Glass
+Cocktail Glass
 
 _Shake and strain_
 
-+ 4 parts Vodka
-+ 1 part Creme de Cacao
++ 4 parts (6cl) Vodka
++ 1 part (1.5cl) Creme de Cacao
 
 None
 
