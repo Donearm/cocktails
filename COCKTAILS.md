@@ -1677,10 +1677,10 @@ Cocktail Glass
 
 _Shake and strain_
 
-+ 3 parts Whisky
-+ 1 part Lime Juice
-+ 1 part sweet Vermouth
-+ 1 part Cointreau
++ 3 parts (6cl) Whisky
++ 1 part (2cl) Lime Juice
++ 1 part (2cl) Sweet Vermouth
++ 1 part (2cl) Cointreau
 
 None
 
