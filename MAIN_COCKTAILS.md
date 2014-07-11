@@ -828,7 +828,7 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 6 parts (6cl) Bourbon
++ 8 parts (6cl) Bourbon
 + 4 parts (3cl) Grapefruit Juice
 + 2 parts (1.5cl) Honey Syrup (half water, half honey)
 
