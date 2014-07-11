@@ -843,8 +843,8 @@ Champagne Flute
 
 _Pour the Juice then the Champagne. Mix gently_
 
-+ 2 parts Orange Juice
-+ 1 part Champagne
++ 2 parts (10cl) Orange Juice
++ 1 part (5cl) Champagne
 
 Orange Peel
 
