@@ -948,8 +948,8 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 8 parts Brandy
-+ 1 part Orange Curaçao
++ 6 parts (6cl) Brandy
++ 1 part (1cl) Orange Curaçao
 + 1 dash Angostura Bitters
 
 None
