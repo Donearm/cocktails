@@ -2037,7 +2037,7 @@ Lime wedge
 
 Highball Glass
 
-_Blend sugar and Lime Juice. Then add ice, blend again. Finally the Raspberry 
+_Blend sugar and Lime Juice. Then add ice, blend again. Finally add the Raspberry 
 Juice and the Rum. Blend_
 
 + 8 parts Raspberry Juice
