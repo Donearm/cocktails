@@ -1214,10 +1214,10 @@ Champagne Glass
 
 _Shake with crushed ice and strain_
 
-+ 1 part Rum
-+ 1 part Lime Juice
-+ 1 tablespoon Sugar
-+ 10 drops Maraschino
++ 6 part (6cl) Rum
++ 3 part (3cl) Lime Juice
++ 2 parts (2cl) Sugar Syrup
++ 1 part (1cl) Maraschino
 
 None
 
