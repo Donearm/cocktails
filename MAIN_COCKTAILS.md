@@ -1078,7 +1078,7 @@ _Shake hard and strain over crushed ice_
 
 + 3 parts Brandy
 + 1 part Sugar Syrup
-+ 5 parts Red Wine
++ Fill with Red Wine
 
 Mint sprig
 
