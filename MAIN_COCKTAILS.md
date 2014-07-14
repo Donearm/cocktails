@@ -1320,21 +1320,6 @@ Orange Twist
 
 -----------------
 
-#### El Floridita no.1
-
-Cocktail Glass
-
-_Shake hard and fine strain_
-
-+ 6 parts Rum
-+ 3 parts Lime Juice
-+ 1 part Gomme Syrup
-+ 1 part Maraschino
-
-None
-
------------------
-
 #### El Presidente
 
 Cocktail Glass 
