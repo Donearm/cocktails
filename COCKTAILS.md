@@ -2720,12 +2720,11 @@ None
 
 Champagne Flute
 
-_Muddle strawberries in the flute. Stir and fine strain the rest. Top with 
-Champagne_
+_Muddle strawberries in the flute. Stir and fine strain the rest_
 
 + 3-4 Strawberries
-+ 3 parts Strawberry Vodka
-+ 1 part Cointreau/Triple Sec
++ 3 parts (3cl) Strawberry Vodka
++ 1 part (1cl) Cointreau/Triple Sec
 + 1 splash Lime Juice
 + 1 splash Pineapple Juice
 + 1 splash Raspberry Juice
