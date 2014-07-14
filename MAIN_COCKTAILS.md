@@ -1326,10 +1326,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 6 parts White Rum
-+ 3 parts Pineapple Juice
-+ 2 parts Lime Juice
-+ 1 part Grenadine Syrup
++ 6 parts (4cl) White Rum
++ 3 parts (2cl) Pineapple Juice
++ 2 parts (1.5cl) Lime Juice
++ 1 part (0.75cl) Grenadine Syrup
 
 Lime wedge
 
