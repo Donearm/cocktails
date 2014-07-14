@@ -3009,9 +3009,9 @@ Highball Glass
 
 _Shake and strain_
 
-+ 2 parts Gin
++ 2 parts (6cl) Gin
 + 1/2 teaspoon Sugar
-+ 1 part Lemon Juice
++ 1 part (3cl) Lemon Juice
 
 Orange slice
 
