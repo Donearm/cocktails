@@ -3024,8 +3024,8 @@ Old Fashioned Glass
 
 _Build in glass_
 
-+ 3 parts Scotch Whisky
-+ 3 parts Amaretto
++ 3 parts (3cl) Scotch Whisky
++ 3 parts (3cl) Amaretto
 
 None
 
@@ -3037,8 +3037,8 @@ Old Fashioned Glass
 
 _Build in glass_
 
-+ 3 parts Vodka
-+ 1 part Amaretto
++ 3 parts (3cl) Vodka
++ 1 part (1cl) Amaretto
 
 None
 

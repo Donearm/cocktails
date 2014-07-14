@@ -1586,7 +1586,7 @@ _Shake and strain_
 
 + 2 parts (6cl) Gin
 + 1/2 teaspoon Sugar
-+ 1 part (3cl) Lemon Juice
++ 1 part Lemon Juice
 
 Orange slice
 
@@ -1599,8 +1599,8 @@ Old Fashioned Glass
 
 _Build in glass_
 
-+ 3 parts Scotch Whisky
-+ 3 parts Amaretto
++ 3 parts (3cl) Scotch Whisky
++ 3 parts (3cl) Amaretto
 
 None
 
@@ -1612,8 +1612,8 @@ Old Fashioned Glass
 
 _Build in glass_
 
-+ 3 parts Vodka
-+ 1 part Amaretto
++ 3 parts (3cl) Vodka
++ 1 part (1cl) Amaretto
 
 None
 
