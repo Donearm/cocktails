@@ -3208,7 +3208,7 @@ Cherry and Pineapple wedge
 
 #### Hemingway Special
 
-Cocktail Glass Glass
+Cocktail Glass
 
 _Shake and fine strain_
 

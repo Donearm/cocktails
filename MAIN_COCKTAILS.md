@@ -1719,7 +1719,7 @@ Orange Slice or Maraschino Cherry
 
 #### Hemingway Special
 
-Cocktail Glass Glass
+Cocktail Glass 
 
 _Shake and fine strain_
 
