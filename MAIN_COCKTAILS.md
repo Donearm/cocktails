@@ -1692,10 +1692,10 @@ Cocktail Glass
 
 _Stir in mixing glass_
 
-+ 5 parts Dry Gin
-+ 5 parts Sweet Vermouth
++ 5 parts (5cl) Dry Gin
++ 5 parts (5cl) Sweet Vermouth
 + 1 splash Fernet Branca
-+ 1 part Orange Juice
++ 1 part (1cl) Orange Juice
 
 Orange twist
 
