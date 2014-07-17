@@ -1806,12 +1806,12 @@ Lemon wedge
 
 #### Jack and Coke
 
-Highball Glass
+Collins Glass
 
 _Build in glass_
 
-+ 2 parts DiSaronno Amaretto
-+ 3 parts Whisky
++ 1 part (4cl) Jack Daniel's
++ 3 parts (12cl) Coca Cola
 
 None
 
