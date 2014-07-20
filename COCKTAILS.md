@@ -3559,12 +3559,12 @@ Champagne Glass
 
 _Shake and fine strain_
 
-+ 3 parts Gin
-+ 1 part Lemon Juice
-+ 2 parts Sugar Syrup
-+ 2 parts Kiwi Juice
++ 3 parts (4.5cl) Gin
++ 1 part (1.5cl) Lemon Juice
++ 2 parts (3cl) Sugar Syrup
++ 2 parts (3cl) Kiwi Juice
 + 2 Basil Leaves
-+ Top with 4 parts of Champagne
++ Top with 4 parts (6cl) of Champagne
 
 None
 
