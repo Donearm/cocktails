@@ -1925,9 +1925,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 3 parts Vodka
-+ 1 part Rum
-+ 1 part Lemon Juice
++ 3 parts (4.5cl) Vodka
++ 1 part (1.5cl) Rum
++ 1 part (1.5cl) Lemon Juice
 + 1 teaspoon Grenadine Syrup
 
 None
