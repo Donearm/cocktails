@@ -1903,7 +1903,7 @@ Lime wedge
 
 Wine Goblet
 
-_Stir gently in glass_
+_Build and stir gently in glass_
 
 + 9 parts (9cl) sparkling White Wine
 + 1 part (1cl) Creme de Cassis
