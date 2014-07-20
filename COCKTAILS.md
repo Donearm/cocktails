@@ -3376,9 +3376,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 5 parts Calvados
-+ 1.5 parts Lemon Juice
-+ 1 part Grenadine Syrup
++ 5 parts (6cl) Calvados
++ 1.5 parts (1.5cl) Lemon Juice
++ 1 part (1cl) Grenadine Syrup
 
 Lemon Wedge
 
