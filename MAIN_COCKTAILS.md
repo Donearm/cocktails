@@ -2041,7 +2041,7 @@ Lemon wedge
 -----------------
 
 #### Mai Tai
->Created 1944 by Trader Vic
+>Created in 1944 by Trader Vic
 
 Old Fashioned Glass
 
