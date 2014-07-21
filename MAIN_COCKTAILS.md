@@ -1955,15 +1955,15 @@ None
 
 #### Lemon Drop
 
-Cocktail Glass
+Shot Glass
 
-_Shake hard and fine strain_
+_Drop the sugar cube in glass. Shake hard and fine strain. Pour over sugar_
 
-+ 6 parts Lemon Vodka
-+ 3 parts Lemon Juice
-+ 1 part Gomme Syrup
++ 3 parts (3cl) Lemon Vodka
++ 3 parts (3cl) Lemon Juice
++ 1 Sugar Cube
 
-Lemon twist
+None
 
 
 -----------------
