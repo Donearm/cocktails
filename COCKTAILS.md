@@ -3645,6 +3645,7 @@ _Shake and strain_
 + 2 parts (2cl) Tequila
 + 2 parts (2cl) Cointreau/Triple Sec
 + 3 parts (3cl) Lemon Juice
++ 4 parts (4cl) Sugar Syrup
 + Top with Cranberry Juice
 
 Lemon wedge
@@ -3656,7 +3657,7 @@ Lemon wedge
 
 Collins/Sling Glass
 
-_Build in glass, or shake first ingredients and top with Coke_
+_Build in glass, or shake first ingredients and top_ 
 
 + 2 parts (2cl) Vodka
 + 2 parts (2cl) Dry Gin
