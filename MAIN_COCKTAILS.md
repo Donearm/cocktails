@@ -2213,11 +2213,11 @@ _Slap mint, add other ingredients, churn with crushed ice_
 
 + 4 parts (4cl) Cuban style Rum
 + 3 parts (3cl) Lime Juice
-+ 2 parts Gomme Syrup
++ 2 parts (2cl) Sugar Syrup
 + Approx 8-12 Mint Leaves
 + Top with Soda Water
 
-Lime wedge and mint sprig
+Lime wedge and Mint sprig
 
 >Variations: Mexican Mojito (Tequila instead of Rum), Campari Mojito (Campari 
 >instead of Rum)
