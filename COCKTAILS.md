@@ -4082,10 +4082,10 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 1 part Gin
-+ 1 part Lemon Juice
-+ 1 part Orange Juice
-+ 1 part Strawberry Syrup
++ 1 part (3cl) Gin
++ 1 part (3cl) Lemon Juice
++ 1 part (3cl) Orange Juice
++ 1 part (3cl) Strawberry Syrup
 + 1 dash of Egg Yolk
 
 None
