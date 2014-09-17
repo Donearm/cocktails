@@ -2247,9 +2247,9 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 3 parts Rum
-+ 1 part Grand Marnier
-+ 1 part Lime Juice
++ 3 parts (3cl) Rum
++ 1 part (1cl) Grand Marnier
++ 1 part (1cl) Lime Juice
 + 1 tablespoon Orgeat
 
 None
