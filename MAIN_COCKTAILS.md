@@ -2342,8 +2342,8 @@ Whisky while gently stirring_
 
 Orange twist
 
->Variations: for a quicker preparations, it's possible to use Sugar Syrup 
->instead than the sugar cube
+>Variations: for a quicker preparation, it's possible to use Sugar Syrup 
+>instead of the sugar cube
 
 
 -----------------
