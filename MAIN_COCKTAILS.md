@@ -2354,9 +2354,9 @@ Old Fashioned Glass/Shot Glass
 
 _Build in glass_
 
-+ 1 part Grand Marnier
-+ 1.5 parts Bailey's
-+ 1.5 parts Cointreau
++ 1 part (3cl) Grand Marnier
++ 1.5 parts (4.5cl) Bailey's
++ 1.5 parts (4.5cl) Cointreau
 
 Maraschino Cherry
 
