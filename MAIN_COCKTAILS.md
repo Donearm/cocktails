@@ -2999,8 +2999,8 @@ Cocktail Glass
 
 _Shake and fine strain_
 
-+ 4 parts Vodka
-+ 1 part Lemon Juice
++ 4 parts (4cl) Vodka
++ 1 part (1cl) Lemon Juice
 + 1 tablespoon Sugar Syrup
 
 Lemon zest
