@@ -4776,7 +4776,7 @@ _Stir in mixing glass, strain into Absinthe rinsed glass (no ice)_
 + 5 parts Rye Whiskey or Cognac
 + 1 part (1cl) Absinthe
 + 1 Sugar Cube
-+ 3 dashes Paychards Bitters
++ 3 dashes Peychaud's Bitters
 
 Lemon twist
 
