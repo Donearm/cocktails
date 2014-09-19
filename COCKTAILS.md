@@ -5140,7 +5140,7 @@ Old Fashioned Glass
 
 _Shake and strain_
 
-+ 1 part Tequila
++ 1 part (6cl) Tequila
 + 2 tablespoon Lemon Juice
 + 1 teaspoon Sugar
 
