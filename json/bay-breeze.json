@@ -1,0 +1,26 @@
+{
+	"id": "bay-breeze",
+	"name": "Bay Breeze",
+	"method": "Build in glass. Float the Pineapple Juice",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Cranberry Juice"
+	},
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	}
+	],
+	"glass": "Highball Glass"
+}

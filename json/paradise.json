@@ -1,0 +1,26 @@
+{
+	"id": "paradise",
+	"name": "Paradise",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "7",
+		"amount": "3.5",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "4",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Apricot Brandy"
+	},
+	{
+		"parts": "3",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

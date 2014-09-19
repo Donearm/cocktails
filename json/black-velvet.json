@@ -1,0 +1,21 @@
+{
+	"id": "black-velvet",
+	"name": "Black Velvet",
+	"method": "Pour slowly and stir",
+	"variations": "Poor Man's Black Velvet (replace Guinness with Cider)",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Guinness"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Champagne"
+	}
+	],
+	"glass": "Sparkling Wine Glass"
+}

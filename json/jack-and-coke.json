@@ -1,0 +1,20 @@
+{
+	"id": "jack-and-coke",
+	"name": "Jack and Coke",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Jack Daniel's"
+	},
+	{
+		"parts": "3",
+		"amount": "12",
+		"amountUnits": "cl",
+		"ingredientName": "Coca Cola"
+	}
+	],
+	"glass": "Collins Glass"
+}

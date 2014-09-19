@@ -1,0 +1,62 @@
+{
+	"id": "ramos-fizz",
+	"name": "Ramos Fizz",
+	"method": "Dry shake, shake hard and strain in a Collins glass without ice",
+	"ingredients": [
+	{
+		"parts": "4.5",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1.5",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "1.5",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "1.5",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Cream/Milk"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Egg White"
+	},
+	{
+		"parts": "",
+		"amount": "3",
+		"amountUnits": "Dashes",
+		"ingredientName": "Orange Flower Extract"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Drops",
+		"ingredientName": "Vanilla Extract"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Soda Water"
+	}
+	],
+	"glass": "Collins Glass"
+}

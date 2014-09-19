@@ -1,0 +1,29 @@
+{
+	"id": "caipirinha",
+	"name": "Caipirinha",
+	"description": "",
+	"method": "Muddle in glass. Pour Cachaça. Fill with crushed ice",
+	"variations": "Caipiroska (Vodka instead of Cachaça), Rabo de Galo (2/3 Cachaça and 1/3 Red Vermouth)",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Cachaça"
+	},
+	{
+		"parts": "",
+		"amount": "6",
+		"amountUnits": "Wedges",
+		"ingredientName": "Lime"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Barspoon",
+		"ingredientName": "Brown Sugar"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lime Wedge"
+}

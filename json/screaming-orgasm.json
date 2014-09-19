@@ -1,0 +1,39 @@
+{
+	"id": "screaming-orgasm",
+	"name": "Screaming Orgasm",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Bailey's"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Kahlua/Tia Maria"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Amaretto Liqueur"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Milk or Half'n'Half"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Orange Slice"
+}

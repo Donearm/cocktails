@@ -1,0 +1,44 @@
+{
+	"id": "gin-sling",
+	"name": "Gin Sling",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "4.5",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet Vermouth"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Angostura Bitters"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Soda Water"
+	}
+	],
+	"glass": "Highball Glass"
+}

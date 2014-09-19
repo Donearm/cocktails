@@ -1,0 +1,26 @@
+{
+	"id": "et",
+	"name": "E.T.",
+	"method": "Layer in order",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Midori"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Bailey's"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	}
+	],
+	"glass": "Shot Glass"
+}

@@ -1,0 +1,54 @@
+{
+	"id": "bloody-mary",
+	"name": "Bloody Mary",
+	"method": "",
+	"variations": "Red Snapper (replace Vodka with Gin), Bloody Caesar 
+	(replace Tomato Juice with Clamato Juice), Bull Shot (replace Tomato 
+	Juice with Beef Bouillon or Beef Consomme)",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Pinch",
+		"ingredientName": "Black Pepper"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Pinch",
+		"ingredientName": "Celery Salt"
+	},
+	{
+		"parts": "",
+		"amount": "4",
+		"amountUnits": "Dashes",
+		"ingredientName": "Tabasco (or to taste)"
+	},
+	{
+		"parts": "",
+		"amount": "3",
+		"amountUnits": "Dashes",
+		"ingredientName": "Worcestershire Sauce (or to taste)"
+	},
+	{
+		"parts": "8",
+		"amount": "8",
+		"amountUnits": "cl",
+		"ingredientName": "Tomato Juice"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Salt or Pepper Rim and Celery Stick"
+}

@@ -1,0 +1,27 @@
+{
+	"id": "tequila-sour",
+	"name": "Tequila Sour",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Tequila"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Tablespoons",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Teaspoon",
+		"ingredientName": "Sugar"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lemon Wedge/Zest and Maraschino Cherry"
+}

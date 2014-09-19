@@ -1,0 +1,45 @@
+{
+	"id": "june-bug",
+	"name": "June Bug",
+	"method": "Shake hard and strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Midori"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Malibu Coconut Cream"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Creme de Banane"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Lime Wedge and Pineapple Wedge"
+}

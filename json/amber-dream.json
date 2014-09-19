@@ -1,0 +1,35 @@
+{
+	"id": "amber-dream",
+	"name": "Amber Dream",
+	"description": "From Barkeeper's Golden Book (1935)",
+	"method": "Stir and strain",
+	"variations": "Club Cocktail (Sweet instead of Dry Vermouth)",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Vermouth"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Splash",
+		"ingredientName": "Yellow Chartreuse"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Orange Bitters"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Flamed Orange Zest"
+}

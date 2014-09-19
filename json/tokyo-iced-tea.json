@@ -1,0 +1,57 @@
+{
+	"id": "tokyo-iced-tea",
+	"name": "Tokyo Iced Tea",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "White Rum"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Midori"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Tequila"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Lemonade/Sprite"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Lemon Wedge"
+}

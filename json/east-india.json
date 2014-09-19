@@ -1,0 +1,39 @@
+{
+	"id": "east-india",
+	"name": "East India",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "12",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Cognac"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Grand Marnier"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Maraschino"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Grenadine Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Orange Twist"
+}

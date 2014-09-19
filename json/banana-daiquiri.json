@@ -1,0 +1,26 @@
+{
+	"id": "banana-daiquiri",
+	"name": "Banana Daiquiri",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "9",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Rum"
+	},
+	{
+		"parts": "4",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "0.5",
+		"amountUnits": "cl",
+		"ingredientName": "Gomme Syrup"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

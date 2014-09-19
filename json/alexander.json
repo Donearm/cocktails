@@ -1,0 +1,30 @@
+{
+	"id": "alexander",
+	"name": "Alexander",
+	"method": "Shake with half ice. Strain",
+	"variations": "Coffee Alexander (Coffee Liqueu instead of Gin), Blue 
+	Alexander (Blue Curaçao instead of Creme de Cacao)",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cream"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Creme de Cacao"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Grated Nutmeg"
+
+}

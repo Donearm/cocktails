@@ -1,0 +1,39 @@
+{
+	"id": "apricot-mango-martini",
+	"name": "Apricot-Mango Martini",
+	"method": "Muddle the Mango pieces in shaker. Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "7",
+		"amount": "7",
+		"amountUnits": "cl",
+		"ingredientName": "Tanqueray Gin"
+	},
+	{
+		"parts": "2",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Apricot Brandy"
+	},
+	{
+		"parts": "2",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "3",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "4",
+		"amountUnits": "Slices",
+		"ingredientName": "Mango"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lemon Zest"
+}

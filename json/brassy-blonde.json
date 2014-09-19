@@ -1,0 +1,26 @@
+{
+	"id": "brassy-blonde",
+	"name": "Brassy Blonde",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Citron Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Splash",
+		"ingredientName": "Cointreau"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

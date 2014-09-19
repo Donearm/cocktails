@@ -1,0 +1,39 @@
+{
+	"id": "hemingway-special",
+	"name": "Hemingway Special",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Light Rum"
+	},
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Grapefruit Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Maraschino"
+	},
+	{
+		"parts": "",
+		"amount": "",
+		"amountUnits": "",
+		"ingredientName": "Simple Syrup to taste (optional)"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Orange Slice"
+}

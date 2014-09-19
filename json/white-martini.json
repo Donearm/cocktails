@@ -1,0 +1,28 @@
+{
+	"id": "white-martini",
+	"name": "White Martini",
+	"description": "Recipe per Phil Wood of Roxy Bar and Screen, London",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Dark Rum"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Mozart White Chocolate Liqueur"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Milk"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Finely grated Chocolate"
+}

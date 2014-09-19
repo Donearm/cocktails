@@ -1,0 +1,23 @@
+{
+	"id": "Absinthe-no-2",
+	"name": "Absinthe N°2",
+	"method": "Stir and strain",
+	"ingredients": [
+	{
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"amount": "3",
+		"amountUnits": "cl"
+		"ingredientName": "Absinthe"
+	},
+	{
+		"amount": "2",
+		"amountUnits": "Dashes"
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

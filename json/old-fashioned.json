@@ -1,0 +1,34 @@
+{
+	"id": "old-fashioned",
+	"name": "Old Fashioned",
+	"method": "Muddle the Angostura soaked sugar cube with Soda Water. Gradually add ice and Whisky while gently stirring",
+	"variations": "for a quicker preparation, it's possible to use Sugar Syrup instead of the sugar cube",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Bourbon or Rye Whiskey"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Sugar Cube"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Splash",
+		"ingredientName": "Soda Water"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Orange Twist"
+}

@@ -1,0 +1,45 @@
+{
+	"id": "barnamint-bailey-s",
+	"name": "Barnamint Bailey's",
+	"method": "Blend in blender",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Bailey's"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Creme de Menthe"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Milk"
+	},
+	{
+		"parts": "",
+		"amount": "3",
+		"amountUnits": "",
+		"ingredientName": "Oreo Cookies"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Scoops",
+		"ingredientName": "Vanilla Ice Cream"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Scoop",
+		"ingredientName": "Crushed Ice"
+	}
+	],
+	"glass": "Wine Glass",
+	"garnish": "Oreo Cookie"
+}

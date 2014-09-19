@@ -1,0 +1,32 @@
+{
+	"id": "monkey-tits",
+	"name": "Monkey Tits",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Rum"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Grand Marnier"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "tablespoon",
+		"ingredientName": "Orgeat"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

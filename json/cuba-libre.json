@@ -1,0 +1,28 @@
+{
+	"id": "cuba-libre",
+	"name": "Cuba Libre",
+	"method": "Build in glass",
+	"variations": "Fidel Castro (replace Cola with Ginger Ale)",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Cuban style Rum"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Coca Cola"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Lime Wedge"
+}

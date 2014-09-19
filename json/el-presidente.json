@@ -1,0 +1,33 @@
+{
+	"id": "el-presidente",
+	"name": "El Presidente",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "White Rum"
+	},
+	{
+		"parts": "3",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple"
+	},
+	{
+		"parts": "2",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "0.75",
+		"amountUnits": "cl",
+		"ingredientName": "Grenadine Syrup"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lime Wedge"
+}

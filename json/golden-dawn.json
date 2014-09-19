@@ -1,0 +1,40 @@
+{
+	"id": "golden-dawn",
+	"name": "Golden Dawn",
+	"description": "By Tom Buttery",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "3",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "3",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Apricot Brandy"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Grenadine Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Orange Wedge and Cherry"
+}

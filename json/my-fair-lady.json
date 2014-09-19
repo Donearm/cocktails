@@ -1,0 +1,38 @@
+{
+	"id": "my-fair-lady",
+	"name": "My Fair Lady",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Strawberry Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Egg Yolk"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

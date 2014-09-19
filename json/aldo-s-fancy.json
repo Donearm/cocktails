@@ -1,0 +1,28 @@
+{
+	"id": "aldo-s-fancy",
+	"name": "Aldo's Fancy",
+	"method": "Mix Cognac and Marsala. Add Maraschino and bitters. Mix, 
+	stronger",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Cognac"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Marsala"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Drops",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Sugar rim"
+}

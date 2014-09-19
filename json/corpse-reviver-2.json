@@ -1,0 +1,39 @@
+{
+	"id": "corpse-reviver-2",
+	"name": "Corpse Reviver #2",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Gin"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Triple Sec"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Vermouth"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Splash",
+		"ingredientName": "Absinthe"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lemon Zest"
+}

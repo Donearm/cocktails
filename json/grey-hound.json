@@ -1,0 +1,20 @@
+{
+	"id": "grey-hound",
+	"name": "Grey Hound",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Grapefruit Juice"
+	}
+	],
+	"glass": "Highball Glass"
+}

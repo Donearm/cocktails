@@ -1,0 +1,27 @@
+{
+	"id": "orgasm",
+	"name": "Orgasm",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Grand Marnier"
+	},
+	{
+		"parts": "1.5",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Bailey's"
+	},
+	{
+		"parts": "1.5",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Cointreau"
+	}
+	],
+	"glass": "Old Fashioned Glass/Shot Glass",
+	"garnish": "Maraschino Cherry"
+}

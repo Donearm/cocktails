@@ -1,0 +1,26 @@
+{
+	"id": "brain-haemorrhage",
+	"name": "Brain Haemorrhage",
+	"method": "Layer in order. Sink the Grenadine",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Peach Liqueur"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Bailey's"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Drop",
+		"ingredientName": "Grenadine Syrup"
+	}
+	],
+	"glass": "Shot Glass"
+}

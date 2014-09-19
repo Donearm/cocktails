@@ -1,0 +1,27 @@
+{
+	"id": "cobbler",
+	"name": "Cobbler",
+	"method": "Shake hard and strain over crushed ice",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Brandy"
+	},
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Red Wine"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Mint Sprig"
+}

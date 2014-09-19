@@ -1,0 +1,45 @@
+{
+	"id": "pina-colada",
+	"name": "Piña Colada",
+	"method": "Shake with crushed ice and strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Light Rum"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Coconut Rum"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "1.5",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Coconut Cream"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Cream"
+	},
+	{
+		"parts": "9",
+		"amount": "9",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Pineapple Wedge and Maraschino Cherry"
+}

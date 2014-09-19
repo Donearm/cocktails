@@ -1,0 +1,38 @@
+{
+	"id": "pegu-club",
+	"name": "Pegu Club",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Gin"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Triple Sec"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Orange Bitters"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

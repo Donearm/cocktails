@@ -1,0 +1,20 @@
+{
+	"id": "godmother",
+	"name": "Godmother",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Amaretto Liqueur"
+	}
+	],
+	"glass": "Old Fashioned Glass"
+}

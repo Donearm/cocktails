@@ -1,0 +1,26 @@
+{
+	"id": "chicago",
+	"name": "Chicago",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Brandy"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Curaçao"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

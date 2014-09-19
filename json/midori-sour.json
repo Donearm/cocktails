@@ -1,0 +1,27 @@
+{
+	"id": "midori-sour",
+	"name": "Midori Sour",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Midori"
+	},
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet & Sour Mix"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lemon Wedge and Cherry"
+}

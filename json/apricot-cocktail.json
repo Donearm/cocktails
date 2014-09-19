@@ -1,0 +1,33 @@
+{
+	"id": "apricot-cocktail",
+	"name": "Apricot Cocktail",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Apricot Brandy"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Cherry and Flamed Orange Zest"
+}

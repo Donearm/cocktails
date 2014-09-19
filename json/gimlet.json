@@ -1,0 +1,21 @@
+{
+	"id": "gimlet",
+	"name": "Gimlet",
+	"method": "Stir in mixing glass",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Roses Lime Cordial"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lime Wedge"
+}

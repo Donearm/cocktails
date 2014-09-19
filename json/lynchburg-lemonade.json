@@ -1,0 +1,39 @@
+{
+	"id": "lynchburg-lemonade",
+	"name": "Lynchburg Lemonade",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Jack Daniel's"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Triple Sec"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Lemonade/Sprite"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Lemon Wedge"
+}

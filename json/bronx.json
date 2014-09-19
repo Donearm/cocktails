@@ -1,0 +1,35 @@
+{
+	"id": "bronx",
+	"name": "Bronx",
+	"description": "Created in 1906 by Johnny Solon, Waldorf-Astoria, NY",
+	"method": "Shake hard and fine strain",
+	"variations": "Income Tax (add 2 dashes of Angostura Bitters)",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Gin"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Vermouth"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet Vermouth"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Orange Twist"
+}

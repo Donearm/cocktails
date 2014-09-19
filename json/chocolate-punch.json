@@ -1,0 +1,40 @@
+{
+	"id": "chocolate-punch",
+	"name": "Chocolate Punch",
+	"description": "From 'The Flowing Bowl' by William Schmidt, 1891",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cognac"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Port"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Dark Creme de Cacao"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cream"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Grated Nutmeg"
+}

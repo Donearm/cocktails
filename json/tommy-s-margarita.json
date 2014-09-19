@@ -1,0 +1,27 @@
+{
+	"id": "tommy-s-margarita",
+	"name": "Tommy's Margarita",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Tequila"
+	},
+	{
+		"parts": "2",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Barspoons",
+		"ingredientName": "Agave Syrup"
+	}
+	],
+	"glass": "Cocktail/Old Fashioned Glass",
+	"garnish": "Lime Wedge"
+}

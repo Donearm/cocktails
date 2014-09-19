@@ -1,0 +1,33 @@
+{
+	"id": "blue-hawaiian",
+	"name": "Blue Hawaiian",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Rum"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Blue Curaçao"
+	},
+	{
+		"parts": "2",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Coconut Cream"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Maraschino Cherry and Pineapple Slice"
+}

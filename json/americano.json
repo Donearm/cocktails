@@ -1,0 +1,27 @@
+{
+	"id": "americano",
+	"name": "Americano",
+	"method": "Pour over glass into ice",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet Vermouth"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Campari"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Soda Water"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lemon Zest and Orange Slice"
+}

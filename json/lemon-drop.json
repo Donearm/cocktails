@@ -1,0 +1,26 @@
+{
+	"id": "lemon-drop",
+	"name": "Lemon Drop",
+	"method": "Drop the sugar cube in glass. Shake hard and fine strain. Pour over sugar",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Vodka"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Sugar Cube"
+	}
+	],
+	"glass": "Shot Glass"
+}

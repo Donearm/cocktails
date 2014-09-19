@@ -1,0 +1,33 @@
+{
+	"id": "caribbean-sling",
+	"name": "Caribbean Sling",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Rum"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Cointreau/Triple Sec"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Squeeze",
+		"ingredientName": "Lime or Lemon"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Maraschino Cherry"
+}

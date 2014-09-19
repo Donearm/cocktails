@@ -1,0 +1,28 @@
+{
+	"id": "claret-lemonade",
+	"name": "Claret Lemonade",
+	"description": "From 'Bartender Manual' by Harry Johnson, 1898",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "12",
+		"amount": "12",
+		"amountUnits": "cl",
+		"ingredientName": "Red Wine"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	}
+	],
+	"glass": "Goblet",
+	"garnish": "Lemon Wheel"
+}

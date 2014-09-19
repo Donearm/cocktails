@@ -1,0 +1,27 @@
+{
+	"id": "italia-libre",
+	"name": "Italia Libre",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "7",
+		"amount": "7",
+		"amountUnits": "cl",
+		"ingredientName": "Chinotto"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Dark Rum"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Lemon Wedge"
+}

@@ -1,0 +1,52 @@
+{
+	"id": "flirtini",
+	"name": "Flirtini",
+	"method": "Muddle strawberries in the flute. Stir and fine strain 
+	the rest",
+	"ingredients": [
+	{
+		"parts": "",
+		"amount": "3-4",
+		"amountUnits": "",
+		"ingredientName": "Strawberries"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Strawberry Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Cointreau/Triple Sec"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Splash",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Splash",
+		"ingredientName": "Pineapple Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Splash",
+		"ingredientName": "Raspberry Juice"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Champagne"
+	}
+	],
+	"glass": "Champagne Flute",
+	"garnish": "Mint Sprig"
+}

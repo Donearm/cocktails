@@ -1,0 +1,33 @@
+{
+	"id": "derby-cocktail",
+	"name": "Derby Cocktail",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Whisky"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Vermouth"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Curaçao"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lime Wedge and Mint Leaf"
+}

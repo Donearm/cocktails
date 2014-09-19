@@ -1,0 +1,27 @@
+{
+	"id": "bee-s-kiss",
+	"name": "Bee's Kiss",
+	"description": "From the Ritz Bar in Paris (1936)",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "White Rum"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cream"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Teaspoons",
+		"ingredientName": "Honey"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

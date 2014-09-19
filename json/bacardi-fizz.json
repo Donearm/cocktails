@@ -1,0 +1,39 @@
+{
+	"id": "bacardi-fizz",
+	"name": "Bacardi Fizz",
+	"method": "Shake first all ingredients with half the rum. Then add 
+	the rest of the rum and shake again. Strain and top",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Rum"
+	},
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Egg Albumen"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Teaspoon",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Seltz Water"
+	}
+	],
+	"glass": "Highball Glass"
+}

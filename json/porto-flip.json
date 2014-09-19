@@ -1,0 +1,27 @@
+{
+	"id": "porto-flip",
+	"name": "Porto Flip",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Brandy"
+	},
+	{
+		"parts": "8",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Porto"
+	},
+	{
+		"parts": "2",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Egg Yolk"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Grated Nutmeg"
+}

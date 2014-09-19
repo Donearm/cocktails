@@ -1,0 +1,57 @@
+{
+	"id": "singapore-sling",
+	"name": "Singapore Sling",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "8",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "4",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Cherry Brandy"
+	},
+	{
+		"parts": "2",
+		"amount": "0.75",
+		"amountUnits": "cl",
+		"ingredientName": "Cointreau/Triple Sec"
+	},
+	{
+		"parts": "2",
+		"amount": "0.75",
+		"amountUnits": "cl",
+		"ingredientName": "Benedictine"
+	},
+	{
+		"parts": "3",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Grenadine Syrup"
+	},
+	{
+		"parts": "16",
+		"amount": "12",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	},
+	{
+		"parts": "4",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Sling/Collins Glass",
+	"garnish": "Pineapple Wedge and Maraschino Cherry"
+}

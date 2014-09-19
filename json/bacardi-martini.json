@@ -1,0 +1,27 @@
+{
+	"id": "bacardi-martini",
+	"name": "Bacardi Martini",
+	"method": "Stir and strain",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Bacardi White Rum"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Dry Vermouth"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lime Peel"
+}

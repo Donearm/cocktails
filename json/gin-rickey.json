@@ -1,0 +1,27 @@
+{
+	"id": "gin-rickey",
+	"name": "Gin Rickey",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Soda Water"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Lime Wedge"
+}

@@ -1,0 +1,22 @@
+{
+	"id": "rusty-nail",
+	"name": "Rusty Nail",
+	"method": "Stir in glass",
+	"variations": "Smoky Nail (Islay Whisky instead of Blended Scotch), Clavo Ahumado (Tequila instead of Whisky), Donald Sutherland (Canadian Whiskey instead of Scotch)",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Blended Scotch Whisky"
+	},
+	{
+		"parts": "2",
+		"amount": "2.5",
+		"amountUnits": "cl",
+		"ingredientName": "Drambuie"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lemon Twist"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "bellini",
+	"name": "Bellini",
+	"method": "Build in glass. Stir gently",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Peach Pureé"
+	},
+	{
+		"parts": "2",
+		"amount": "10",
+		"amountUnits": "cl",
+		"ingredientName": "Prosecco"
+	}
+	],
+	"glass": "Sparkling Wine Glass"
+}

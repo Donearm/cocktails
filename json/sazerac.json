@@ -1,0 +1,33 @@
+{
+	"id": "sazerac",
+	"name": "Sazerac",
+	"method": "Stir in mixing glass, strain into Absinthe rinsed glass (no ice)",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Rye Whiskey or Cognac"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Absinthe"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Sugar Cube"
+	},
+	{
+		"parts": "",
+		"amount": "3",
+		"amountUnits": "Dashes",
+		"ingredientName": "Peychaud's Bitters"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lemon Twist"
+}

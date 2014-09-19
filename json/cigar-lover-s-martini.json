@@ -1,0 +1,22 @@
+{
+	"id": "cigar-lover-s-martini",
+	"name": "Cigar Lover's Martini",
+	"description": "By Andrea Immer",
+	"method": "Stir and strain",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "7.5",
+		"amountUnits": "cl",
+		"ingredientName": "VS Cognac"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Tawny Port"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Flamed Orange Zest"
+}

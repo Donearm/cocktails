@@ -1,0 +1,26 @@
+{
+	"id": "brass-monkey",
+	"name": "Brass Monkey",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Rum (preferably dark)"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	}
+	],
+	"glass": "Highball Glass"
+}

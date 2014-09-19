@@ -1,0 +1,26 @@
+{
+	"id": "batida",
+	"name": "Batida",
+	"method": "Mix in a glass full of ice",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Cachaça"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Fruit Juice of choice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Tablespoon",
+		"ingredientName": "Sugar"
+	}
+	],
+	"glass": "Highball Glass"
+}

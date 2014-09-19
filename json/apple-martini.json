@@ -1,0 +1,27 @@
+{
+	"id": "apple-martini",
+	"name": "Apple Martini (Appletini)",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Apple Juice or Apple Cider or Apple Liqueur"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Cointreau"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Apple Slice"
+}

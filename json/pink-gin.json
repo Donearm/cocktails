@@ -1,0 +1,21 @@
+{
+	"id": "pink-gin",
+	"name": "Pink Gin",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Plymouth Gin"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lemon Zest"
+}

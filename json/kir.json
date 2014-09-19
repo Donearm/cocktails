@@ -1,0 +1,26 @@
+{
+	"id": "kir",
+	"name": "Kir",
+	"method": "Build and stir gently in glass",
+	"variations": "Kir Royal (Champagne instead of White Wine), Cardinal 
+	(Red instead of White Wine), Normand (Cider instead of Wine), Cidre 
+	Royal (Cider and Calvados instead of Wine), Peche (with Peach 
+	Liqueur instead of Creme de Cassis), Pamplemousse (Grapefruit 
+	Liqueur added), Tarantino (with Lager Beer instead of Wine), Pink 
+	Russian (with Milk instead of Wine)",
+	"ingredients": [
+	{
+		"parts": "9",
+		"amount": "9",
+		"amountUnits": "cl",
+		"ingredientName": "Sparkling White Wine"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Creme de Cassis"
+	}
+	],
+	"glass": "Wine Goblet"
+}

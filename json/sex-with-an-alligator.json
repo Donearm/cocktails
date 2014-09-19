@@ -1,0 +1,32 @@
+{
+	"id": "sex-with-an-alligator",
+	"name": "Sex With An Alligator",
+	"method": "Shake Midori and Sweet and Sour Mix. Strain in glass. Layer then the Raspberry Liqueur and Jaegermeister, in this order",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Midori"
+	},
+	{
+		"parts": "",
+		"amount": "3-4",
+		"amountUnits": "Splashes",
+		"ingredientName": "Sweet and Sour Mix"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Raspberry Liqueur"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Jaegermeister"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

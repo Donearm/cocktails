@@ -1,0 +1,27 @@
+{
+	"id": "harvey-wallbanger",
+	"name": "Harvey Wallbanger",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "8",
+		"amount": "8",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Galliano"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Orange Slice or Maraschino Cherry"
+}

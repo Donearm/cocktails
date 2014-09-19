@@ -1,0 +1,27 @@
+{
+	"id": "brandy-sour",
+	"name": "Brandy Sour",
+	"method": "Stir and strain. Top with Water And Lemon",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Brandy"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Water And Lemon (made with 1 part of Lemon 
+		Juice and 4-5 parts of Water)"
+	},
+	{
+		"parts": "",
+		"amount": "2-4",
+		"amountUnits": "Drops",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Highball Glass"
+}

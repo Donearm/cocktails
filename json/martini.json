@@ -1,0 +1,22 @@
+{
+	"id": "martini",
+	"name": "Martini",
+	"method": "Stir in mixing glass and strain",
+	"variations": "Wet Martini (slightly more Vermouth), Gibson (Pickled Onion as garnish), Kangeroo/Vodka Martini (Vodka instead of Gin), Dirty Martini (Vodka instead of Gin and 2 parts of Olive Juice)",
+	"ingredients": [
+	{
+		"parts": "12",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Gin"
+	},
+	{
+		"parts": "2",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Vermouth"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lemon Twist or Olive(s) on a stick"
+}

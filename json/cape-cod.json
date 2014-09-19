@@ -1,0 +1,21 @@
+{
+	"id": "cape-cod",
+	"name": "Cape Cod",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Cranberry Juice"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Lime Wedge"
+}

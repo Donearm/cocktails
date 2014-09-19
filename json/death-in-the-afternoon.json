@@ -1,0 +1,20 @@
+{
+	"id": "death-in-the-afternoon",
+	"name": "Death In The Afternoon",
+	"method": "Build in glass. Stir gently",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Absinthe/Pastis"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Champagne"
+	}
+	],
+	"glass": "Champagne Glass"
+}

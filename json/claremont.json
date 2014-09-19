@@ -1,0 +1,45 @@
+{
+	"id": "claremont",
+	"name": "Claremont",
+	"method": "Muddle fruits, bitters and Curaçao. Build Soda and Bourbon in glass",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Bourbon"
+	},
+	{
+		"parts": "4",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Soda Water"
+	},
+	{
+		"parts": "3",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Curaçao"
+	},
+	{
+		"parts": "",
+		"amount": "3",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Orange Slice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Cherry"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Orange Slice and Cherry"
+}

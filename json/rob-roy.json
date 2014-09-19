@@ -1,0 +1,28 @@
+{
+	"id": "rob-roy",
+	"name": "Rob Roy",
+	"method": "Shake and fine strain. No ice",
+	"variations": "on the rocks (lowball and ice)",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Whisky"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet Vermouth"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Maraschino Cherry or Lemon Zest"
+}

@@ -1,0 +1,28 @@
+{
+	"id": "white-russian",
+	"name": "White Russian",
+	"method": "Build in glass",
+	"variations": "Dirty White Mother (Tequila instead of Vodka)",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Kahlua/Tia Maria"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Milk/Cream"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "3 Coffee Beans"
+}

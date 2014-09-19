@@ -1,0 +1,27 @@
+{
+	"id": "cape-codder",
+	"name": "Cape Codder",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Cranberry Juice"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Lime Wedge"
+}

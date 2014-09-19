@@ -1,0 +1,21 @@
+{
+	"id": "stinger",
+	"name": "Stinger",
+	"method": "Stir in a mixing glass and fine strain",
+	"variations": "Vodka Stinger (Vodka instead of Cognac)",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Cognac"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "White Creme de Menthe"
+	}
+	],
+	"glass": "Cocktail Glass/Rocks (with ice)"
+}

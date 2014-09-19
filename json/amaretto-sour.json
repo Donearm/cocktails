@@ -1,0 +1,39 @@
+{
+	"id": "amaretto-sour",
+	"name": "Amaretto Sour",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Amaretto Liqueur"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Splash",
+		"ingredientName": "Gomme Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Whole",
+		"ingredientName": "Egg White"
+	},
+	],
+	"glass": "Coupette Glass",
+	"garnish": "Lemon Zest and Cherry"
+}

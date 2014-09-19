@@ -1,0 +1,33 @@
+{
+	"id": "coffee-cocktail",
+	"name": "Coffee Cocktail",
+	"method": "Shake hard and strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Brandy/Cognac"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Ruby Port"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Egg"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Tablespoon",
+		"ingredientName": "Sugar"
+	}
+	],
+	"glass": "Wine Glass",
+	"garnish": "Grated Nutmeg"
+}

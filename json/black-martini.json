@@ -1,0 +1,22 @@
+{
+	"id": "black-martini",
+	"name": "Black Martini",
+	"method": "Shake, gently, and strain",
+	"variations": "4 parts Vodka, 2 Strawberry Liqueur and 1 Blue 
+	Curaçao",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Black Sambuca"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

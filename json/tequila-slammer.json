@@ -1,0 +1,20 @@
+{
+	"id": "tequila-slammer",
+	"name": "Tequila Slammer",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Tequila"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Soda Water"
+	}
+	],
+	"glass": "Old Fashioned Glass"
+}

@@ -1,0 +1,20 @@
+{
+	"id": "godfather",
+	"name": "Godfather",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Scotch Whisky"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Amaretto Liqueur"
+	}
+	],
+	"glass": "Old Fashioned Glass"
+}

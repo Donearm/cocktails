@@ -1,0 +1,32 @@
+{
+	"id": "daiquiri-floridita",
+	"name": "Daiquiri Floridita",
+	"method": "Shake with crushed ice and strain",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "White Rum"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Maraschino"
+	}
+	],
+	"glass": "Champagne/Cocktail Glass"
+}

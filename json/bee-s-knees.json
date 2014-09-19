@@ -1,0 +1,26 @@
+{
+	"id": "bee-s-knees",
+	"name": "Bee's Knees",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Tablespoon",
+		"ingredientName": "Honey"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

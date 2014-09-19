@@ -1,0 +1,33 @@
+{
+	"id": "espresso-martini",
+	"name": "Espresso Martini",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Coffee Liqueur (Kahlua/Tia Maria)"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Chilled Espresso Coffee"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup (optional)"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "3 Coffee Beans"
+}

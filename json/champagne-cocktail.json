@@ -1,0 +1,27 @@
+{
+	"id": "champagne-cocktail",
+	"name": "Champagne Cocktail",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Cognac"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Champagne"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Sugar cube soaked with Angostura bitters"
+	}
+	],
+	"glass": "Sparkling Wine Glass",
+	"garnish": "Orange Zest"
+}

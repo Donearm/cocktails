@@ -1,0 +1,27 @@
+{
+	"id": "spanish-coffee",
+	"name": "Spanish Coffee",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Licor 43"
+	},
+	{
+		"parts": "6",
+		"amount": "12",
+		"amountUnits": "cl",
+		"ingredientName": "Espresso Coffee"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Whipped Cream"
+	}
+	],
+	"glass": "Wine Glass",
+	"garnish": "Cinnamon or Cocoa Powder"
+}

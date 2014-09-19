@@ -1,0 +1,20 @@
+{
+	"id": "rossini",
+	"name": "Rossini",
+	"method": "Shake and strain/fine strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Raspberry Puree"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Prosecco"
+	}
+	],
+	"glass": "Champagne Flute"
+}

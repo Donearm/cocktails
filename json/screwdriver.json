@@ -1,0 +1,22 @@
+{
+	"id": "screwdriver",
+	"name": "Screwdriver",
+	"method": "Build in glass",
+	"variations": "Mexican Screw (Tequila instead of Vodka), Sloe Screw (Sloe Gin instead of Vodka), American Screw (Bourbon instead of Vodka), French Screw (Cognac instead of Vodka), Italian Screw (Galliano instead of Vodka), Cuban Screw (Rum instead of Vodka)",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "8",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Orange Wedge"
+}

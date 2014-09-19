@@ -1,0 +1,26 @@
+{
+	"id": "blow-job",
+	"name": "Blow Job",
+	"method": "Layer in order",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Coffee Liqueur (Kahlua/Tia Maria)"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Bailey's"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Whipped Cream"
+	}
+	],
+	"glass": "Shot Glass"
+}

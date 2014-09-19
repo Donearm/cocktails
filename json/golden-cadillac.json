@@ -1,0 +1,26 @@
+{
+	"id": "golden-cadillac",
+	"name": "Golden Cadillac",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Galliano"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Creme de Cacao"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cream"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

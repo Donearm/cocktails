@@ -1,0 +1,35 @@
+{
+	"id": "between-the-sheets",
+	"name": "Between The Sheets",
+	"description": "Created in 1930s by Harry MacElhone, Harry's New 
+	York Bar, Paris",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "White Rum"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cognac"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cointreau/Triple Sec"
+	},
+	{
+		"parts": "1.5",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lemon Twist"
+}

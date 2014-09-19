@@ -1,0 +1,63 @@
+{
+	"id": "sangria",
+	"name": "Sangria",
+	"method": "Stir fruits with the wine. Add sugar and cinnamon. Let rest for 4-6 hours. Serve over plenty of ice",
+	"variations": "White instead of Red Wine, added spirits (Vodka or Brandy usually), Champagne instead of Wine",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "",
+		"amountUnits": "",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "4",
+		"amount": "",
+		"amountUnits": "",
+		"ingredientName": "Wine"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Pineapple"
+	},
+	{
+		"parts": "",
+		"amount": "3",
+		"amountUnits": "",
+		"ingredientName": "Peaches"
+	},
+	{
+		"parts": "",
+		"amount": "4",
+		"amountUnits": "",
+		"ingredientName": "Oranges"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "",
+		"ingredientName": "Lemons"
+	},
+	{
+		"parts": "",
+		"amount": "2-3",
+		"amountUnits": "",
+		"ingredientName": "Apples"
+	},
+	{
+		"parts": "",
+		"amount": "1/2",
+		"amountUnits": "",
+		"ingredientName": "Cantaloupe"
+	},
+	{
+		"parts": "",
+		"amount": "",
+		"amountUnits": "",
+		"ingredientName": "Sugar and Cinnamon to taste"
+	}
+	],
+	"glass": "Wine Goblet"
+}

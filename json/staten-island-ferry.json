@@ -1,0 +1,20 @@
+{
+	"id": "staten-island-ferry",
+	"name": "Staten Island Ferry",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Malibu/Coconut Liqueur"
+	},
+	{
+		"parts": "1",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	}
+	],
+	"glass": "Highball Glass"
+}

@@ -1,0 +1,27 @@
+{
+	"id": "tvr",
+	"name": "TVR",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Tequila"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Redbull"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Lime Wedge"
+}

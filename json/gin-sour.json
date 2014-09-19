@@ -1,0 +1,27 @@
+{
+	"id": "gin-sour",
+	"name": "Gin Sour",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1/2",
+		"amountUnits": "Teaspoon",
+		"ingredientName": "Sugar"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Orange Slice"
+}

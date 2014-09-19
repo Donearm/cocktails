@@ -1,0 +1,39 @@
+{
+	"id": "john-collins",
+	"name": "John Collins",
+	"method": "Build and stir in glass",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Angostura Bitters"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Soda Water"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Lemon Slice and Maraschino Cherry"
+}

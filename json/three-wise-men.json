@@ -1,0 +1,26 @@
+{
+	"id": "three-wise-men",
+	"name": "Three Wise Men",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Scotch Whisky"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Tennesse Whiskey"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Bourbon"
+	}
+	],
+	"glass": "Old Fashioned/Shot Glass"
+}

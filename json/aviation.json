@@ -1,0 +1,35 @@
+{
+	"id": "aviation",
+	"name": "Aviation",
+	"method": "Shake hard, fine strain",
+	"variations": "Blue Moon (remove Maraschino), Moonlight (Lime 
+	instead of Lemon and Cointreau instead of Maraschino)",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "London Dry Gin"
+	},
+	{
+		"parts": "3",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "3",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Maraschino"
+	},
+	{
+		"parts": "1",
+		"amount": "0.5",
+		"amountUnits": "cl",
+		"ingredientName": "Creme de Violette"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Cherry"
+}

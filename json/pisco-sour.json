@@ -1,0 +1,32 @@
+{
+	"id": "pisco-sour",
+	"name": "Pisco Sour",
+	"method": "Dry shake, wet shake and strain. No ice",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Pisco"
+	},
+	{
+		"parts": "4",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "3",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Egg White"
+	}
+	],
+	"glass": "Coupette"
+}

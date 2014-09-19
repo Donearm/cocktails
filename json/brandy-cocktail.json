@@ -1,0 +1,35 @@
+{
+	"id": "brandy-cocktail",
+	"name": "Brandy Cocktail",
+	"description": "From Jerry Thomas' The Bon-Vivant's Companion Or How 
+	To Mix Drinks (1862)",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Brandy"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Curaçao"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Peychaud's Bitters"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lemon Zest"
+}

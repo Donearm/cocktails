@@ -1,0 +1,32 @@
+{
+	"id": "churchill",
+	"name": "Churchill",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Whisky"
+	},
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet Vermouth"
+	},
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Cointreau"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

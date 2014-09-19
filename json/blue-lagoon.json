@@ -1,0 +1,28 @@
+{
+	"id": "blue-lagoon",
+	"name": "Blue Lagoon",
+	"method": "Shake only Vodka first. Then add Curaçao and 
+	shake again. Strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Blue Curaçao"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Lemonade"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Sugar Rim"
+}

@@ -1,0 +1,51 @@
+{
+	"id": "planter-s-punch",
+	"name": "Planter's Punch",
+	"method": "Shake and strain. Add Bitters at the end",
+	"ingredients": [
+	{
+		"parts": "4.5",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Dark Rum"
+	},
+	{
+		"parts": "3.5",
+		"amount": "3.5",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "3.5",
+		"amount": "3.5",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Grenadine Syrup"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "3-4",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Maraschino Cherry and Pineapple Wedge"
+}

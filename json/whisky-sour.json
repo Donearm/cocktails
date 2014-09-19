@@ -1,0 +1,40 @@
+{
+	"id": "whisky-sour",
+	"name": "Whisky Sour",
+	"description": "Can dry shake if using egg white for better texture/foam",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Whiskey (usually American)"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Gomme Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters (optional)"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "",
+		"ingredientName": "Egg White (optional)"
+	}
+	],
+	"glass": "Coupette/Old Fashioned Glass",
+	"garnish": "Orange Twist and Maraschino Cherry"
+}

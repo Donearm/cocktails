@@ -1,0 +1,33 @@
+{
+	"id": "culto-a-la-vida",
+	"name": "Culto A La Vida",
+	"method": "Blend Sugar and Lime Juice. Then add ice, blend again. 
+	Finally add the Raspberry Juice and the Rum. Blend",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Rum"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Tablespoon",
+		"ingredientName": "Sugar"
+	},
+	{
+		"parts": "8",
+		"amount": "8",
+		"amountUnits": "cl",
+		"ingredientName": "Raspberry Juice"
+	}
+	],
+	"glass": "Highball Glass"
+}

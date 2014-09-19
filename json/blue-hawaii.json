@@ -1,0 +1,40 @@
+{
+	"id": "blue-hawaii",
+	"name": "Blue Hawaii",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Rum"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Curaçao"
+	},
+	{
+		"parts": "10",
+		"amount": "10",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	},
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet and Sour Mix"
+	}
+	],
+	"glass": "Hurrican Glass",
+	"garnish": "Pineapple or Orange Slice and Maraschino Cherry on a 
+	toothpick"
+}

@@ -1,0 +1,33 @@
+{
+	"id": "brooklyn",
+	"name": "Brooklyn",
+	"method": "Stir in mixing glass",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Bourbon"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Maraschino"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Vermouth"
+	},
+	{
+		"parts": "",
+		"amount": "3",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Maraschino Cherry"
+}

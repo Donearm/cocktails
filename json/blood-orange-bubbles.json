@@ -1,0 +1,26 @@
+{
+	"id": "blood-orange-bubbles",
+	"name": "Blood Orange Bubbles",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Aperol"
+	},
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Red Orange Juice"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Champagne"
+	}
+	],
+	"glass": "Champagne Flute"
+}

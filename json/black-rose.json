@@ -1,0 +1,27 @@
+{
+	"id": "black-rose",
+	"name": "Black Rose",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Bourbon"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Grenadine"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Peychaud's Bitters"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Flamed Lemon Zest"
+}

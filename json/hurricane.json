@@ -1,0 +1,51 @@
+{
+	"id": "hurricane",
+	"name": "Hurricane",
+	"method": "Shake hard and strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Light Rum"
+	},
+	{
+		"parts": "3",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Dark Rum"
+	},
+	{
+		"parts": "3",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "3",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Pineapple Juice"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Roses Lime Cordial or Sugar Syrup"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Passion Fruit Syrup"
+	}
+	],
+	"glass": "Hurricane Glass/Collins Glass",
+	"garnish": "Lime Wedge and Cherry"
+}

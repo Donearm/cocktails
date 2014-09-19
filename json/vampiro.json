@@ -1,0 +1,63 @@
+{
+	"id": "vampiro",
+	"name": "Vampiro",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Tequila"
+	},
+	{
+		"parts": "7",
+		"amount": "7",
+		"amountUnits": "cl",
+		"ingredientName": "Tomato Juice"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Teaspoon",
+		"ingredientName": "Honey"
+	},
+	{
+		"parts": "",
+		"amount": "Half slice",
+		"amountUnits": "",
+		"ingredientName": "Onion (chopped)"
+	},
+	{
+		"parts": "",
+		"amount": "A few",
+		"amountUnits": "Slices",
+		"ingredientName": "Red Chili Peppers"
+	},
+	{
+		"parts": "",
+		"amount": "A few",
+		"amountUnits": "Drops",
+		"ingredientName": "Worcestershire Sauce"
+	},
+	{
+		"parts": "",
+		"amount": "",
+		"amountUnits": "",
+		"ingredientName": "Salt"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Lime Wedge and Chili (Green or Red)"
+}

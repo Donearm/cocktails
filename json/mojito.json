@@ -1,0 +1,41 @@
+{
+	"id": "mojito",
+	"name": "Mojito",
+	"description": "Many bars use 2 bar spoons of white or brown sugar rather than sugar syrup",
+	"method": "Slap mint, add other ingredients, churn with crushed ice",
+	"variations": "Mexican Mojito (Tequila instead of Rum), Campari Mojito (Campari instead of Rum)",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Cuban style Rum"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "8-12",
+		"amountUnits": "",
+		"ingredientName": "Mint leaves"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Soda Water"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Lime Wedge and Mint Sprig"
+}

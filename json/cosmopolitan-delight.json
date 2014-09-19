@@ -1,0 +1,45 @@
+{
+	"id": "cosmopolitan-delight",
+	"name": "Cosmopolitan Delight",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Brandy"
+	},
+	{
+		"parts": "2",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Curaçao"
+	},
+	{
+		"parts": "2",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "4",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Splash",
+		"ingredientName": "Orgeat"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Red Wine"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Seasonal Fruit on rim"
+}

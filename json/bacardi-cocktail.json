@@ -1,0 +1,26 @@
+{
+	"id": "bacardi-cocktail",
+	"name": "Bacardi Cocktail",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "9",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Bacardi Rum"
+	},
+	{
+		"parts": "4",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "0.5",
+		"amountUnits": "cl",
+		"ingredientName": "Grenadine Syrup"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

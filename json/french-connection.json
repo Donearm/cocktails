@@ -1,0 +1,20 @@
+{
+	"id": "french-connection",
+	"name": "French Connection",
+	"method": "Build in glass. Stir gently",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3.5",
+		"amountUnits": "cl",
+		"ingredientName": "Cognac"
+	},
+	{
+		"parts": "3",
+		"amount": "3.5",
+		"amountUnits": "cl",
+		"ingredientName": "Amaretto Liqueur"
+	}
+	],
+	"glass": "Old Fashioned Glass"
+}

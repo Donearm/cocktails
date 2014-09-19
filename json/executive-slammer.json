@@ -1,0 +1,20 @@
+{
+	"id": "executive-slammer",
+	"name": "Executive Slammer",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Tequila"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Champagne"
+	}
+	],
+	"glass": "Old Fashioned Glass"
+}

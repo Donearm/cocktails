@@ -1,0 +1,40 @@
+{
+	"id": "mai-tai",
+	"name": "Mai-tai",
+	"description": "Created in 1944 by Trader Vic",
+	"method": "Shake hard and strain over crushed ice. Float the Dark rum on top",
+	"ingredients": [
+	{
+		"parts": "8",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Light Rum (Jamaican)"
+	},
+	{
+		"parts": "4",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Dark Rum (Jamaican)"
+	},
+	{
+		"parts": "2",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "3",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Triple Sec/Orange Curaçao"
+	},
+	{
+		"parts": "3",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Orgeat"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lime Zest and Pineapple Wedge"
+}

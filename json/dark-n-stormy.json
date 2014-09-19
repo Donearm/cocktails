@@ -1,0 +1,29 @@
+{
+	"id": "dark-n-stormy",
+	"name": "Dark'n'Stormy",
+	"method": "Build in glass",
+	"variations": "Clear and Sunny (Vodka instead of Rum), Partly Cloudy 
+	(Vodka instead of Rum and Gatorade instead of Beer)",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Gosling's Black Rum"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Ginger Beer"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Lime Wedge"
+}

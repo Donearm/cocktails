@@ -1,0 +1,21 @@
+{
+	"id": "buck-s-fizz",
+	"name": "Buck's Fizz",
+	"method": "Pour the Juice then the Champagne. Mix gently",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "10",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "1",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Champagne"
+	}
+	],
+	"glass": "Champagne Flute",
+	"garnish": "Orange Peel"
+}

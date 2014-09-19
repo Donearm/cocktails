@@ -1,0 +1,27 @@
+{
+	"id": "lemon-drop-martini",
+	"name": "Lemon Drop Martini",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "2.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Cointreau/Triple Sec"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Sugar Rim and Lemon Wedge"
+}

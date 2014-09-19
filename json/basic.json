@@ -1,0 +1,29 @@
+{
+	"id": "",
+	"name": "",
+	"description": "",
+	"method": "",
+	"variations": "",
+	"ingredients": [
+	{
+		"parts": "",
+		"amount": "",
+		"amountUnits": "cl",
+		"ingredientName": ""
+	},
+	{
+		"parts": "",
+		"amount": "",
+		"amountUnits": "cl",
+		"ingredientName": ""
+	},
+	{
+		"parts": "",
+		"amount": "",
+		"amountUnits": "cl",
+		"ingredientName": ""
+	}
+	],
+	"glass": "",
+	"garnish": ""
+}

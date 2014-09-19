@@ -1,0 +1,27 @@
+{
+	"id": "horse-s-neck",
+	"name": "Horse's Neck",
+	"method": "Stir in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Brandy/Cognac"
+	},
+	{
+		"parts": "3",
+		"amount": "12",
+		"amountUnits": "cl",
+		"ingredientName": "Ginger Ale"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Dash",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lemon Peel Spiral (put in glass before everything else, ice included)"
+}

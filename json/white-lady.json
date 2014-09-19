@@ -1,0 +1,27 @@
+{
+	"id": "white-lady",
+	"name": "White Lady",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Gin"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Triple Sec"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lemon Twist"
+}

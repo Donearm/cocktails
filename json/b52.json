@@ -1,0 +1,26 @@
+{
+	"id": "b52",
+	"name": "B52",
+	"method": "Layer in order",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Kahlua"
+	},
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Bailey's"
+	},
+	{
+		"parts": "1",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Grand Marnier"
+	}
+	],
+	"glass": "Shot or Highball Glass"
+}

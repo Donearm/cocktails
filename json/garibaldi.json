@@ -1,0 +1,21 @@
+{
+	"id": "garibaldi",
+	"name": "Garibaldi",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Campari"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Orange Juice"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Orange Slice"
+}

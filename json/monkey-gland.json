@@ -1,0 +1,32 @@
+{
+	"id": "monkey-gland",
+	"name": "Monkey Gland",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Drops",
+		"ingredientName": "Absinthe"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Drops",
+		"ingredientName": "Grenadine Syrup"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

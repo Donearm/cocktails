@@ -1,0 +1,27 @@
+{
+	"id": "vodka-sour",
+	"name": "Vodka Sour",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Tablespoon",
+		"ingredientName": "Sugar Syrup"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lemon Zest"
+}

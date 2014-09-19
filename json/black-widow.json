@@ -1,0 +1,20 @@
+{
+	"id": "black-widow",
+	"name": "Black Widow",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Myer's Rum or other Dark Rum"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "White Creme de Menthe"
+	}
+	],
+	"glass": "Old Fashioned Glass"
+}

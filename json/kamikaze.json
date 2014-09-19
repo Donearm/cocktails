@@ -1,0 +1,27 @@
+{
+	"id": "kamikaze",
+	"name": "Kamikaze",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cointreau/Triple Sec"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lime Juice"
+	}
+	],
+	"glass": "Cocktail Glass/Old Fashioned Glass",
+	"garnish": "Lime Wedge"
+}

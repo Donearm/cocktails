@@ -1,0 +1,27 @@
+{
+	"id": "japanese-slipper",
+	"name": "Japanese Slipper",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Midori"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cointreau"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Melon Slice"
+}

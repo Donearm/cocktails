@@ -1,0 +1,40 @@
+{
+	"id": "mint-julep",
+	"name": "Mint Julep",
+	"method": "Muddle ingredients except Bourbon in glass. Add crushed ice and Bourbon. Churn",
+	"variations": "Kremlin Colonel (Vodka instead of Bourbon)",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Bourbon"
+	},
+	{
+		"parts": "",
+		"amount": "4",
+		"amountUnits": "",
+		"ingredientName": "Mint leaves"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Teaspoon",
+		"ingredientName": "Sugar"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Teaspoons",
+		"ingredientName": "Water"
+	},
+	{
+		"parts": "",
+		"amount": "3",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Mint Sprig"
+}

@@ -1,0 +1,44 @@
+{
+	"id": "le-fleur-vert",
+	"name": "Le Fleur Vert",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "4.5",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Kiwi Juice"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "",
+		"ingredientName": "Basil Leaves"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Champagne"
+	}
+	],
+	"glass": "Champagne Glass"
+}

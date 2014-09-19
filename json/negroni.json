@@ -1,0 +1,28 @@
+{
+	"id": "negroni",
+	"name": "Negroni",
+	"method": "Stir in mixing glass, strain",
+	"variations": "Negroni Sbagliato (Spumante instead of Gin), Negroni Malato (add Orange Juice), Negroski (Vodka instead of Gin), Cardinaloski (Vodka instead of Gin and a few Angostura Bitters drops), Cin Cyn (Cynar instead of Campari), Boulevardier (Bourbon instead of Gin), Raultini (Aperol instead of Campari)",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet Vermouth"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Campari"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Orange Twist or Orange Wedge"
+}

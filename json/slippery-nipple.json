@@ -1,0 +1,20 @@
+{
+	"id": "slippery-nipple",
+	"name": "Slippery Nipple",
+	"method": "Layer in order",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sambuca"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Bailey's"
+	}
+	],
+	"glass": "Shot Glass"
+}

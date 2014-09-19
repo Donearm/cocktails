@@ -1,0 +1,21 @@
+{
+	"id": "gin-and-tonic",
+	"name": "Gin and Tonic",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Tonic Water"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Lime Wedge"
+}

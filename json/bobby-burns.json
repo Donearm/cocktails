@@ -1,0 +1,27 @@
+{
+	"id": "bobby-burns",
+	"name": "Bobby Burns",
+	"method": "Shake hard and fine strain",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Scotch Whisky"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet Vermouth"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Benedictine D.O.M."
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Lemon Twist"
+}

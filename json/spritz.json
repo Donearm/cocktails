@@ -1,0 +1,27 @@
+{
+	"id": "spritz",
+	"name": "Spritz",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Prosecco"
+	},
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Aperol"
+	},
+	{
+		"parts": "",
+		"amount": "Top with 1",
+		"amountUnits": "Splash",
+		"ingredientName": "Soda Water"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Orange Slice"
+}

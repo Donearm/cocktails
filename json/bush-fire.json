@@ -1,0 +1,20 @@
+{
+	"id": "bush-fire",
+	"name": "Bush Fire",
+	"method": "Build in glass. Sink the Tabasco",
+	"ingredients": [
+	{
+		"parts": "5",
+		"amount": "5",
+		"amountUnits": "cl",
+		"ingredientName": "Tequila"
+	},
+	{
+		"parts": "",
+		"amount": "4",
+		"amountUnits": "Dashes",
+		"ingredientName": "Tabasco"
+	}
+	],
+	"glass": "Shot Glass"
+}

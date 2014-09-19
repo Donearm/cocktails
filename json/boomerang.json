@@ -1,0 +1,32 @@
+{
+	"id": "boomerang",
+	"name": "Boomerang",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Vermouth"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "Teaspoon",
+		"ingredientName": "Maraschino"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

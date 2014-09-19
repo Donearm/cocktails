@@ -1,0 +1,27 @@
+{
+	"id": "brown-derby",
+	"name": "Brown Derby",
+	"description": "From the Vendome Club in Hollywood, 1930",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "8",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Bourbon"
+	},
+	{
+		"parts": "4",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Grapefruit Juice"
+	},
+	{
+		"parts": "2",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Honey Syrup"
+	}
+	],
+	"glass": "Cocktail Glass"
+}

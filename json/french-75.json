@@ -1,0 +1,34 @@
+{
+	"id": "french-75",
+	"name": "French 75",
+	"method": "Shake hard, fine strain, top and stir gently",
+	"variations": "French 76 (Vodka instead of Gin)",
+	"ingredients": [
+	{
+		"parts": "6",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "3",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "",
+		"amount": "2",
+		"amountUnits": "Dashes",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Champagne"
+	}
+	],
+	"glass": "Sparkling Wine Glass",
+	"garnish": "Lemon Zest"
+}

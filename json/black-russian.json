@@ -1,0 +1,24 @@
+{
+	"id": "black-russian",
+	"name": "Black Russian",
+	"method": "Build in glass. Stir gently",
+	"variations": "Dirty Black Russian (top with Cola), Black Magic (add 
+	a dash of Lemon Juice and garnish with a Lemon twist), Irish Russian 
+	(top with Guinness), Brown Russian (top with Ginger Ale), Brave 
+	Bull/Dirty Mother (Tequila instead of Vodka)",
+	"ingredients": [
+	{
+		"parts": "4",
+		"amount": "4",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Coffee Liqueur (Kahlua/Tia Maria)"
+	}
+	],
+	"glass": "Old Fashioned Glass"
+}

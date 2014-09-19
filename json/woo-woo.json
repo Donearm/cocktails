@@ -1,0 +1,27 @@
+{
+	"id": "woo-woo",
+	"name": "Woo Woo",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Peach Liqueur"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Cranberry Juice"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Lime Wedge"
+}
