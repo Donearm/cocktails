@@ -5172,13 +5172,13 @@ Orange Slice and Maraschino Cherry
 
 #### Three Wise Men
 
-Old Fashioned Glass
+Old Fashioned Glass/Shot Glass
 
 _Build in glass_
 
-+ 1 part Scotch Whisky
-+ 1 part Tennessee Whiskey
-+ 1 part Bourbon
++ 1 part (3cl) Scotch Whisky
++ 1 part (3cl) Tennessee Whiskey
++ 1 part (3cl) Bourbon
 
 None
 
