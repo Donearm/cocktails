@@ -2688,14 +2688,14 @@ Orange slice
 
 #### Sex with an Alligator
 
-Shot Glass
+Cocktail Glass
 
-_Shake Midori and Sweet and Sour Mix. Strain in glass. Layer then the Raspberry liqueur and Jaegermesiter, in this order_
+_Shake Midori and Sweet and Sour Mix. Strain in glass. Layer then the Raspberry liqueur and Jaegermeister, in this order_
 
-+ 3 parts Midori
++ 3 parts (3cl) Midori
 + 3-4 splashes Sweet and Sour Mix
-+ 3 parts Raspberry Liqueur
-+ 1 part Jaegermeister
++ 3 parts (3cl) Raspberry Liqueur
++ 1 part (1cl) Jaegermeister
 
 None
 
