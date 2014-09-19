@@ -5512,22 +5512,22 @@ Lime slice
 ------------------
 
 #### Zombie
->Some recipes add Overproof rum and Absinthe – very strong!
 
 Collins Glass
 
 _Shake hard and strain_
 
-+ 2 parts Light Rum
-+ 2 parts Gold Rum
-+ 2 parts Dark Rum
-+ 1 part Apricot Brandy
-+ 1.5 parts Lime Juice
-+ 2 parts Pineapple Juice
++ 2 parts (3cl) Light Rum
++ 2 parts (3cl) Gold Rum
++ 2 parts (3cl) Dark Rum
++ 1 part (1.5cl) Apricot Brandy
++ 1.5 parts (2cl) Lime Juice
++ 2 parts (3cl) Pineapple Juice
 + 1 dash Grenadine Syrup
 + 1 dash Angostura Bitters
 
 Lime wedge
 
+>Variations: some recipes add Overproof Rum and Absinthe
 
 -----------------
