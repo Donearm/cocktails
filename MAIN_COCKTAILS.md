@@ -3048,9 +3048,9 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 2 parts Dark Rum
-+ 2 parts Mozart White Chocolate Liqueur
-+ 2 parts Milk
++ 2 parts (3cl) Dark Rum
++ 2 parts (3cl) Mozart White Chocolate Liqueur
++ 2 parts (3cl) Milk
 
 Finely grated Chocolate
 
