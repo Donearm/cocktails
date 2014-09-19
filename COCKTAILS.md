@@ -4273,23 +4273,6 @@ _Shake first ingredients_
 Lime wedge and Salt rim
 
 
------------------
-
-#### Papa's Daiquiri
->Also known as Hemingway Daiquiri
-
-Champagne Flute
-
-_Shake with crushed ice and fine strain_
-
-+ 2 parts (4cl) Rum
-+ 1 part (2cl) Grapefruit Juice
-+ 1 teaspoon Sugar
-+ 10 drops of Maraschino
-
-None
-
-
 ------------------
 
 #### Paradise
