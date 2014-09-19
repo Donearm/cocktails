@@ -2802,8 +2802,8 @@ Highball Glass
 
 _Shake and strain_
 
-+ 1 part Malibu/Coconut Liqueur
-+ 1 part Pineapple Juice
++ 1 part (6cl) Malibu/Coconut Liqueur
++ 1 part (6cl) Pineapple Juice
 
 None
 
