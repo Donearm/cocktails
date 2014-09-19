@@ -2369,10 +2369,10 @@ Collins Glass
 
 _Shake hard and strain_
 
-+ 6 parts Pussers Navy Rum
-+ 8 parts Pineapple Juice
-+ 3 parts Orange Juice
-+ 2 parts Coconut Cream
++ 6 parts (6cl) Pusser's Navy Rum
++ 8 parts (8cl) Pineapple Juice
++ 3 parts (3cl) Orange Juice
++ 2 parts (2cl) Coconut Cream
 
 Grated Nutmeg
 
