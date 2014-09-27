@@ -10,12 +10,12 @@
 	},
 	{
 		"amount": "3",
-		"amountUnits": "cl"
+		"amountUnits": "cl",
 		"ingredientName": "Absinthe"
 	},
 	{
 		"amount": "2",
-		"amountUnits": "Dashes"
+		"amountUnits": "Dashes",
 		"ingredientName": "Angostura Bitters"
 	}
 	],

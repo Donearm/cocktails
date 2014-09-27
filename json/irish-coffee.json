@@ -2,11 +2,7 @@
 	"id": "irish-coffee",
 	"name": "Irish Coffee",
 	"method": "Heat Coffee, Whiskey and Sugar. Do not boil. Build in glass and top with Cream",
-	"variations": "Café Amore (2cl Brandy and 2cl Amaretto instead of 
-	Whiskey), Calypso Coffee (Rum and Kahlua, 2cl/2cl, instead of 
-	Whiskey), Mexican Coffee (2cl Tequila and 2cl Kahlua instead of 
-	Whiskey), Kioke Coffee (2cl Brandy and 2cl Kahlua instead of 
-	Whiskey)",
+	"variations": "Café Amore (2cl Brandy and 2cl Amaretto instead of Whiskey), Calypso Coffee (Rum and Kahlua, 2cl/2cl, instead of Whiskey), Mexican Coffee (2cl Tequila and 2cl Kahlua instead of Whiskey), Kioke Coffee (2cl Brandy and 2cl Kahlua instead of Whiskey)",
 	"ingredients": [
 	{
 		"parts": "2",

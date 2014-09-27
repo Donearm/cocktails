@@ -2,9 +2,7 @@
 	"id": "bloody-mary",
 	"name": "Bloody Mary",
 	"method": "",
-	"variations": "Red Snapper (replace Vodka with Gin), Bloody Caesar 
-	(replace Tomato Juice with Clamato Juice), Bull Shot (replace Tomato 
-	Juice with Beef Bouillon or Beef Consomme)",
+	"variations": "Red Snapper (replace Vodka with Gin), Bloody Caesar (replace Tomato Juice with Clamato Juice), Bull Shot (replace Tomato Juice with Beef Bouillon or Beef Consomme)",
 	"ingredients": [
 	{
 		"parts": "5",

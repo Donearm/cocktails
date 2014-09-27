@@ -1,8 +1,7 @@
 {
 	"id": "bacardi-fizz",
 	"name": "Bacardi Fizz",
-	"method": "Shake first all ingredients with half the rum. Then add 
-	the rest of the rum and shake again. Strain and top",
+	"method": "Shake first all ingredients with half the rum. Then add the rest of the rum and shake again. Strain and top",
 	"ingredients": [
 	{
 		"parts": "3",

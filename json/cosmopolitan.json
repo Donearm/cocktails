@@ -2,12 +2,7 @@
 	"id": "cosmopolitan",
 	"name": "Cosmopolitan",
 	"method": "Shake hard and fine strain",
-	"variations": "Rude Cosmo (Tequila instead of Vodka), Blue 
-	Cosmopolitan (white Cranberry Juice instead of red and Blue Curaçao 
-	instead of Triple Sec), Cosmocello (Limoncello instead of Lime 
-	Juice), Peach Cosmopolitan (Peach Schnapps instead of Triple Sec and 
-	Peach Juice instead of Cranberry), Caribe Cosmopolitan (Lemon Rum 
-	instead of Vodka)",
+	"variations": "Rude Cosmo (Tequila instead of Vodka), Blue Cosmopolitan (white Cranberry Juice instead of red and Blue Curaçao instead of Triple Sec), Cosmocello (Limoncello instead of Lime Juice), Peach Cosmopolitan (Peach Schnapps instead of Triple Sec and Peach Juice instead of Cranberry), Caribe Cosmopolitan (Lemon Rum instead of Vodka)",
 	"ingredients": [
 	{
 		"parts": "4",

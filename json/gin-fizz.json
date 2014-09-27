@@ -2,10 +2,7 @@
 	"id": "gin-fizz",
 	"name": "Gin Fizz",
 	"method": "Shake and strain",
-	"variations": "Sloe Gin Fizz (Sloe Gin, simple Sugar and 1 Egg White 
-	instead of normal Gin and the Syrup), Golden Fizz (add 1 Egg Yolk 
-	and make it 4.5 parts of Sugar Syrup), Royal Fizz (add 1 whole Egg 
-	and make it 4.5 parts of Sugar Syrup)",
+	"variations": "Sloe Gin Fizz (Sloe Gin, simple Sugar and 1 Egg White instead of normal Gin and the Syrup), Golden Fizz (add 1 Egg Yolk and make it 4.5 parts of Sugar Syrup), Royal Fizz (add 1 whole Egg and make it 4.5 parts of Sugar Syrup)",
 	"ingredients": [
 	{
 		"parts": "4.5",
