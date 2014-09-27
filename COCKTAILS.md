@@ -371,7 +371,7 @@ Old Fashioned Glass
 
 _Build in glass_
 
-+ 2 parts Aperol
++ 2 parts (6cl) Aperol
 + Fill with Prosecco/Sparkling Wine
 
 Orange Twist
