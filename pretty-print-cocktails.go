@@ -25,8 +25,12 @@ type Recipe struct {
 	Garnish string `json: "garnish"`
 }
 
+func bold(t string) string {
+	return "\033[1m" + t + "\033[0m"
+}
+
 func prettyPrintJSON(r Recipe) {
-	fmt.Println(r.Name)
+	fmt.Println(bold(r.Name))
 	if r.Description != "" {
 		fmt.Println(r.Description)
 	}
@@ -36,16 +40,18 @@ func prettyPrintJSON(r Recipe) {
 		fmt.Println(r.Garnish)
 	}
 	if r.Variations != "" {
-		fmt.Println(r.Variations)
+		fmt.Println("Variations: ")
+		fmt.Println("\t", r.Variations)
 	}
+	fmt.Println("Ingredients: ")
 	for _, v := range r.Ingredients {
 		if v.Parts != "" {
-			fmt.Println(v.Parts, " part(s) /", v.Amount, v.AmountUnits, v.IngredientName)
+			fmt.Println("\t", bold(v.Parts), " part(s) /", bold(v.Amount), v.AmountUnits, v.IngredientName)
 		} else {
 			if v.AmountUnits != "" {
-				fmt.Println(v.Amount, v.AmountUnits, v.IngredientName)
+				fmt.Println("\t", bold(v.Amount), v.AmountUnits, v.IngredientName)
 			} else {
-				fmt.Println(v.Amount, v.IngredientName)
+				fmt.Println("\t", bold(v.Amount), v.IngredientName)
 			}
 		}
 	}
