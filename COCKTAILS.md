@@ -2845,6 +2845,28 @@ Lime wedge
 
 -------------------
 
+#### Fog Cutter
+
+>From Trader Vic's _Book of Food and Drink_
+
+Collins Glass
+
+_Shake with crushed ice and strain_
+
++ 4 parts (6cl) Brugal Rum
++ 2 parts (3cl) Brandy
++ 1 part (1.5cl) Gin
++ 2 parts (3cl) Lemon Juice
++ 2 parts (3cl) Orange Juice
++ 1 part (1.5cl) Orgeat
++ 1 part (1.5cl) Sugar Syrup, optional
++ Float with Sherry
+
+None
+
+
+------------------
+
 #### French 75
 
 Sparkling Wine Glass
