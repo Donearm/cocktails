@@ -1884,6 +1884,21 @@ None
 
 -----------------
 
+#### Colony
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts (4.5cl) Vodka
++ 2 parts (3cl) Southern Comfort
++ 1 part (1.5cl) Lime Juice
+
+Lemon Peel
+
+
+-----------------
+
 #### Colorado Bulldog
 
 Highball Glass
