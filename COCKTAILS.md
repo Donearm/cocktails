@@ -21,6 +21,24 @@ Lemon slice and raspberry				<= Garnish
 
 -----------------
 
+#### 20th Century East India Cocktail
+
+>From Harry Craddock's _Savoy Cocktail Book_
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 5 parts (5cl) Cognac
++ 1 part (1cl) Pineapple Juice
++ 1 part (1cl) Orange Curaçao
++ 1 dash Angostura Bitters
+
+Flamed Orange Peel
+
+
+---------------
+
 #### Abbey Crusta
 
 Cocktail Glass
