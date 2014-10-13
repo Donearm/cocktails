@@ -4630,6 +4630,21 @@ Grated Nutmeg
 
 ------------------
 
+#### Presbyterian
+
+Highball glass
+
+_Build in glass_
+
++ 4 parts (4cl) Bourbon or Blended Whiskey
++ 6 parts (6cl) Soda Water
++ 6 parts (6cl) Ginger Ale
+
+Lemon Peel
+
+
+-----------------
+
 #### Princess
 
 Cocktail Glass
