@@ -1667,7 +1667,8 @@ _Shake hard and fine strain_
 Shaved Chocolate
 
 >Variations: Flying Grasshopper (Vodka instead of Cream), Brown Grasshopper (add 
->Coffee) 
+>Coffee), Coffee Grasshopper (Coffee Liqueur instead of Creme de Cacao), Banshee 
+>(Creme de Banane instead of Creme de Menthe and 2 parts of Cream) 
 
 
 -----------------
