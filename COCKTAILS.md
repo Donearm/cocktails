@@ -1653,6 +1653,23 @@ Grated Nutmeg
 
 --------------------
 
+#### Chiaro di Luna
+
+Champagne Flute
+
+_Muddle 2 Pineapple chunks, half Rosemary sprig and Orgeat. Add ice. Pour 
+Prosecco over a spoon, slowly. Strain_
+
++ 1 tablespoon Orgeat
++ 4 parts (12cl) Prosecco brut
++ 3 Pineapple Wedges
++ 1 Rosemary Sprig, halved
+
+Pineapple Wedge and Half Rosemary Sprig
+
+
+-------------------
+
 #### Chicago
 
 Cocktail Glass
