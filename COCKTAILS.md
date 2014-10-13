@@ -5433,6 +5433,26 @@ Orange twist
 
 -----------------
 
+#### Vodka Espresso
+
+>By Dick Bradsell
+
+Cocktail Glass
+
+_Dust the rim of the glass with an orange peel and a tablespoon of cocoa powder 
+(or grinded cocoa nibs). Place the glass in a freezer to allow the cocoa to dry 
+and set on the rim. Shake and fine strain_
+
++ 3 parts (3cl) Vodka
++ 3 parts (3cl) Espresso Coffee, chilled
++ 2 parts (2cl) Kahlua
++ 2 parts (2cl) Tia Maria
+
+None
+
+
+---------------------
+
 #### Vodka Sour
 
 Cocktail Glass
