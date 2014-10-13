@@ -800,7 +800,8 @@ _Shake hard and fine strain_
 
 Orange twist
 
->Variations: Income Tax (add 2 dashes of Angostura bitters)
+>Variations: Income Tax (add 2 dashes of Angostura bitters), Satan's Whiskers 
+>(add 1.5cl of Grand Marnier)
 
 
 -----------------
