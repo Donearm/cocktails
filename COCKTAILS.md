@@ -589,6 +589,9 @@ _Shake and strain_
 
 Maraschino Cherry and Orange Slice
 
+>Variations: Goombay Smash (Gosling's Black Rum, 4.5cl, instead of the 3 Rums, 
+>1.5cl of Triple Sec and no Orange Juice, Angostura and Grenadine)
+
 
 ----------------
 
