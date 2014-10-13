@@ -572,6 +572,26 @@ None
 
 --------------
 
+#### Bahama Mama
+
+Hurrican/Boca Grande Glass/Goblet
+
+_Shake and strain_
+
++ 2 parts (2cl) White Rum
++ 2 parts (2cl) Anejo Rum
++ 2 parts (2cl) Myer's Dark Rum
++ 1.5 parts (1.5cl) Coconut Rum
++ 8.5 parts (9cl) Pineapple Juice
++ 6 parts (6cl) Orange Juice
++ 1 teaspoon Grenadine Syrup
++ 1 dash Angostura Bitters
+
+Maraschino Cherry and Orange Slice
+
+
+----------------
+
 #### Bakunin
 
 Old Fashioned Glass
