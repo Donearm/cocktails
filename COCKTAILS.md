@@ -2115,6 +2115,27 @@ Orange slice and Cherry
 
 ------------------
 
+#### Cuzco
+
+>By Julie Reiner of Flatiron Lounge
+
+Highball Glass
+
+_Pour Kirschwasser in the highball glass. Swirl around so to coat it and then 
+discard the liquid. Shake and strain the other ingredients_
+
++ 4 parts (6cl) Bar Sol Italia Pisco
++ 1.5 parts (2cl) Aperol
++ 1 part (1.5cl) Lemon Juice
++ 1 part (1.5cl) Grapefruit Juice
++ 1.5 parts (2cl) Sugar Syrup
++ 1 dash Kirschwasser
+
+Grapefruit Twist
+
+
+-----------------
+
 #### Daiquiri
 
 Cocktail Glass
