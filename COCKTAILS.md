@@ -3706,6 +3706,24 @@ Twist of Lemon peel and Twist of Orange peel
 
 --------------
 
+#### London Iced Tea
+
+Collins Glass
+
+_Shake and strain_
+
++ 3 parts (3cl) Gin
++ 3 parts (3cl) Rum
++ 2 parts (2cl) Amaretto Liqueur
++ 3 parts (3cl) Lemon Juice
++ 2 parts (2cl) Sugar Syrup
++ Top with Coca Cola
+
+Lemon Wedge
+
+
+-----------------
+
 #### Long Beach Iced Tea
 
 Highball Glass

@@ -1,0 +1,45 @@
+{
+	"id": "london-iced-tea",
+	"name": "London Iced Tea",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Gin"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Rum"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Amaretto Liqueur"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Lemon Juice"
+	},
+	{
+		"parts": "2",
+		"amount": "2",
+		"amountUnits": "cl",
+		"ingredientName": "Sugar Syrup"
+	},
+	{
+		"parts": "",
+		"amount": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Coca Cola"
+	}
+	],
+	"glass": "Collins Glass",
+	"garnish": "Lemon Wedge"
+}
