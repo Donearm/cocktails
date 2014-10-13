@@ -2861,6 +2861,29 @@ None
 
 ----------------
 
+#### Full Monte
+
+>By Audrey Saunders
+
+Champagne Flute
+
+_Shake and strain_
+
++ 1 part (0.5cl) Vodka
++ 1 part (0.5cl) Gin
++ 1 part (0.5cl) Rum
++ 1 part (0.5cl) Tequila
++ 1 part (0.5cl) Maraschino
++ 2 parts (1cl) Lemon Juice
++ 2 parts (1cl) Sugar Syrup
++ 2 dashes Angostura Bitters
++ Top with Champagne
+
+Maraschino Cherry on a spear
+
+
+----------------
+
 #### Garibaldi
 
 Highball Glass
