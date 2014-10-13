@@ -5114,6 +5114,21 @@ None
 
 -----------------
 
+#### Smith and Curran
+
+Highball Glass
+
+_Build in glass. Top with Soda while stirring_
+
++ 2 parts (6cl) Creme de Cacao
++ 3 parts (9cl) Milk or Half and Half
++ 1.5 parts (4.5cl) Soda Water
+
+None
+
+
+-----------------
+
 #### South Beach
 
 Cocktail Glass
