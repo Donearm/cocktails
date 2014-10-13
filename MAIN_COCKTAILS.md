@@ -2686,6 +2686,9 @@ _Build in glass_
 
 None
 
+>Variations: Madras (Orange juice instead of Grapefruit), Shore Breeze (Rum 
+>instead of Vodka and Pineapple juice instead of Grapefruit)
+
 
 ------------------
 

@@ -2,6 +2,7 @@
 	"id": "sea-breeze",
 	"name": "Sea Breeze",
 	"method": "Build in glass",
+	"variations": "Variations: Madras (Orange juice instead of Grapefruit), Shore Breeze (Rum instead of Vodka and Pineapple juice instead of Grapefruit)",
 	"ingredients": [
 	{
 		"parts": "4",
