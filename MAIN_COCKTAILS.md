@@ -2847,7 +2847,8 @@ _Stir in a mixing glass and fine strain_
 
 None
 
->Variations: Vodka Stinger (Vodka instead of Cognac)
+>Variations: Vodka Stinger (Vodka instead of Cognac), White Spider (Vodka 
+>instead of Cognac and equal parts with Creme de Menthe)
 
 
 -------------------
