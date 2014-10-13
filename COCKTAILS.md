@@ -5417,6 +5417,24 @@ Lemon zest
 
 ------------------
 
+#### Ward Eight
+
+>By Tom Hussion of the Locke-Ober Café in Boston
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 4 parts (6cl) Rye Whiskey
++ 2 parts (3cl) Sugar Syrup
++ 1.5 parts (2cl) Lemon Juice
++ 1 part (1cl) Grenadine Syurp
+
+Maraschino Cherry
+
+
+-----------------
+
 #### Whisk(e)y Sour
 >Can dry shake if using egg white for better texture/foam
 
