@@ -5161,6 +5161,23 @@ None
 
 -------------------
 
+#### Stork Club Cocktail
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 3 parts (4.5cl) Gin
++ 1.5 parts (2cl) Cointreau
++ 2 parts (3cl) Orange Juice
++ 1 part (1.5cl) Lime Juice
++ 1 dash Angostura Bitters
+
+Flamed Orange Peel
+
+
+------------------
+
 #### Strega Daiquiri
 
 Cocktail Glass
