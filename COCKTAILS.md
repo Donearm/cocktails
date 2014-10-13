@@ -3495,6 +3495,23 @@ Lemon wedge
 
 -------------------
 
+#### Italian Egg Cream
+
+Wine Glass
+
+_Build in glass. Finish with the Prosecco while gently stirring as to make some 
+foam_
+
++ 2 parts (2cl) Amaretto DiSaronno
++ 2 parts (2cl) White Creme de Cacao
++ 3 parts (3cl) Milk
++ 9 parts (9cl) Prosecco Brut
+
+None
+
+
+-------------------
+
 #### Jack and Coke
 
 Collins Glass
