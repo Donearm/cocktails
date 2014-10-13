@@ -4642,6 +4642,9 @@ _Dry shake, shake hard and strain in a Collins glass without ice_
 
 None
 
+>Variations: Silver Fizz (remove the Lime, the Milk, the Vanilla extract and the 
+>Orange Flower water)
+
 
 ------------------
 
