@@ -796,6 +796,22 @@ Lime wedge
 
 ----------------
 
+#### Bijou
+
+Cocktail Glass
+
+_Shake and fine strain. Squeeze a lemon peel on top of glass (but discard it afterwards)_
+
++ 3 parts (4.5cl) Plymouth Gin
++ 1 part (1.5cl) Green Chartreuse
++ 1 part (1.5cl) Sweet Vermouth
++ 1 dash Orange Bitters
+
+Maraschino Cherry or Olive
+
+
+---------------
+
 #### Black Martini
 
 Cocktail Glass
