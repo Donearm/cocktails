@@ -73,11 +73,13 @@ func main() {
 	f, err := ioutil.ReadFile(os.Args[1])
 	if err != nil {
 		fmt.Println(err)
+		os.Exit(1)
 	}
 
 	unmarshal_err := json.Unmarshal(f, &recipe)
 	if unmarshal_err != nil {
 		fmt.Println(unmarshal_err)
+		os.Exit(1)
 	}
 
 	prettyPrintJSON(recipe)
