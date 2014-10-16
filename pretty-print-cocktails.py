@@ -38,7 +38,7 @@ def main():
             print("Ingredient - ", e.get('ingredientName'))
             if e.get('parts') is not "":
                 if e.get('amountUnits') is not "":
-                    print(e.get('parts'), "parts /", e.get('amount'), e.get('amountUnits'))
+                    print(e.get('parts'), "parts /", e.get('amount') + e.get('amountUnits'))
                 else:
                     print(e.get('amount'))
             else:
