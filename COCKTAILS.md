@@ -377,8 +377,8 @@ Highball Glass
 
 _Shake and strain_
 
-+ 1 part Aperol
-+ 3 parts Orange Juice
++ 1 part (8cl) Aperol
++ 1 part (8cl) Orange Juice
 
 
 ---------------
