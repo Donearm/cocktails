@@ -1,0 +1,39 @@
+{
+	"id": "pimm-s-cup",
+	"name": "Pimm's Cup",
+	"method": "Build in glass",
+	"ingredients": [
+	{
+		"parts": "1",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Pimm's No.1 Cup"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "slice",
+		"ingredientName": "Orange"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "slice",
+		"ingredientName": "Lemon"
+	}
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "slice",
+		"ingredientName": "Cucumber"
+	},
+	{
+		"parts": "",
+		"amouont": "Top with",
+		"amountUnits": "",
+		"ingredientName": "Lemonade"
+	}
+	],
+	"glass": "Highball Glass",
+	"garnish": "Mint Sprig"
+}
