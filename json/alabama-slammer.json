@@ -1,0 +1,32 @@
+{
+	"id": "alabama-slammer",
+	"name": "Alabama Slammer",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "8",
+		"amountUnits": "cl",
+		"ingredientName": "Amaretto"
+	},
+	{
+		"parts": "3",
+		"amount": "8",
+		"amountUnits": "cl",
+		"ingredientName": "Southern Comfort"
+	},
+	{
+		"parts": "3",
+		"amount": "8",
+		"amountUnits": "cl",
+		"ingredientName": "Sloe Gin"
+	},
+	{
+		"parts": "",
+		"amount": "Fill with",
+		"amountUnits": "",
+		"ingredientName": "Orange Juice"
+	}
+	],
+	"glass": "Collins Glass"
+}

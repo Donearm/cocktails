@@ -186,13 +186,13 @@ Lemon Zest
 
 #### Alabama Slammer
 
-Highball Glass
+Collins Glass
 
 _Build in glass_
 
-+ 1 part (2.5cl) Amaretto
-+ 1 part (2.5cl) Southern Comfort
-+ 1 part (2.5cl) Sloe Gin
++ 3 parts (8cl) Amaretto
++ 3 parts (8cl) Southern Comfort
++ 3 parts (8cl) Sloe Gin
 + Fill with Orange Juice
 
 None
@@ -204,7 +204,6 @@ None
 > Fill with Orange Juice (12cl)
 > Shake hard, strain in 6 Shot glasses and top with 1 dash of Grenadine in each 
 > glass
-
 
 
 ---------------------
