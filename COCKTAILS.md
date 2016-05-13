@@ -4809,7 +4809,7 @@ _Shake and fine strain_
 
 Maraschino Cherry or Lemon zest
 
->Variations: on the rocks (lowball glass and ice)
+>Variations: on the rocks (lowball glass and ice), Affinity (Dry and Sweet Vermouth instead of just Sweet)
 
 
 -----------------------
