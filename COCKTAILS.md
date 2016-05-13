@@ -4566,6 +4566,23 @@ None
 
 -----------------
 
+#### Pimm's Cup
+
+Highball Glass
+
+_Build in glass_
+
++ 1 part (6cl) Pimm's No.1 Cup
++ 1 Orange slice
++ 1 Lemon slice
++ 1 Cucumber slice
++ Top with Lemonade
+
+Mint sprig
+
+
+-----------------
+
 #### Piña Colada
 
 Collins Glass
