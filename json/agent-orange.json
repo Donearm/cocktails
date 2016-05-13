@@ -1,0 +1,33 @@
+{
+	"id": "agent-orange",
+	"name": "Agent Orange",
+	"method": "Shake and strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Vodka"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Grand Marnier"
+	},
+	{
+		"parts": "1",
+		"amount": "1.5",
+		"amountUnits": "cl",
+		"ingredientName": "Triple Sec"
+	},
+	{
+		"parts": "4",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Orange Zest"
+}

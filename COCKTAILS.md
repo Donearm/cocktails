@@ -135,6 +135,21 @@ Orange zest
 >Sherry being 50% more than the Vermouth
 
 
+-----------------
+
+#### Agent Orange
+
+Old Fashioned Glass
+
+_Shake and strain_
+
++ 2 parts (3cl) Vodka
++ 1 part (1.5cl) Grand Marnier
++ 1 part (1.5cl) Triple Sec
++ 4 parts (6cl) Orange Juice
+
+Orange zest
+
 
 -----------------
 
