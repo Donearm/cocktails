@@ -1,0 +1,46 @@
+{
+	"id": "vieux-carre",
+	"name": "Vieux Carré",
+	"description": "Created in 1938 by Walter Bergeron",
+	"method": "Stir in mixing glass and strain",
+	"ingredients": [
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Bourbon"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Cognac"
+	},
+	{
+		"parts": "3",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet Vermouth"
+	},
+	{
+		"parts": "1",
+		"amount": "1",
+		"amountUnits": "cl",
+		"ingredientName": "Benedictine D.O.M."
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "dash",
+		"ingredientName": "Angostura Bitters"
+	},
+	{
+		"parts": "",
+		"amount": "1",
+		"amountUnits": "dash",
+		"ingredientName": "Peychaud's Bitters"
+	}
+	],
+	"glass": "Old Fashioned Glass",
+	"garnish": "Lemon zest"
+}

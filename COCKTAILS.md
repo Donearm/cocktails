@@ -5662,19 +5662,20 @@ Lemon twist
 
 -----------------
 
-#### Vieux Caree
+#### Vieux Carré
 
 Old Fashioned Glass
 
-_Stir in glass_
+_Stir in glass and fine strain_
 
-+ 2 parts Rye Whiskey
-+ 2 parts Cognac
-+ 2 parts Sweet Vermouth
-+ 1 dash Benedictine
-+ 2 dashes Angostura Bitters
++ 3 parts (3cl) Bourbon
++ 3 parts (3cl) Cognac
++ 3 parts (3cl) Sweet Vermouth
++ 1 part (1cl) Benedictine D.O.M.
++ 1 dashe Angostura Bitters
++ 1 dash Peychaud's Bitters
 
-Orange twist
+Orange zest
 
 
 -----------------
