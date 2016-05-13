@@ -54,6 +54,22 @@ Orange peel
 
 ----------------
 
+#### Abbey Martini
+
+Cocktail Glass
+
+_Shake and fine strain_
+
++ 2 parts (6cl) Dry Gin
++ 1 part (3cl) Sweet Vermouth
++ 1 part (3cl) Orange Juice
++ 3 dashes Angostura Bitters
+
+Orange zest
+
+
+----------------
+
 #### ABC Pousse Café
 
 Pousse-cafe or Cordial Glass

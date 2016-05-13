@@ -1,0 +1,33 @@
+{
+	"id": "abbey-martini",
+	"name": "Abbey Martini",
+	"method": "Shake and fine strain",
+	"ingredients": [
+	{
+		"parts": "2",
+		"amount": "6",
+		"amountUnits": "cl",
+		"ingredientName": "Dry Gin"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Sweet Vermouth"
+	},
+	{
+		"parts": "1",
+		"amount": "3",
+		"amountUnits": "cl",
+		"ingredientName": "Orange Juice"
+	},
+	{
+		"parts": "",
+		"amount": "3",
+		"amountUnits": "dashes",
+		"ingredientName": "Angostura Bitters"
+	}
+	],
+	"glass": "Cocktail Glass",
+	"garnish": "Orange Zest"
+}
