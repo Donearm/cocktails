@@ -4262,6 +4262,8 @@ _Build in glass_
 
 Lime wedge
 
+>Variations: Mexican Mule (Tequila instead of Vodka)
+
 
 -----------------
 

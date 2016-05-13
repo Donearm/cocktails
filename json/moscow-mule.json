@@ -2,6 +2,7 @@
 	"id": "moscow-mule",
 	"name": "Moscow Mule",
 	"method": "Build in glass",
+	"variations": "Mexican Mule (Tequila instead of Vodka)",
 	"ingredients": [
 	{
 		"parts": "4",
