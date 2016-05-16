@@ -5229,6 +5229,8 @@ None
 
 #### Southside Cocktail
 
+>Originated at New York's Twenty-One Club during the Prohibition
+
 Cocktail Glass
 
 _Shake hard and fine strain_
@@ -5240,6 +5242,9 @@ _Shake hard and fine strain_
 + (Optional) 1 dash Angostura Bitters
 
 None
+
+>Variations: Northside (Ginger Ale instead of Lemon Juice and Sugar Syrup)
+
 
 -----------------
 
