@@ -3747,12 +3747,12 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-+ 2 parts Dry Gin
-+ 2 parts Green Chartreuse
-+ 2 parts Maraschino
-+ 2 parts Lime juice
++ 3 parts (3cl) Dry Gin
++ 2 parts (2cl) Green Chartreuse
++ 2 parts (2cl) Maraschino
++ 2 parts (2cl) Lime juice
 
-Lime wedge
+Lime wedge or Maraschino Cherry
 
 
 -----------------
