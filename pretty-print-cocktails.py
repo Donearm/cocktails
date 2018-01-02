@@ -52,6 +52,9 @@ def main():
     except IndexError:
         print("No recipe given")
         return 1
+    except FileNotFoundError:
+        print("No recipe with that name exists")
+        return 1
 
 if __name__ == '__main__':
     status = main()
