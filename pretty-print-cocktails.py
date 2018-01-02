@@ -19,42 +19,52 @@ import json
 
 """Pretty printing the cocktails in JSON format"""
 
+def pretty_print_recipe(s):
+    """Pretty Print a Recipe's json"""
+    j_data = json.load(s)
+    print('####')
+    print("Cocktail - ", j_data.get('name'))
+    if 'description' in j_data:
+        print("Description - ", j_data.get('description'))
+    print("Method - ", j_data.get('method'))
+    print("Glass - ", j_data.get('glass'))
+    if 'garnish' in j_data:
+        print("Garnish - ", j_data.get('garnish'))
+    if 'variations' in j_data:
+        print("Variations - ", j_data.get('variations'))
+    print('##')
+
+    for e in j_data.get('ingredients'):
+        print("Ingredient - ", e.get('ingredientName'))
+        if e.get('parts') is not "":
+            if e.get('amountUnits') is not "":
+                print(e.get('parts'), "parts /", e.get('amount') + e.get('amountUnits'))
+            else:
+                print(e.get('amount'))
+        else:
+            if e.get('amountUnits') is not "":
+                print(e.get('amount'), e.get('amountUnits'))
+            else:
+                print(e.get('amount'))
+
+    print('####')
+
 def main():
     try: 
         with open(sys.argv[1]) as f:
-            j_data = json.load(f)
-            print('####')
-            print("Cocktail - ", j_data.get('name'))
-            if 'description' in j_data:
-                print("Description - ", j_data.get('description'))
-            print("Method - ", j_data.get('method'))
-            print("Glass - ", j_data.get('glass'))
-            if 'garnish' in j_data:
-                print("Garnish - ", j_data.get('garnish'))
-            if 'variations' in j_data:
-                print("Variations - ", j_data.get('variations'))
-            print('##')
-
-            for e in j_data.get('ingredients'):
-                print("Ingredient - ", e.get('ingredientName'))
-                if e.get('parts') is not "":
-                    if e.get('amountUnits') is not "":
-                        print(e.get('parts'), "parts /", e.get('amount') + e.get('amountUnits'))
-                    else:
-                        print(e.get('amount'))
-                else:
-                    if e.get('amountUnits') is not "":
-                        print(e.get('amount'), e.get('amountUnits'))
-                    else:
-                        print(e.get('amount'))
-
-            print('####')
+            pretty_print_recipe(f)
+            return 0
     except IndexError:
         print("No recipe given")
         return 1
     except FileNotFoundError:
-        print("No recipe with that name exists")
-        return 1
+        try:
+            with open("json/" + sys.argv[1] + ".json") as f:
+                pretty_print_recipe(f)
+                return 0
+        except FileNotFoundError:
+            print("No recipe with that name exists")
+            return 1
 
 if __name__ == '__main__':
     status = main()
