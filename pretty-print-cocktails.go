@@ -18,6 +18,7 @@ import (
 	"fmt"
 	"os"
 	"io/ioutil"
+	"log"
 )
 
 type Recipe struct {
@@ -72,7 +73,7 @@ func main() {
 	var recipe Recipe
 	f, err := ioutil.ReadFile(os.Args[1])
 	if err != nil {
-		fmt.Println(err)
+		log.Fatal(err)
 		os.Exit(1)
 	}
 
