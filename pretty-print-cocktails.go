@@ -19,6 +19,7 @@ import (
 	"os"
 	"io/ioutil"
 	"log"
+	"strings"
 )
 
 type Recipe struct {
@@ -71,7 +72,15 @@ func prettyPrintJSON(r Recipe) {
 
 func main() {
 	var recipe Recipe
-	f, err := ioutil.ReadFile(os.Args[1])
+	var recipeName string
+	// check if a full path is being given or not
+	if !(strings.HasSuffix(os.Args[1], ".json")) {
+		recipeName = "json/" + os.Args[1] + ".json"
+	} else {
+		recipeName = os.Args[1]
+	}
+
+	f, err := ioutil.ReadFile(recipeName)
 	if err != nil {
 		log.Fatal(err)
 		os.Exit(1)
