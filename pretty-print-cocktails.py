@@ -20,34 +20,38 @@ import json
 """Pretty printing the cocktails in JSON format"""
 
 def main():
-    with open(sys.argv[1]) as f:
-        j_data = json.load(f)
-        print('####')
-        print("Cocktail - ", j_data.get('name'))
-        if 'description' in j_data:
-            print("Description - ", j_data.get('description'))
-        print("Method - ", j_data.get('method'))
-        print("Glass - ", j_data.get('glass'))
-        if 'garnish' in j_data:
-            print("Garnish - ", j_data.get('garnish'))
-        if 'variations' in j_data:
-            print("Variations - ", j_data.get('variations'))
-        print('##')
+    try: 
+        with open(sys.argv[1]) as f:
+            j_data = json.load(f)
+            print('####')
+            print("Cocktail - ", j_data.get('name'))
+            if 'description' in j_data:
+                print("Description - ", j_data.get('description'))
+            print("Method - ", j_data.get('method'))
+            print("Glass - ", j_data.get('glass'))
+            if 'garnish' in j_data:
+                print("Garnish - ", j_data.get('garnish'))
+            if 'variations' in j_data:
+                print("Variations - ", j_data.get('variations'))
+            print('##')
 
-        for e in j_data.get('ingredients'):
-            print("Ingredient - ", e.get('ingredientName'))
-            if e.get('parts') is not "":
-                if e.get('amountUnits') is not "":
-                    print(e.get('parts'), "parts /", e.get('amount') + e.get('amountUnits'))
+            for e in j_data.get('ingredients'):
+                print("Ingredient - ", e.get('ingredientName'))
+                if e.get('parts') is not "":
+                    if e.get('amountUnits') is not "":
+                        print(e.get('parts'), "parts /", e.get('amount') + e.get('amountUnits'))
+                    else:
+                        print(e.get('amount'))
                 else:
-                    print(e.get('amount'))
-            else:
-                if e.get('amountUnits') is not "":
-                    print(e.get('amount'), e.get('amountUnits'))
-                else:
-                    print(e.get('amount'))
+                    if e.get('amountUnits') is not "":
+                        print(e.get('amount'), e.get('amountUnits'))
+                    else:
+                        print(e.get('amount'))
 
-        print('####')
+            print('####')
+    except IndexError:
+        print("No recipe given")
+        return 1
 
 if __name__ == '__main__':
     status = main()
