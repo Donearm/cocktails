@@ -13,3 +13,9 @@ I realise that different bars/bartenders have their own ways of making drinks th
 There are actually 2 different lists: COCKTAILS.md and MAIN\_COCKTAILS.md. The first contains all the cocktails while the latter only the most used or famous (according to my experience, YMMV) ones. All the cocktails in this second list are present in the first one too, I just thought that extracting the main ones in a more compact list would make it easier to look up them. This second recipes' list is also present in JSON format in its own directory.
 
 A couple of scripts are added to easily print recipes in a readable format
+
+## License
+
+GPLv3 © Gianluca Fiore
+
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/W7W7KA0Z)
