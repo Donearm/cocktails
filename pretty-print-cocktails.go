@@ -71,6 +71,10 @@ func prettyPrintJSON(r Recipe) {
 }
 
 func main() {
+	if len(os.Args) <= 1 {
+		fmt.Println("Please insert the desired cocktail's recipe")
+		os.Exit(1)
+	}
 	var recipe Recipe
 	var recipeName string
 	// check if a full path is being given or not
