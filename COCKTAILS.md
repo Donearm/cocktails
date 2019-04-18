@@ -2022,6 +2022,8 @@ Lime Slice
 
 #### Corpse Reviver #2
 
+> The Corpse Reviver #2 as described in the Savoy Cocktail Book is the most commonly drunk of the corpse revivers
+
 Cocktail Glass
 
 _Shake hard and fine strain_
