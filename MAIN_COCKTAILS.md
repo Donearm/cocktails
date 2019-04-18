@@ -1433,6 +1433,8 @@ Mint sprig
 
 #### French 75
 
+> Named after the French 75-millimeter gun, a revolutionary piece of artillery employed during World War I. -— Judge Jr., Here’s How, 1927
+
 Sparkling Wine Glass
 
 _Shake hard, fine strain, top and stir gently_
