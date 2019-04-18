@@ -1,6 +1,7 @@
 {
 	"id": "aviation",
 	"name": "Aviation",
+	"description": "It’s thought that this azure-colored drink, created during the dawn of commercial aviation, may have been named after the ships that flew above the clouds. -- Hugo Ensslin, Recipes for Mixed Drinks, 1916",
 	"method": "Shake hard, fine strain",
 	"variations": "Blue Moon (remove Maraschino), Moonlight (Lime instead of Lemon and Cointreau instead of Maraschino)",
 	"ingredients": [

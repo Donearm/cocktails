@@ -196,6 +196,8 @@ Lemon zest
 
 #### Aviation
 
+> It’s thought that this azure-colored drink, created during the dawn of commercial aviation, may have been named after the ships that flew above the clouds. -- Hugo Ensslin, Recipes for Mixed Drinks, 1916
+
 Cocktail Glass
 
 _Shake hard, fine strain_
