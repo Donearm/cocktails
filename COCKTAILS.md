@@ -1386,7 +1386,8 @@ Orange twist or Slice of a Toast
 -----------------
 
 #### Bronx
->Created in 1906 by Johnny Solon, Waldolf-Astoria, NY.
+
+>Created in 1906 by Johnny Solon, Waldolf-Astoria, NY. The Bronx was named after the zoo, not the borough, and was one of the most popular drinks of its time.
 
 Cocktail Glass
 
