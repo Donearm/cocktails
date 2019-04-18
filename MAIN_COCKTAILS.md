@@ -376,6 +376,8 @@ None
 
 #### Bee's Knees
 
+>  The recipe allegedly appears in a 1930 edition of San Francisco bartender and author Bill Boothby’s cocktail compendium World Drinks and How to Mix Them. However, other evidence suggests Frank Meier, a bartender at the Ritz Paris, was the cocktail’s original creator. It appears in Meier’s 1936 edition of The Artistry of Mixing Drinks
+
 Cocktail Glass
 
 _Shake and strain._
