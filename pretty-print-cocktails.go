@@ -3,7 +3,7 @@ package main
 // Pretty-printing cocktail recipes in JSON format
 //
 ////////////////////////////////////////////////////////////////////////////////
-// Copyright (c) 2014-2015, Gianluca Fiore
+// Copyright (c) 2014-2020, Gianluca Fiore
 //
 //    This program is free software: you can redistribute it and/or modify
 //    it under the terms of the GNU General Public License as published by
