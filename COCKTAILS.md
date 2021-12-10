@@ -253,7 +253,7 @@ _Shake with half ice. Strain_
 
 Grated Nutmeg
 
->Variations: Coffee Alexander (Coffee Liqueur instead of Gin), Blue Alexander 
+>Variations: Coffee Alexander (Coffee Liqueur instead of Gin), Blue Alexander
 >(Blue Curaçao instead of Creme de Cacao)
 
 
@@ -332,9 +332,9 @@ _Shake, fine strain and float_
 
 None
 
->Variations: Dale DeGroff's recipe is same amount of Brandy, Vermouth and Orange 
->Juice, no Creme de Menthe, optional 2 dashes of Sugar Syrup and a Rose petal as 
->garnish
+>Variations: Dale DeGroff's recipe is same amount of Brandy, Vermouth and 
+>Orange Juice, no Creme de Menthe, optional 2 dashes of Sugar Syrup and a Rose
+>petal as garnish
 
 
 ----------------
@@ -5760,6 +5760,25 @@ _Shake and strain_
 + 1 part (1cl) Grenadine Syurp
 
 Maraschino Cherry
+
+
+-----------------
+
+#### Whisky Butter
+
+Martini Glass
+
+_Shake the first 4 ingredients with ice. Fine strain into chilled glass. Float 
+a drizzle of Islay malt whisky on the surface_
+
+* 4.5 parts (4.5cl) Scotch Whisky
+* 3 parts (4cl) Fino Sherry
+* 0.75 parts (0.75cl) Yellow Chartreuse
+* 2.25 parts (2.25cl) Advocaat
+* 0.125 parts (0.125cl) Islay Malt Whisky
+
+None
+
 
 
 -----------------
