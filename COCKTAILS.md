@@ -14,7 +14,7 @@ _Build in glass, drizzle Crème de Mure_  	<= Mix Method
 + 1 part Gomme
 + 1 part Crème de Mure
 
-Lemon slice and raspberry				<= Garnish	
+Lemon slice and raspberry				<= Garnish
 
 >Another version is with Sugar Syrup	<= Variants (if any)
 
@@ -147,7 +147,7 @@ _Shake and fine strain_
 
 Orange zest
 
->Variations: a simpler one is without the Orange Juice and the Sugar Syrup, with 
+>Variations: a simpler one is without the Orange Juice and the Sugar Syrup, with
 >Sherry being 50% more than the Vermouth
 
 
@@ -202,8 +202,7 @@ None
 > 4 parts (2.5cl) Sloe Gin
 > 5 parts (3cl) Vodka
 > Fill with Orange Juice (12cl)
-> Shake hard, strain in 6 Shot glasses and top with 1 dash of Grenadine in each 
-> glass
+> Shake hard, strain in 6 Shot glasses and top with 1 dash of Grenadine in each glass
 
 
 ---------------------
@@ -2713,6 +2712,9 @@ _Shake hard and fine strain_
 + 1 part (1cl) Sugar Syrup (optional)
 
 3 Coffee beans
+
+>Variations: Chocolate Orange Espresso Martini(orange vodka instead of vodka 
+>and 1.5cl of Creme de Cacao)
 
 
 -----------------
