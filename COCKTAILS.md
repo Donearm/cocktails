@@ -1575,6 +1575,22 @@ Lemon twist and Maraschino Cherry
 
 ---------------------
 
+#### Celebration
+
+Martini Glass
+
+_Stir all ingredients with ice and strain into chilled glass_
+
+* 3 parts (3cl) Cognac
+* 3 parts (3cl) Red Vermouth
+* 3 parts (3cl) Red bitter liqueur
+* 2 dashes of Orange bitters
+
+Orange zest twist
+
+
+---------------------
+
 #### Champagne Cocktail
 
 Sparkling Wine Glass
