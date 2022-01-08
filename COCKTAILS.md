@@ -4999,6 +4999,26 @@ Lemon twist
 
 -----------------
 
+#### Saison l'Hiver
+
+> Created by Simon Difford in September 2014
+
+Flute Glass
+
+_Muddle clove in shaker. Add next 3 ingredients, shake with ice. Fine strain in 
+glass. Top with Champagne_
+
+* 1 dried Clove
+* 1 part (1cl) Honey syrup (3 honey to 1 water)
+* 1.5 parts (1.5cl) Sloe Gin
+* 1.5 parts (1.5cl) Lemon juice
+* Top with Champagne
+
+Seasonal berry on rim
+
+
+-----------------
+
 #### Salty Dog
 
 Highball Glass
