@@ -911,8 +911,10 @@ _Build in glass. Stir gently_
 None
 
 >Variations: Dirty Black Russian (top with Cola), Black Magic (add a dash of 
->Lemon Juice and garnish with a lemon twist), Irish Russian (top with Guinness), 
->Brown Russian (top with Ginger Ale), Brave Bull/Dirty Mother (Tequila instead of Vodka)
+>Lemon Juice and garnish with a lemon twist), Irish Russian (top with 
+>Guinness), Brown Russian (top with Ginger Ale), Brave Bull (Tequila instead of 
+>Vodka), Dirty Mother (Brandy instead of Vodka), Dirty White Mother (Brandy 
+>instead of Vodka and top with Heavy Cream)
 
 
 -----------------
@@ -1178,6 +1180,20 @@ Lemon Twist
 
 
 -------------
+
+#### Bocci Ball
+
+Highball Glass
+
+**Build in glass over ice**
+
+* 6 parts (4.5cl) Amaretto
+* Fill with Orange Juice
+
+Orange slice
+
+
+------------
 
 #### Boomerang
 
@@ -3421,6 +3437,7 @@ Cherry and Pineapple wedge
 ----------------
 
 #### Hemingway Special
+> Also known as Hemingway Daiquiri
 
 Cocktail Glass
 
@@ -3616,7 +3633,7 @@ Lemon Wedge
 
 -----------------
 
-#### Japanese Cocktail
+#### Japanese Fizz
 
 Highball Glass
 
@@ -4036,6 +4053,9 @@ _Shake hard and fine strain_
 
 Lime wedge and Salt rim
 
+>Variations: Frozen Margarita (Add crushed ice), Frozen Fruit Margarita (Add 
+>crushed ice and 4 parts of Fruit Puree of choice)
+
 
 -----------------
 
@@ -4117,7 +4137,8 @@ Lemon twist or Olive(s) on a stick
 
 >Variations: Wet Martini (slightly more Vermouth), Gibson (Pickled Onion as 
 >garnish), Kangeroo/Vodka Martini (Vodka instead of Gin), Dirty Martini (Vodka 
->instead of Gin and 2 parts of Olive Juice)
+>instead of Gin and 2 parts of Olive Juice), Straight Up Martini (White Rum and 
+>Lime Juice instead of respectively Gin and Vermouth)
 
 
 -----------------
@@ -4154,6 +4175,22 @@ None
 
 ---------------------
 
+#### Melancholy Baby
+
+Highball Glass
+
+**Blend**
+
+* 6 parts (6cl) Sugar Syrup
+* 4.5 parts (4.5cl) Citrus Vodka
+* 2.5 parts (2.5cl) Lemon Juice
+* 1/2 cup Chopped Cantaloupe
+* 9 parts (9cl) Water
+
+Flamed lemon zest
+
+
+---------------------
 #### Melon Martini
 
 Cocktail Glass

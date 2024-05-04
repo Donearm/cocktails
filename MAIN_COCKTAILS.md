@@ -464,8 +464,10 @@ _Build in glass. Stir gently_
 None
 
 >Variations: Dirty Black Russian (top with Cola), Black Magic (add a dash of 
->Lemon Juice and garnish with a lemon twist), Irish Russian (top with Guinness), 
->Brown Russian (top with Ginger Ale), Brave Bull/Dirty Mother (Tequila instead of Vodka)
+>Lemon Juice and garnish with a lemon twist), Irish Russian (top with 
+>Guinness), Brown Russian (top with Ginger Ale), Brave Bull (Tequila instead of 
+>Vodka), Dirty Mother (Brandy instead of Vodka), Dirty White Mother (Brandy 
+>instead of Vodka and top with Heavy Cream)
 
 
 -----------------
@@ -1729,6 +1731,7 @@ Orange Slice or Maraschino Cherry
 -----------------
 
 #### Hemingway Special
+> Also known as Hemingway Daiquiri
 
 Cocktail Glass 
 
@@ -2130,6 +2133,9 @@ _Shake hard and fine strain_
 
 Lime wedge and Salt rim
 
+>Variations: Frozen Margarita (Add crushed ice), Frozen Fruit Margarita (Add 
+>crushed ice and 4 parts of Fruit Puree of choice)
+
 
 -----------------
 
@@ -2162,7 +2168,8 @@ Lemon twist or Olive(s) on a stick
 
 >Variations: Wet Martini (slightly more Vermouth), Gibson (Pickled Onion as 
 >garnish), Kangeroo/Vodka Martini (Vodka instead of Gin), Dirty Martini (Vodka 
->instead of Gin and 2 parts of Olive Juice)
+>instead of Gin and 2 parts of Olive Juice), Straight Up Martini (White Rum and 
+>Lime Juice instead of respectively Gin and Vermouth)
 
 
 -----------------
